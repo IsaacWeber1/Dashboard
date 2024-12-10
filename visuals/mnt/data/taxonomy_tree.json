@@ -1,0 +1,2003 @@
+{
+    "1": {
+        "_description": "Understanding hydrogen properties",
+        "1": {
+            "_description": "Chemical Properties of Hydrogen",
+            "1": {
+                "_description": "Hydrogen's Forms and Structure"
+            },
+            "2": {
+                "_description": "Volumetric and Energy Density"
+            },
+            "3": {
+                "_description": "Comparison with Other Gases"
+            }
+        },
+        "2": {
+            "_description": "Hydrogen Interactions with Materials",
+            "1": {
+                "_description": "Material Compatibility"
+            },
+            "2": {
+                "_description": "Reaction Mechanisms"
+            }
+        },
+        "3": {
+            "_description": "Property Risks of Hydrogen",
+            "1": {
+                "_description": "Handling Risks",
+                "1": {
+                    "_description": "Odorless Nature"
+                },
+                "2": {
+                    "_description": "Silent Leaks"
+                },
+                "3": {
+                    "_description": "Rapid Ascent"
+                }
+            },
+            "2": {
+                "_description": "Flammability and Explosive Risks"
+            },
+            "3": {
+                "_description": "Containment Risks"
+            }
+        }
+    },
+    "2": {
+        "_description": "Maintenance and Monitoring of Hydrogen Equipment",
+        "1": {
+            "_description": "Equipment Monitoring",
+            "1": {
+                "_description": "Monitoring Techniques",
+                "1": {
+                    "_description": "Visual Inspections"
+                },
+                "2": {
+                    "_description": "Non-Destructive Testing (NDT) Methods",
+                    "1": {
+                        "_description": "Ultrasonic Testing"
+                    },
+                    "2": {
+                        "_description": "Radiographic Testing"
+                    },
+                    "3": {
+                        "_description": "Magnetic Particle Testing"
+                    }
+                }
+            },
+            "2": {
+                "_description": "Digital Twins and Predictive Maintenance",
+                "1": {
+                    "_description": "Using Digital Twin Technology for Monitoring"
+                },
+                "2": {
+                    "_description": "Predictive Analytics for Maintenance Planning"
+                }
+            }
+        },
+        "2": {
+            "_description": "Measurement of Equipment Integrity",
+            "1": {
+                "_description": "Pressure Testing"
+            },
+            "2": {
+                "_description": "Leakage Detection"
+            },
+            "3": {
+                "_description": "Fracture and Crack Analysis"
+            }
+        },
+        "3": {
+            "_description": "Functional Testing of Equipment",
+            "1": {
+                "_description": "Operational Testing",
+                "1": {
+                    "_description": "Checking Vessel Integrity"
+                },
+                "2": {
+                    "_description": "Assessing Valve Functionality"
+                },
+                "3": {
+                    "_description": "Inspecting Pipework and Joints"
+                }
+            },
+            "2": {
+                "_description": "Calibration and Adjustment",
+                "1": {
+                    "_description": "Sensor Calibration"
+                },
+                "2": {
+                    "_description": "Equipment Calibration"
+                }
+            }
+        }
+    },
+    "3": {
+        "_description": "Hydrogen Storage and Transportation",
+        "1": {
+            "_description": "Cryogenic Systems for Hydrogen",
+            "1": {
+                "_description": "Cryogenic Principles and Technology",
+                "1": {
+                    "_description": "Understanding Cryogenics for Hydrogen"
+                },
+                "2": {
+                    "_description": "Cooling Systems and Equipment"
+                },
+                "3": {
+                    "_description": "Insulation Techniques"
+                }
+            },
+            "2": {
+                "_description": "Operation of Cryogenic Systems",
+                "1": {
+                    "_description": "Safe Operation of Cryogenic Systems"
+                },
+                "2": {
+                    "_description": "Monitoring and Control of Cryogenic Temperatures"
+                }
+            }
+        },
+        "2": {
+            "_description": "Hydrogen Stability and Containment",
+            "1": {
+                "_description": "Maintaining Hydrogen in Liquid Form",
+                "1": {
+                    "_description": "Managing Boil-Off"
+                },
+                "2": {
+                    "_description": "Minimizing Heat Transfer"
+                }
+            },
+            "2": {
+                "_description": "Transportation of Cryogenic Hydrogen",
+                "1": {
+                    "_description": "Cryogenic Tanker Operation"
+                },
+                "2": {
+                    "_description": "Safety Procedures for Transporting Cryogenic Hydrogen"
+                }
+            }
+        },
+        "3": {
+            "_description": "Related Systems for Hydrogen Stabilization",
+            "1": {
+                "_description": "Alternative Cooling Methods"
+            },
+            "2": {
+                "_description": "Pressure Management Systems"
+            }
+        }
+    },
+    "4": {
+        "_description": "Understanding hazardous areas involving hydrogen",
+        "1": {
+            "_description": "Identification of Hazardous Zones",
+            "1": {
+                "_description": "Explosive Zones"
+            },
+            "2": {
+                "_description": "Flammable Zones"
+            },
+            "3": {
+                "_description": "Spill Risk Areas"
+            }
+        },
+        "2": {
+            "_description": "Contributing Environmental/Material Factors",
+            "1": {
+                "_description": "Ignition Factors"
+            },
+            "2": {
+                "_description": "Loss of Containment Factors"
+            }
+        },
+        "3": {
+            "_description": "Safety Zones and Emergency Procedures",
+            "1": {
+                "_description": "Safety Zone Identification"
+            },
+            "2": {
+                "_description": "Emergency Procedures"
+            }
+        },
+        "4": {
+            "_description": "Material Selection for Risk Reduction",
+            "1": {
+                "_description": "Corrosion Resistance"
+            },
+            "2": {
+                "_description": "Containment Integrity"
+            },
+            "3": {
+                "_description": "Flammability Reduction"
+            },
+            "4": {
+                "_description": "Explosion Prevention"
+            }
+        }
+    },
+    "5": {
+        "_description": "Understanding Market Dynamics for Hydrogen",
+        "1": {
+            "_description": "Market Demand and Supply Analysis",
+            "1": {
+                "_description": "Factors Influencing Market Demand",
+                "1": {
+                    "_description": "Technological Developments"
+                },
+                "2": {
+                    "_description": "Consumer Trends"
+                },
+                "3": {
+                    "_description": "Industry Adoption Rates"
+                }
+            },
+            "2": {
+                "_description": "Factors Influencing Market Supply",
+                "1": {
+                    "_description": "Production Capacity"
+                },
+                "2": {
+                    "_description": "Availability of Resources"
+                },
+                "3": {
+                    "_description": "Supply Chain Logistics"
+                }
+            }
+        },
+        "2": {
+            "_description": "Government Policy and Regulation",
+            "1": {
+                "_description": "Impact of Government Policy",
+                "1": {
+                    "_description": "Subsidies and Incentives"
+                },
+                "2": {
+                    "_description": "Environmental Regulations"
+                },
+                "3": {
+                    "_description": "Trade and Tariff Policies"
+                }
+            },
+            "2": {
+                "_description": "Regulatory Frameworks",
+                "1": {
+                    "_description": "National and International Standards"
+                },
+                "2": {
+                    "_description": "Safety and Compliance Requirements"
+                },
+                "3": {
+                    "_description": "Market Entry Barriers"
+                }
+            }
+        },
+        "3": {
+            "_description": "Industry Growth Projections",
+            "1": {
+                "_description": "Techno-Economic Analysis",
+                "1": {
+                    "_description": "Cost-Benefit Analysis"
+                },
+                "2": {
+                    "_description": "Market Penetration Scenarios"
+                },
+                "3": {
+                    "_description": "Technology Feasibility Studies"
+                }
+            },
+            "2": {
+                "_description": "Business Case Development",
+                "1": {
+                    "_description": "Strategic Business Planning"
+                },
+                "2": {
+                    "_description": "Investment Justification"
+                },
+                "3": {
+                    "_description": "Presentation and Reporting"
+                }
+            },
+            "3": {
+                "_description": "Environmental Impact Assessment",
+                "1": {
+                    "_description": "Lifecycle Environmental Assessment"
+                },
+                "2": {
+                    "_description": "Sustainability Reporting and Compliance"
+                }
+            }
+        },
+        "4": {
+            "_description": "New Market Opportunities"
+        }
+    },
+    "6": {
+        "_description": "High-Pressure Hydrogen Gas Systems",
+        "1": {
+            "_description": "Hydrogen Pressure Considerations",
+            "1": {
+                "_description": "Comparative Pressure Analysis",
+                "1": {
+                    "_description": "Hydrogen vs. Other Gases"
+                },
+                "2": {
+                    "_description": "Hydrogen vs. Natural Gas"
+                }
+            },
+            "2": {
+                "_description": "Impact of High Pressure on System Design",
+                "1": {
+                    "_description": "Pipeline Sizing"
+                },
+                "2": {
+                    "_description": "Pipeline Density"
+                },
+                "3": {
+                    "_description": "Pressure Management"
+                }
+            }
+        },
+        "2": {
+            "_description": "Materials Selection for Hydrogen Pipelines",
+            "1": {
+                "_description": "Material Requirements for High-Pressure Hydrogen",
+                "1": {
+                    "_description": "Compatibility with Hydrogen"
+                },
+                "2": {
+                    "_description": "Strength and Durability"
+                },
+                "3": {
+                    "_description": "Corrosion Resistance"
+                }
+            },
+            "2": {
+                "_description": "Comparison with Natural Gas Pipeline Materials",
+                "1": {
+                    "_description": "Steel vs. Composite Materials"
+                },
+                "2": {
+                    "_description": "Material Costs and Availability"
+                }
+            }
+        },
+        "3": {
+            "_description": "Pipeline Design and Construction",
+            "1": {
+                "_description": "Design Considerations for Hydrogen Pipelines",
+                "1": {
+                    "_description": "Stress and Strain Analysis"
+                },
+                "2": {
+                    "_description": "Leak Detection and Prevention"
+                },
+                "3": {
+                    "_description": "Thermal Expansion and Contraction"
+                }
+            },
+            "2": {
+                "_description": "Construction Best Practices",
+                "1": {
+                    "_description": "Welding and Jointing Techniques"
+                },
+                "2": {
+                    "_description": "Installation and Testing Procedures"
+                }
+            }
+        },
+        "4": {
+            "_description": "Safety and Operational Planning",
+            "1": {
+                "_description": "Safety Protocols for High-Pressure Hydrogen",
+                "1": {
+                    "_description": "Risk Assessment and Mitigation"
+                },
+                "2": {
+                    "_description": "Emergency Response Planning"
+                }
+            },
+            "2": {
+                "_description": "Operation and Maintenance",
+                "1": {
+                    "_description": "Monitoring and Inspection"
+                },
+                "2": {
+                    "_description": "Pressure Control Systems"
+                },
+                "3": {
+                    "_description": "Regular Maintenance Procedures"
+                }
+            }
+        }
+    },
+    "7": {
+        "_description": "Understanding Hydrogen Fuel Cells",
+        "1": {
+            "_description": "Types of Hydrogen Fuel Cells",
+            "1": {
+                "_description": "Proton Exchange Membrane (PEM) Fuel Cells"
+            },
+            "2": {
+                "_description": "Molten Carbonate (MCFC) Fuel Cells"
+            },
+            "3": {
+                "_description": "Phosphoric Acid (PAFC) Fuel Cells"
+            },
+            "4": {
+                "_description": "Solid Oxide (SOFC) Fuel Cells"
+            },
+            "5": {
+                "_description": "Alkaline (AFC) Fuel Cells"
+            }
+        },
+        "2": {
+            "_description": "Components of Hydrogen Fuel Cells",
+            "1": {
+                "_description": "Membranes and Electrolytes"
+            },
+            "2": {
+                "_description": "Electrodes (Anode and Cathode)"
+            },
+            "3": {
+                "_description": "Catalysts"
+            },
+            "4": {
+                "_description": "Bipolar Plates"
+            }
+        },
+        "3": {
+            "_description": "Chemical and Electrical Processes",
+            "1": {
+                "_description": "Electrochemical Reactions"
+            },
+            "2": {
+                "_description": "Ion Exchange Mechanisms"
+            },
+            "3": {
+                "_description": "Electron Flow and Power Generation"
+            }
+        },
+        "4": {
+            "_description": "Advantages and Disadvantages",
+            "1": {
+                "_description": "Operating Conditions",
+                "1": {
+                    "_description": "Operating Temperatures"
+                },
+                "2": {
+                    "_description": "Pressure Requirements"
+                }
+            },
+            "2": {
+                "_description": "Efficiency and Performance"
+            },
+            "3": {
+                "_description": "Waste and By-Products"
+            },
+            "4": {
+                "_description": "Application Contexts"
+            }
+        }
+    },
+    "8": {
+        "_description": "Fuel Cell Maintenance and Replacement",
+        "1": {
+            "_description": "Identification of Degraded Fuel Cells",
+            "1": {
+                "_description": "Signs of Fuel Cell Degradation",
+                "1": {
+                    "_description": "Performance Decline"
+                },
+                "2": {
+                    "_description": "Visual Inspection Indicators"
+                },
+                "3": {
+                    "_description": "Diagnostic Testing Results"
+                }
+            }
+        },
+        "2": {
+            "_description": "Decision-Making for Replacement",
+            "1": {
+                "_description": "Assessing the Severity of Degradation"
+            },
+            "2": {
+                "_description": "Cost-Benefit Analysis for Replacement"
+            }
+        },
+        "3": {
+            "_description": "Arranging for Fuel Cell Replacement",
+            "1": {
+                "_description": "Sourcing and Ordering Replacement Units"
+            },
+            "2": {
+                "_description": "Scheduling Replacement Operations"
+            }
+        },
+        "4": {
+            "_description": "Undertaking Fuel Cell Replacement",
+            "1": {
+                "_description": "Safe Removal of Degraded Units"
+            },
+            "2": {
+                "_description": "Installation of New Fuel Cells"
+            },
+            "3": {
+                "_description": "Post-Replacement Testing and Verification"
+            }
+        }
+    },
+    "9": {
+        "_description": "Interpretation and Application of Technical Drawings in Hydrogen Systems",
+        "1": {
+            "_description": "Understanding Technical Drawings and Diagrams",
+            "1": {
+                "_description": "Reading and Interpreting Plans"
+            },
+            "2": {
+                "_description": "Analyzing System Diagrams"
+            },
+            "3": {
+                "_description": "Decoding Engineering Drawings"
+            },
+            "4": {
+                "_description": "Interpreting Graphs and Tables"
+            }
+        },
+        "2": {
+            "_description": "Application of Standards and Regulations",
+            "1": {
+                "_description": "Identifying Relevant Standards"
+            },
+            "2": {
+                "_description": "Applying Regulatory Requirements"
+            },
+            "3": {
+                "_description": "Ensuring Compliance with Safety Standards"
+            }
+        },
+        "3": {
+            "_description": "Material Implications in Hydrogen Systems",
+            "1": {
+                "_description": "Material Selection Criteria"
+            },
+            "2": {
+                "_description": "Assessing Material Compatibility with Hydrogen"
+            },
+            "3": {
+                "_description": "Evaluating Material Durability and Corrosion Resistance"
+            }
+        },
+        "4": {
+            "_description": "Hazardous Area Requirements",
+            "1": {
+                "_description": "Identifying Hazardous Zones"
+            },
+            "2": {
+                "_description": "Safety Measures for Hazardous Areas"
+            },
+            "3": {
+                "_description": "Operational Implications in Hazardous Environments"
+            }
+        }
+    },
+    "10": {
+        "_description": "Cooling Systems in Hydrogen Production Plants",
+        "1": {
+            "_description": "Types of Cooling Systems",
+            "1": {
+                "_description": "Cooling Systems for Electrolysers"
+            },
+            "2": {
+                "_description": "Cooling Systems for Compressors"
+            },
+            "3": {
+                "_description": "Cooling Systems for Storage Units"
+            }
+        },
+        "2": {
+            "_description": "Operation of Cooling Systems",
+            "1": {
+                "_description": "Cooling Mechanisms and Principles"
+            },
+            "2": {
+                "_description": "Flow and Heat Exchange Processes"
+            },
+            "3": {
+                "_description": "Control Systems for Temperature Regulation"
+            }
+        },
+        "3": {
+            "_description": "Benefits of Cooling Systems",
+            "1": {
+                "_description": "Efficiency Improvements"
+            },
+            "2": {
+                "_description": "Equipment Longevity"
+            },
+            "3": {
+                "_description": "Safety Enhancements"
+            }
+        },
+        "4": {
+            "_description": "Maintenance and Monitoring",
+            "1": {
+                "_description": "Routine Maintenance Procedures"
+            },
+            "2": {
+                "_description": "Monitoring System Performance"
+            },
+            "3": {
+                "_description": "Troubleshooting and Repairs"
+            }
+        }
+    },
+    "11": {
+        "_description": "Hydrogen Production via Steam Methane Reforming (SMR)",
+        "1": {
+            "_description": "Overview of Steam Methane Reforming",
+            "1": {
+                "_description": "Fundamentals of SMR Technology"
+            },
+            "2": {
+                "_description": "Role of Natural Gas in Hydrogen Production"
+            }
+        },
+        "2": {
+            "_description": "Key Stages in the SMR Process",
+            "1": {
+                "_description": "Natural Gas Pre-Treatment"
+            },
+            "2": {
+                "_description": "Reforming Reaction",
+                "1": {
+                    "_description": "Primary Reforming"
+                },
+                "2": {
+                    "_description": "Secondary Reforming"
+                }
+            },
+            "3": {
+                "_description": "Water-Gas Shift Reaction",
+                "1": {
+                    "_description": "High-Temperature Shift"
+                },
+                "2": {
+                    "_description": "Low-Temperature Shift"
+                }
+            },
+            "4": {
+                "_description": "Hydrogen Purification",
+                "1": {
+                    "_description": "Pressure Swing Adsorption (PSA)"
+                },
+                "2": {
+                    "_description": "Membrane Separation"
+                }
+            }
+        },
+        "3": {
+            "_description": "Technological Requirements",
+            "1": {
+                "_description": "Catalysts Used in SMR"
+            },
+            "2": {
+                "_description": "Temperature and Pressure Conditions"
+            },
+            "3": {
+                "_description": "Equipment and Reactor Design"
+            }
+        },
+        "4": {
+            "_description": "Environmental and Efficiency Considerations",
+            "1": {
+                "_description": "CO2 Emissions and Capture"
+            },
+            "2": {
+                "_description": "Energy Efficiency of the SMR Process"
+            },
+            "3": {
+                "_description": "Impact on Feedstock Consumption"
+            }
+        }
+    },
+    "12": {
+        "_description": "Hydrogen Production via Coal Gasification",
+        "1": {
+            "_description": "Overview of Coal Gasification",
+            "1": {
+                "_description": "Fundamentals of Coal Gasification Technology"
+            },
+            "2": {
+                "_description": "Role of Coal as a Feedstock for Hydrogen Production"
+            }
+        },
+        "2": {
+            "_description": "Key Stages in the Coal Gasification Process",
+            "1": {
+                "_description": "Coal Preparation and Feeding"
+            },
+            "2": {
+                "_description": "Gasification Reaction",
+                "1": {
+                    "_description": "Partial Oxidation"
+                },
+                "2": {
+                    "_description": "Steam Addition"
+                }
+            },
+            "3": {
+                "_description": "Syngas Cleanup",
+                "1": {
+                    "_description": "Removal of Particulates"
+                },
+                "2": {
+                    "_description": "Acid Gas Removal"
+                }
+            },
+            "4": {
+                "_description": "Water-Gas Shift Reaction",
+                "1": {
+                    "_description": "Conversion of CO to CO2 and H2"
+                }
+            },
+            "5": {
+                "_description": "Hydrogen Purification",
+                "1": {
+                    "_description": "Pressure Swing Adsorption (PSA)"
+                },
+                "2": {
+                    "_description": "Membrane Separation"
+                }
+            }
+        },
+        "3": {
+            "_description": "Technological Requirements",
+            "1": {
+                "_description": "Gasifiers Used in Coal Gasification",
+                "1": {
+                    "_description": "Fixed-Bed Gasifiers"
+                },
+                "2": {
+                    "_description": "Fluidized-Bed Gasifiers"
+                },
+                "3": {
+                    "_description": "Entrained-Flow Gasifiers"
+                }
+            },
+            "2": {
+                "_description": "Temperature and Pressure Conditions"
+            },
+            "3": {
+                "_description": "Catalysts and Reagents"
+            }
+        },
+        "4": {
+            "_description": "Environmental and Efficiency Considerations",
+            "1": {
+                "_description": "CO2 Emissions and Capture"
+            },
+            "2": {
+                "_description": "Management of By-Products (e.g., slag, tar)"
+            },
+            "3": {
+                "_description": "Energy Efficiency of the Gasification Process"
+            }
+        }
+    },
+    "13": {
+        "_description": "Hydrogen Compression and Storage",
+        "1": {
+            "_description": "Conversion of Hydrogen to Compressed Gas",
+            "1": {
+                "_description": "Principles of Hydrogen Compression"
+            },
+            "2": {
+                "_description": "Compression Technologies",
+                "1": {
+                    "_description": "Mechanical Compressors"
+                },
+                "2": {
+                    "_description": "Electrochemical Compressors"
+                }
+            }
+        },
+        "2": {
+            "_description": "Material Properties of Compressed Hydrogen",
+            "1": {
+                "_description": "Physical and Chemical Properties under Compression"
+            },
+            "2": {
+                "_description": "Behavior of Hydrogen under High Pressure"
+            },
+            "3": {
+                "_description": "Interaction with Storage Materials",
+                "1": {
+                    "_description": "Material Compatibility"
+                },
+                "2": {
+                    "_description": "Hydrogen Embrittlement"
+                }
+            }
+        },
+        "3": {
+            "_description": "Storage of Compressed Hydrogen",
+            "1": {
+                "_description": "Types of Storage Vessels",
+                "1": {
+                    "_description": "High-Pressure Cylinders"
+                },
+                "2": {
+                    "_description": "Composite Tanks"
+                }
+            },
+            "2": {
+                "_description": "Safety and Regulatory Requirements",
+                "1": {
+                    "_description": "Pressure Relief Devices"
+                },
+                "2": {
+                    "_description": "Safety Protocols for Storage"
+                }
+            },
+            "3": {
+                "_description": "Maintenance and Monitoring of Storage Systems",
+                "1": {
+                    "_description": "Regular Inspection and Testing"
+                },
+                "2": {
+                    "_description": "Leak Detection and Prevention"
+                }
+            }
+        }
+    },
+    "14": {
+        "_description": "Hydrogen Liquefaction and Storage",
+        "1": {
+            "_description": "Conversion of Hydrogen to Liquid Form",
+            "1": {
+                "_description": "Principles of Hydrogen Liquefaction"
+            },
+            "2": {
+                "_description": "Liquefaction Technologies",
+                "1": {
+                    "_description": "Cryogenic Cooling Systems"
+                },
+                "2": {
+                    "_description": "Liquefaction Process Stages"
+                }
+            }
+        },
+        "2": {
+            "_description": "Material Properties of Liquid Hydrogen",
+            "1": {
+                "_description": "Physical and Chemical Properties at Cryogenic Temperatures"
+            },
+            "2": {
+                "_description": "Behavior of Hydrogen as a Liquid"
+            },
+            "3": {
+                "_description": "Interaction with Storage Materials",
+                "1": {
+                    "_description": "Material Compatibility at Low Temperatures"
+                },
+                "2": {
+                    "_description": "Thermal Conductivity and Insulation Needs"
+                }
+            }
+        },
+        "3": {
+            "_description": "Storage of Liquid Hydrogen",
+            "1": {
+                "_description": "Types of Storage Containers",
+                "1": {
+                    "_description": "Cryogenic Tanks"
+                },
+                "2": {
+                    "_description": "Insulated Storage Vessels"
+                }
+            },
+            "2": {
+                "_description": "Safety and Regulatory Requirements",
+                "1": {
+                    "_description": "Boil-Off Management"
+                },
+                "2": {
+                    "_description": "Safety Protocols for Cryogenic Storage"
+                }
+            },
+            "3": {
+                "_description": "Maintenance and Monitoring of Storage Systems",
+                "1": {
+                    "_description": "Regular Inspection and Testing"
+                },
+                "2": {
+                    "_description": "Leak Detection and Cryogenic Safety Measures"
+                }
+            }
+        }
+    },
+    "15": {
+        "_description": "Hydrogen Conversion to Chemical Carriers",
+        "1": {
+            "_description": "Conversion of Hydrogen to Chemical Compounds",
+            "1": {
+                "_description": "Hydrogen-to-Ammonia Conversion"
+            },
+            "2": {
+                "_description": "Hydrogen-to-Methane Conversion"
+            },
+            "3": {
+                "_description": "Other Hydrogen Carriers (e.g., Methanol)"
+            }
+        },
+        "2": {
+            "_description": "Material Properties of Hydrogen Carriers",
+            "1": {
+                "_description": "Chemical Properties of Ammonia"
+            },
+            "2": {
+                "_description": "Chemical Properties of Methane"
+            },
+            "3": {
+                "_description": "Stability and Reactivity of Hydrogen Carriers"
+            }
+        },
+        "3": {
+            "_description": "Storage of Hydrogen Carriers",
+            "1": {
+                "_description": "Storage Requirements for Ammonia",
+                "1": {
+                    "_description": "Pressure and Temperature Considerations"
+                },
+                "2": {
+                    "_description": "Corrosion and Material Compatibility"
+                }
+            },
+            "2": {
+                "_description": "Storage Requirements for Methane",
+                "1": {
+                    "_description": "Storage in Compressed or Liquefied Form"
+                },
+                "2": {
+                    "_description": "Material Compatibility and Containment"
+                }
+            },
+            "3": {
+                "_description": "Safety Protocols for Storing Hydrogen Carriers",
+                "1": {
+                    "_description": "Hazardous Chemical Handling Procedures"
+                },
+                "2": {
+                    "_description": "Emergency Response and Spill Management"
+                },
+                "3": {
+                    "_description": "Regulatory Compliance for Hazardous Materials"
+                }
+            }
+        }
+    },
+    "16": {
+        "_description": "Hydrogen Production Processes",
+        "1": {
+            "_description": "Overview of Hydrogen Production Methods",
+            "1": {
+                "_description": "Electrolysis"
+            },
+            "2": {
+                "_description": "Steam Methane Reforming (SMR)"
+            },
+            "3": {
+                "_description": "Coal Gasification"
+            },
+            "4": {
+                "_description": "Biomass Gasification"
+            },
+            "5": {
+                "_description": "Hydrogen Production from Renewables"
+            }
+        },
+        "2": {
+            "_description": "Process Requirements for Hydrogen Production",
+            "1": {
+                "_description": "Water Quality for Electrolysis",
+                "1": {
+                    "_description": "Purity Standards for Feed Water"
+                },
+                "2": {
+                    "_description": "Water Treatment and Filtration Systems"
+                }
+            },
+            "2": {
+                "_description": "H2 Purity Requirements",
+                "1": {
+                    "_description": "Purification Technologies (e.g., PSA, Membrane Separation)"
+                },
+                "2": {
+                    "_description": "Monitoring and Testing of H2 Purity"
+                }
+            },
+            "3": {
+                "_description": "Feedstock Quality for SMR and Gasification",
+                "1": {
+                    "_description": "Natural Gas Quality for SMR"
+                },
+                "2": {
+                    "_description": "Coal and Biomass Feedstock Requirements"
+                }
+            }
+        },
+        "3": {
+            "_description": "Technological Requirements for Hydrogen Production",
+            "1": {
+                "_description": "Equipment and Infrastructure",
+                "1": {
+                    "_description": "Electrolyzers and Associated Systems"
+                },
+                "2": {
+                    "_description": "Reformers and Gasifiers"
+                }
+            },
+            "2": {
+                "_description": "Control Systems and Automation",
+                "1": {
+                    "_description": "Monitoring Systems for Process Control"
+                },
+                "2": {
+                    "_description": "Automation of Hydrogen Production Processes"
+                }
+            }
+        },
+        "4": {
+            "_description": "Ensuring Process Compliance and Optimization",
+            "1": {
+                "_description": "Process Optimization Techniques",
+                "1": {
+                    "_description": "Energy Efficiency Improvements"
+                },
+                "2": {
+                    "_description": "Minimization of By-Products"
+                }
+            },
+            "2": {
+                "_description": "Regulatory Compliance in Hydrogen Production",
+                "1": {
+                    "_description": "Compliance with Environmental Standards"
+                },
+                "2": {
+                    "_description": "Quality Assurance and Certification"
+                }
+            }
+        }
+    },
+    "17": {
+        "_description": "Gas Conversion and Interchangeability",
+        "1": {
+            "_description": "Processes for Gas Conversion",
+            "1": {
+                "_description": "Conversion of Natural Gas to Hydrogen"
+            },
+            "2": {
+                "_description": "Conversion of Biogas to Methane"
+            },
+            "3": {
+                "_description": "Synthesis of Syngas"
+            }
+        },
+        "2": {
+            "_description": "Indicators of Gas Interchangeability",
+            "1": {
+                "_description": "Heating Value of Gases",
+                "1": {
+                    "_description": "Lower Heating Value (LHV)"
+                },
+                "2": {
+                    "_description": "Higher Heating Value (HHV)"
+                }
+            },
+            "2": {
+                "_description": "Calorific Value",
+                "1": {
+                    "_description": "Measurement of Calorific Value"
+                },
+                "2": {
+                    "_description": "Comparison Across Different Gases"
+                }
+            },
+            "3": {
+                "_description": "Wobbe Index",
+                "1": {
+                    "_description": "Definition and Calculation of Wobbe Index"
+                },
+                "2": {
+                    "_description": "Application of Wobbe Index for Gas Interchangeability"
+                },
+                "3": {
+                    "_description": "Impact of Wobbe Index on Burner Design and Operation"
+                }
+            }
+        },
+        "3": {
+            "_description": "Impact of Gas Interchangeability on Systems",
+            "1": {
+                "_description": "Compatibility of Equipment with Different Gases"
+            },
+            "2": {
+                "_description": "Safety Considerations in Gas Interchangeability"
+            },
+            "3": {
+                "_description": "Environmental Impact of Gas Substitution"
+            }
+        }
+    },
+    "18": {
+        "_description": "Hydrogen Interaction with Materials",
+        "1": {
+            "_description": "Molecular Interaction of Hydrogen with Materials",
+            "1": {
+                "_description": "Hydrogen Interaction with Steel",
+                "1": {
+                    "_description": "Mechanisms of Hydrogen Embrittlement in Steel"
+                },
+                "2": {
+                    "_description": "Impact on Steel Microstructure"
+                }
+            },
+            "2": {
+                "_description": "Hydrogen Interaction with Plastics",
+                "1": {
+                    "_description": "Permeation and Diffusion in Plastics"
+                },
+                "2": {
+                    "_description": "Plastic Degradation Due to Hydrogen Exposure"
+                }
+            },
+            "3": {
+                "_description": "Hydrogen Interaction with Composite Materials",
+                "1": {
+                    "_description": "Fiber-Matrix Interaction with Hydrogen"
+                },
+                "2": {
+                    "_description": "Long-Term Effects on Composite Integrity"
+                }
+            }
+        },
+        "2": {
+            "_description": "Testing and Evaluation of Material Embrittlement",
+            "1": {
+                "_description": "Fracture Mechanics Testing",
+                "1": {
+                    "_description": "Crack Propagation Analysis"
+                },
+                "2": {
+                    "_description": "Fatigue Testing under Hydrogen Exposure"
+                }
+            },
+            "2": {
+                "_description": "Material Durability Testing",
+                "1": {
+                    "_description": "Tensile Testing for Embrittlement"
+                },
+                "2": {
+                    "_description": "Hardness and Toughness Testing"
+                }
+            }
+        },
+        "3": {
+            "_description": "Mitigation Strategies for Hydrogen Embrittlement",
+            "1": {
+                "_description": "Material Selection and Treatment",
+                "1": {
+                    "_description": "Use of Hydrogen-Resistant Alloys"
+                },
+                "2": {
+                    "_description": "Surface Treatments and Coatings"
+                }
+            },
+            "2": {
+                "_description": "Design Considerations to Minimize Embrittlement",
+                "1": {
+                    "_description": "Reducing Stress Concentrations"
+                },
+                "2": {
+                    "_description": "Component Geometry Optimization for Hydrogen Service"
+                }
+            }
+        },
+        "4": {
+            "_description": "Standards and Protocols for Testing",
+            "1": {
+                "_description": "International Standards for Hydrogen Embrittlement Testing"
+            },
+            "2": {
+                "_description": "Industry-Specific Testing Protocols"
+            },
+            "3": {
+                "_description": "Compliance with Safety and Reliability Standards"
+            }
+        }
+    },
+    "19": {
+        "_description": "Programming and Monitoring Control Systems in Hydrogen Processes",
+        "1": {
+            "_description": "Programming Control Modules",
+            "1": {
+                "_description": "Understanding Control Logic for Hydrogen Processes",
+                "1": {
+                    "_description": "Development of Control Algorithms"
+                },
+                "2": {
+                    "_description": "Integration with Process Sensors and Actuators"
+                }
+            },
+            "2": {
+                "_description": "Implementation of Safety Protocols",
+                "1": {
+                    "_description": "Emergency Shutdown Procedures"
+                },
+                "2": {
+                    "_description": "Fail-Safe Mechanisms"
+                }
+            },
+            "3": {
+                "_description": "Optimization of Process Efficiency",
+                "1": {
+                    "_description": "Real-Time Process Optimization"
+                },
+                "2": {
+                    "_description": "Energy Efficiency Enhancements"
+                }
+            }
+        },
+        "2": {
+            "_description": "Monitoring Control Systems",
+            "1": {
+                "_description": "Real-Time Monitoring of Process Variables",
+                "1": {
+                    "_description": "Pressure and Temperature Monitoring"
+                },
+                "2": {
+                    "_description": "Flow Rate and Composition Analysis"
+                }
+            },
+            "2": {
+                "_description": "Diagnostics and Troubleshooting",
+                "1": {
+                    "_description": "Detection of Anomalies and Alarms"
+                },
+                "2": {
+                    "_description": "System Diagnostics and Fault Analysis"
+                }
+            }
+        },
+        "3": {
+            "_description": "Ensuring Safe Operation of Hydrogen Processes",
+            "1": {
+                "_description": "Compliance with Safety Standards",
+                "1": {
+                    "_description": "Adherence to Regulatory Requirements"
+                },
+                "2": {
+                    "_description": "Regular Safety Audits and Inspections"
+                }
+            },
+            "2": {
+                "_description": "Risk Mitigation and Response",
+                "1": {
+                    "_description": "Hazard Identification and Risk Assessment"
+                },
+                "2": {
+                    "_description": "Implementation of Contingency Plans"
+                }
+            }
+        },
+        "4": {
+            "_description": "Continuous Improvement and System Updates",
+            "1": {
+                "_description": "Software Updates and Patching",
+                "1": {
+                    "_description": "Implementation of New Control Features"
+                },
+                "2": {
+                    "_description": "Enhancing System Security"
+                }
+            },
+            "2": {
+                "_description": "System Performance Reviews",
+                "1": {
+                    "_description": "Analysis of Process Data for Improvements"
+                },
+                "2": {
+                    "_description": "Feedback Loops for Process Refinement"
+                }
+            },
+            "3": {
+                "_description": "Advanced Data Analysis and AI Integration",
+                "1": {
+                    "_description": "Use of AI and Machine Learning in Process Optimization"
+                },
+                "2": {
+                    "_description": "Real-time Data Analysis for Predictive Maintenance"
+                }
+            }
+        },
+        "5": {
+            "_description": "System Enhancements"
+        }
+    },
+    "20": {
+        "_description": "Inspection and Maintenance of Hydrogen Fuel Cell Electric Vehicles (FCEVs)",
+        "1": {
+            "_description": "Safe Depowering of Hydrogen Fuel Cell Systems",
+            "1": {
+                "_description": "Depowering Procedures for Fuel Cells",
+                "1": {
+                    "_description": "Isolation of Electrical Systems"
+                },
+                "2": {
+                    "_description": "Depressurization of Hydrogen Lines"
+                }
+            },
+            "2": {
+                "_description": "Safety Protocols during Depowering",
+                "1": {
+                    "_description": "Ventilation and Purging of Hydrogen Gas"
+                },
+                "2": {
+                    "_description": "Use of Personal Protective Equipment (PPE)"
+                }
+            }
+        },
+        "2": {
+            "_description": "Inspection of Hydrogen Gas Cylinders",
+            "1": {
+                "_description": "Visual Inspection of Cylinders",
+                "1": {
+                    "_description": "Checking for Physical Damage"
+                },
+                "2": {
+                    "_description": "Corrosion and Wear Assessment"
+                }
+            },
+            "2": {
+                "_description": "Pressure Testing of Cylinders",
+                "1": {
+                    "_description": "Hydrostatic Testing Procedures"
+                },
+                "2": {
+                    "_description": "Leak Detection Techniques"
+                }
+            },
+            "3": {
+                "_description": "Compliance with Regulatory Standards",
+                "1": {
+                    "_description": "Adherence to Cylinder Certification Requirements"
+                },
+                "2": {
+                    "_description": "Inspection Interval Requirements"
+                }
+            }
+        },
+        "3": {
+            "_description": "Maintenance Procedures for FCEV Systems",
+            "1": {
+                "_description": "Regular Maintenance of Fuel Cell Components",
+                "1": {
+                    "_description": "Membrane Electrode Assembly (MEA) Inspection"
+                },
+                "2": {
+                    "_description": "Catalyst Layer Integrity Check"
+                }
+            },
+            "2": {
+                "_description": "Maintenance of Hydrogen Storage Systems",
+                "1": {
+                    "_description": "Inspection of Storage Tanks and Valves"
+                },
+                "2": {
+                    "_description": "Replacement of Aging Components"
+                }
+            }
+        },
+        "4": {
+            "_description": "System Modifications and Upgrades",
+            "1": {
+                "_description": "Identification of Required Modifications",
+                "1": {
+                    "_description": "Adapting to New Fuel Cell Technologies"
+                },
+                "2": {
+                    "_description": "Integration with Vehicle Control Systems"
+                }
+            },
+            "2": {
+                "_description": "Implementation of System Upgrades",
+                "1": {
+                    "_description": "Retrofitting with Enhanced Components"
+                },
+                "2": {
+                    "_description": "Software Updates and Calibration Adjustments"
+                }
+            }
+        }
+    },
+    "21": {
+        "_description": "High-Voltage Power Electronics in Hydrogen Production",
+        "1": {
+            "_description": "Overview of High-Voltage Systems",
+            "1": {
+                "_description": "Role of High-Voltage Power in Hydrogen Production"
+            },
+            "2": {
+                "_description": "Key Components of High-Voltage Systems",
+                "1": {
+                    "_description": "Transformers"
+                },
+                "2": {
+                    "_description": "Substations"
+                },
+                "3": {
+                    "_description": "Capacitors"
+                }
+            }
+        },
+        "2": {
+            "_description": "Transformers in Hydrogen Production",
+            "1": {
+                "_description": "Function and Operation of Transformers"
+            },
+            "2": {
+                "_description": "Step-Up and Step-Down Transformers"
+            },
+            "3": {
+                "_description": "Maintenance and Monitoring of Transformers"
+            }
+        },
+        "3": {
+            "_description": "Substations and Power Distribution",
+            "1": {
+                "_description": "Role of Substations in Power Distribution"
+            },
+            "2": {
+                "_description": "Design and Configuration of Substations"
+            },
+            "3": {
+                "_description": "Safety Protocols in Substation Operations"
+            }
+        },
+        "4": {
+            "_description": "Capacitors and Energy Storage",
+            "1": {
+                "_description": "Function of Capacitors in Power Electronics"
+            },
+            "2": {
+                "_description": "Energy Storage and Discharge Mechanisms"
+            },
+            "3": {
+                "_description": "Maintenance and Safety Considerations"
+            }
+        },
+        "5": {
+            "_description": "Integration of High-Voltage Systems with Hydrogen Production",
+            "1": {
+                "_description": "Power Supply Requirements for Electrolyzers"
+            },
+            "2": {
+                "_description": "Impact of High-Voltage Inputs on Production Efficiency"
+            },
+            "3": {
+                "_description": "Safety and Reliability of High-Voltage Systems in Hydrogen Production"
+            }
+        }
+    },
+    "22": {
+        "_description": "Logistical Management of Hydrogen Supply Chain",
+        "1": {
+            "_description": "Oversight of Hydrogen Material Movement",
+            "1": {
+                "_description": "Planning and Coordination of Material Flow",
+                "1": {
+                    "_description": "Scheduling of Hydrogen Deliveries"
+                },
+                "2": {
+                    "_description": "Coordination with Suppliers and Distributors"
+                }
+            },
+            "2": {
+                "_description": "Monitoring and Tracking of Shipments",
+                "1": {
+                    "_description": "Real-Time Tracking Technologies"
+                },
+                "2": {
+                    "_description": "Inventory Management Systems"
+                }
+            }
+        },
+        "2": {
+            "_description": "Ensuring Consistent and Even Supply Flow",
+            "1": {
+                "_description": "Demand Forecasting and Planning",
+                "1": {
+                    "_description": "Analysis of Demand Trends"
+                },
+                "2": {
+                    "_description": "Just-In-Time (JIT) Inventory Management"
+                }
+            },
+            "2": {
+                "_description": "Balancing Supply with Production Needs",
+                "1": {
+                    "_description": "Synchronization with Production Schedules"
+                },
+                "2": {
+                    "_description": "Buffer Stock Management"
+                }
+            }
+        },
+        "3": {
+            "_description": "Managing Logistical Bottlenecks",
+            "1": {
+                "_description": "Identification of Potential Bottlenecks",
+                "1": {
+                    "_description": "Analysis of Supply Chain Constraints"
+                },
+                "2": {
+                    "_description": "Risk Assessment of Logistical Hurdles"
+                }
+            },
+            "2": {
+                "_description": "Strategies to Alleviate Bottlenecks",
+                "1": {
+                    "_description": "Diversification of Transportation Routes"
+                },
+                "2": {
+                    "_description": "Strategic Warehousing and Storage"
+                }
+            }
+        },
+        "4": {
+            "_description": "Reducing Carrying Costs and Idle Time",
+            "1": {
+                "_description": "Optimization of Inventory Levels",
+                "1": {
+                    "_description": "Minimizing Excess Stock"
+                },
+                "2": {
+                    "_description": "Efficient Inventory Turnover"
+                }
+            },
+            "2": {
+                "_description": "Reduction of Idle Time in the Supply Chain",
+                "1": {
+                    "_description": "Streamlining Loading and Unloading Processes"
+                },
+                "2": {
+                    "_description": "Coordination with Transport Providers"
+                }
+            },
+            "3": {
+                "_description": "Cost Management and Efficiency Improvement",
+                "1": {
+                    "_description": "Cost-Benefit Analysis of Logistical Options"
+                },
+                "2": {
+                    "_description": "Implementation of Cost-Effective Solutions"
+                }
+            }
+        }
+    },
+    "23": {
+        "_description": "Repurposing Hydrogen and Production By-Products",
+        "1": {
+            "_description": "Repurposing Hydrogen for Industrial Use",
+            "1": {
+                "_description": "Hydrogen as a Feedstock",
+                "1": {
+                    "_description": "Use in Ammonia Production"
+                },
+                "2": {
+                    "_description": "Use in Refining and Petrochemical Industries"
+                }
+            },
+            "2": {
+                "_description": "Hydrogen for Energy Applications",
+                "1": {
+                    "_description": "Hydrogen Fuel Cells"
+                },
+                "2": {
+                    "_description": "Hydrogen for Power Generation"
+                }
+            }
+        },
+        "2": {
+            "_description": "Repurposing Oxygen from Hydrogen Production",
+            "1": {
+                "_description": "Oxygen in Chemical Processes",
+                "1": {
+                    "_description": "Use in Oxidation Reactions"
+                },
+                "2": {
+                    "_description": "Use in Wastewater Treatment"
+                }
+            },
+            "2": {
+                "_description": "Industrial Applications of Oxygen",
+                "1": {
+                    "_description": "Oxygen in Metal Production"
+                },
+                "2": {
+                    "_description": "Oxygen for Medical Use"
+                }
+            }
+        },
+        "3": {
+            "_description": "Repurposing Carbon By-Products",
+            "1": {
+                "_description": "Carbon Dioxide (CO2) Utilization",
+                "1": {
+                    "_description": "CO2 in Enhanced Oil Recovery (EOR)"
+                },
+                "2": {
+                    "_description": "CO2 in Carbon Capture, Utilization, and Storage (CCUS)"
+                }
+            },
+            "2": {
+                "_description": "Carbon in Chemical Synthesis",
+                "1": {
+                    "_description": "Carbon Use in Polymer Production"
+                },
+                "2": {
+                    "_description": "Carbon Use in Fuel Production (e.g., Methanol)"
+                }
+            },
+            "3": {
+                "_description": "Circular Economy Strategies",
+                "1": {
+                    "_description": "Recycling and Reuse of By-products"
+                },
+                "2": {
+                    "_description": "Sustainable Supply Chain Integration"
+                }
+            }
+        },
+        "4": {
+            "_description": "Integration with Other Industries",
+            "1": {
+                "_description": "Identifying Cross-Industry Use Cases",
+                "1": {
+                    "_description": "Synergies with Chemical Manufacturing"
+                },
+                "2": {
+                    "_description": "Collaboration with Energy Providers"
+                }
+            },
+            "2": {
+                "_description": "Establishing Supply Chains for By-Product Distribution",
+                "1": {
+                    "_description": "Logistics for Oxygen and Carbon Transport"
+                },
+                "2": {
+                    "_description": "Partnership Development with Off-Takers"
+                }
+            },
+            "3": {
+                "_description": "Economic and Environmental Benefits",
+                "1": {
+                    "_description": "Cost Reduction through By-Product Sales"
+                },
+                "2": {
+                    "_description": "Environmental Impact Mitigation through Repurposing"
+                }
+            }
+        },
+        "5": {
+            "_description": "Advanced Utilization Techniques"
+        }
+    },
+    "24": {
+        "_description": "Integration of Hydrogen System Components",
+        "1": {
+            "_description": "Integration of Fuel Cells into Electric Vehicles",
+            "1": {
+                "_description": "Component Selection and Sourcing",
+                "1": {
+                    "_description": "Identification of Compatible Fuel Cells"
+                },
+                "2": {
+                    "_description": "Sourcing of Ancillary Components (e.g., power electronics, cooling systems)"
+                }
+            },
+            "2": {
+                "_description": "System Integration for Purpose-Built Vehicles",
+                "1": {
+                    "_description": "Design and Configuration of Powertrains"
+                },
+                "2": {
+                    "_description": "Electrical and Mechanical Integration"
+                }
+            },
+            "3": {
+                "_description": "Retrofitting and Homologation of Existing Vehicles",
+                "1": {
+                    "_description": "Certification and Compliance with Standards"
+                },
+                "2": {
+                    "_description": "Modifications and Adaptations for Fuel Cell Integration"
+                }
+            }
+        },
+        "2": {
+            "_description": "Integration of Subassemblies into Electrolysers",
+            "1": {
+                "_description": "Assembly of Electrolyser Components",
+                "1": {
+                    "_description": "Integration of Electrodes and Membranes"
+                },
+                "2": {
+                    "_description": "Integration of Power Supply and Control Systems"
+                }
+            },
+            "2": {
+                "_description": "System-Level Integration",
+                "1": {
+                    "_description": "Fluid and Gas Management Systems"
+                },
+                "2": {
+                    "_description": "Safety and Monitoring Systems"
+                }
+            }
+        },
+        "3": {
+            "_description": "Testing and Validation of Integrated Systems",
+            "1": {
+                "_description": "Functional Testing of Integrated Components",
+                "1": {
+                    "_description": "Electrical Performance Testing"
+                },
+                "2": {
+                    "_description": "Mechanical Integrity Testing"
+                }
+            },
+            "2": {
+                "_description": "System-Level Validation",
+                "1": {
+                    "_description": "Validation of System Performance under Load"
+                },
+                "2": {
+                    "_description": "Compliance with Safety and Efficiency Standards"
+                }
+            }
+        },
+        "4": {
+            "_description": "Troubleshooting and Optimization",
+            "1": {
+                "_description": "Identifying Integration Issues",
+                "1": {
+                    "_description": "Diagnostic Testing for Malfunctions"
+                },
+                "2": {
+                    "_description": "Analysis of Compatibility Issues"
+                }
+            },
+            "2": {
+                "_description": "Optimization of Integrated Systems",
+                "1": {
+                    "_description": "Fine-Tuning of System Performance"
+                },
+                "2": {
+                    "_description": "Enhancements for Efficiency and Reliability"
+                }
+            }
+        }
+    },
+    "25": {
+        "_description": "Operations and Processes in Co-Firing Power Plants",
+        "1": {
+            "_description": "Fundamentals of Co-Firing with Hydrogen and Natural Gas",
+            "1": {
+                "_description": "Overview of Co-Firing Technology"
+            },
+            "2": {
+                "_description": "Benefits and Challenges of Co-Firing"
+            }
+        },
+        "2": {
+            "_description": "Fuel Mixing and Proportioning",
+            "1": {
+                "_description": "Determining Optimal Hydrogen/Natural Gas Ratios"
+            },
+            "2": {
+                "_description": "Fuel Handling and Blending Systems",
+                "1": {
+                    "_description": "Mixing Technologies"
+                },
+                "2": {
+                    "_description": "Control Systems for Proportioning"
+                }
+            }
+        },
+        "3": {
+            "_description": "Combustion Processes in Co-Firing",
+            "1": {
+                "_description": "Combustion Characteristics of Hydrogen and Natural Gas"
+            },
+            "2": {
+                "_description": "Flame Stability and Burner Design",
+                "1": {
+                    "_description": "Modifications to Burners for Hydrogen Compatibility"
+                },
+                "2": {
+                    "_description": "Maintaining Combustion Efficiency"
+                }
+            }
+        },
+        "4": {
+            "_description": "Operational Adjustments for Co-Firing",
+            "1": {
+                "_description": "Modifying Power Plant Operations for Co-Firing",
+                "1": {
+                    "_description": "Boiler and Turbine Adjustments"
+                },
+                "2": {
+                    "_description": "Heat Recovery and Efficiency Considerations"
+                }
+            },
+            "2": {
+                "_description": "Safety and Monitoring in Co-Firing Operations",
+                "1": {
+                    "_description": "Monitoring Combustion Emissions"
+                },
+                "2": {
+                    "_description": "Safety Protocols for Hydrogen Use"
+                }
+            }
+        },
+        "5": {
+            "_description": "Environmental and Regulatory Compliance",
+            "1": {
+                "_description": "Emission Control and Reduction",
+                "1": {
+                    "_description": "NOx, CO2, and Other Emission Management"
+                },
+                "2": {
+                    "_description": "Implementation of Emission Control Technologies"
+                }
+            },
+            "2": {
+                "_description": "Compliance with Regulatory Standards",
+                "1": {
+                    "_description": "Adherence to Environmental Regulations"
+                },
+                "2": {
+                    "_description": "Reporting and Documentation Requirements"
+                }
+            }
+        }
+    },
+    "26": {
+        "_description": "Communication of Hydrogen's Role within the Larger Energy Industry",
+        "1": {
+            "_description": "Understanding the Audience",
+            "1": {
+                "_description": "Identifying Key Community Stakeholders",
+                "1": {
+                    "_description": "Local Residents"
+                },
+                "2": {
+                    "_description": "Environmental Groups"
+                },
+                "3": {
+                    "_description": "Industry and Business Leaders"
+                }
+            },
+            "2": {
+                "_description": "Assessing Stakeholder Concerns and Interests",
+                "1": {
+                    "_description": "Environmental Concerns"
+                },
+                "2": {
+                    "_description": "Economic and Employment Impacts"
+                },
+                "3": {
+                    "_description": "Safety and Health Considerations"
+                }
+            }
+        },
+        "2": {
+            "_description": "Communicating the Benefits of Hydrogen",
+            "1": {
+                "_description": "Environmental Benefits",
+                "1": {
+                    "_description": "Reduction of Greenhouse Gas Emissions"
+                },
+                "2": {
+                    "_description": "Contribution to Renewable Energy Goals"
+                }
+            },
+            "2": {
+                "_description": "Economic and Social Benefits",
+                "1": {
+                    "_description": "Job Creation and Economic Growth"
+                },
+                "2": {
+                    "_description": "Energy Security and Independence"
+                }
+            },
+            "3": {
+                "_description": "Technological and Innovation Benefits",
+                "1": {
+                    "_description": "Advancements in Clean Energy Technologies"
+                },
+                "2": {
+                    "_description": "Positioning as a Global Leader in Hydrogen"
+                }
+            }
+        },
+        "3": {
+            "_description": "Addressing the Risks of Hydrogen",
+            "1": {
+                "_description": "Environmental Impact Considerations",
+                "1": {
+                    "_description": "Managing Hydrogen Production Emissions"
+                },
+                "2": {
+                    "_description": "Water Usage and Resource Management"
+                }
+            },
+            "2": {
+                "_description": "Safety and Health Considerations",
+                "1": {
+                    "_description": "Hydrogen Handling and Storage Safety"
+                },
+                "2": {
+                    "_description": "Risk Mitigation Strategies"
+                }
+            }
+        },
+        "4": {
+            "_description": "Engaging with the Community",
+            "1": {
+                "_description": "Tailoring Communication for Different Stakeholders",
+                "1": {
+                    "_description": "Public Meetings and Information Sessions"
+                },
+                "2": {
+                    "_description": "Digital and Print Communication Strategies"
+                }
+            },
+            "2": {
+                "_description": "Building Trust and Transparency",
+                "1": {
+                    "_description": "Open Dialogue and Feedback Mechanisms"
+                },
+                "2": {
+                    "_description": "Transparency in Project Planning and Implementation"
+                }
+            }
+        },
+        "5": {
+            "_description": "Gaining Acceptance for New Hydrogen Sites",
+            "1": {
+                "_description": "Developing a Community Engagement Plan",
+                "1": {
+                    "_description": "Early and Continuous Stakeholder Engagement"
+                },
+                "2": {
+                    "_description": "Addressing Concerns and Building Consensus"
+                }
+            },
+            "2": {
+                "_description": "Showcasing Successful Hydrogen Projects",
+                "1": {
+                    "_description": "Case Studies of Existing Sites"
+                },
+                "2": {
+                    "_description": "Demonstrations of Safety and Environmental Stewardship"
+                }
+            }
+        }
+    }
+}

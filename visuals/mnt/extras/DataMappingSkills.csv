@@ -1,0 +1,201 @@
+﻿Completed?,Skill_ID,requirement_id,requirement_clean
+y,1,3,"Experience and knowledge of hydrogen fueling equipment, technology and systems including on-site generation, compression, cooling systems, storage and dispensing"
+y,2,4,"Knowledge of hydrogen technologies and value proposition and benefits re: socio-economic, environment, climate change, etc."
+y,3,6,Knowledge of key instrumentation and electrical equipment and systems associated with hydrogen pipeline transmission including compression
+y,4,434,"Materials, coatings and inhibitors to use and correct application to protect from hydrogen corrosion"
+y,5,19,"Knowledge and selection of type of materials, coatings and inhibitors to use to protect from hydrogen corrosion and embrittlement"
+y,6,21,Design and selection of compression systems for hydrogen pressure and temperatures associated with hydrogen fueling system
+y,7,23,Appropriate selection and maintenance of stationary and rotating equipment and systems required for pipeline transmission of gaseous hydrogen
+y,8,25,Hydrogen refueling
+y,9,26,Understanding of properties and characteristics of hydrogen in a gaseous state
+y,10,30,"Understanding of hydrogen technologies, and economic and social advantages and disadvantages"
+y,11,451,Understanding of combined-cycle power generation using hydrogen blending
+y,12,34,"Knowledge of appropriate materials, seals, coatings"
+y,13,36,Maintenance of equipment and systems involved in combinedcycle power generation using hydrogen blending
+y,14,39,"Appropriate selection and maintenance of pressure vessels, piping systems and fitting, valves and seals, coatings and insulation associated with hydrogen fueling system"
+y,15,40,"Knowledge and selection of type of materials, coatings and inhibitors to use to protect from hydrogen corrosion"
+y,16,42,Safety when working with or around hydrogen
+y,17,43,Knowledge of electrolyzer hydrogen production plant control systems and advanced control systems for process optimisation
+y,18,59,Knowledge of odorants used to assist with leak detection of hydrogen
+y,19,50,Appropriate selection and maintenance of materials and equipment to withstand hydrogen pressure and temperatures
+y,20,51,"Understanding of electrochemical reactions, processes and hydrogen production using PEM electrolyzers"
+y,21,57,Understanding of properties and characteristics of hydrogen in a liquid and gaseous state
+y,22,70,Understanding of combined- cycle power generation using hydrogen-blending
+y,23,429,Advanced knowledge of safety when working with or around hydrogen
+y,24,78,Understanding of hydrogen compression processes
+y,25,372,"Appropriate selection of materials, coatings, odorants, inhibitors, etc. for hydrogen blending"
+y,26,83,Understanding materials behaviour in high pressure hydrogen
+y,27,441,"Maintenance of ventilation, leak detection, flame detection, corrosion prevention equipment and systems for hydrogen blending"
+y,28,85,Knowledge of fuel cell technology and hydro-electric power trains
+y,29,87,"Appropriate selection, design and maintenance of electrolyzers, vessels, compressors, piping systems and fitting, valves and seals to withstand hydrogen pressure and temperatures"
+y,30,91,"Management, maintenance and continuous improvement of hydrogen fueling station and mobile systems"
+y,31,388,Understanding of technical factors associated with using hydrogen blending for heating
+y,32,93,"Understanding of coatings effective for protecting equipment, piping, pipelines, etc. used for hydrogen against corrosion/embrittlement and their correct application"
+y,33,354,"Understanding of hydrogen technologies, costs, and carbon advantages and disadvantages in order to evaluate project opportunities and feasibility against commercial, technical and non- technical requirements"
+y,34,95,"Knowledge of codes, and industry standard processes as relates to hydrogen fueling station equipment"
+y,35,96,"Knowledge of hydrogen production, distribution, and dispensing technology to meet the needs of different fleets"
+y,36,98,"Process engineering and controls skills specific to hydrogen including hazard risk analysis and reviews, mechanical integrity and instrumented system analysis, and operation readiness inspection"
+y,37,447,"Knowledge of equipment and components including compression, turbines and combustion, etc. for hydrogen blending."
+y,38,104,"Assess integrity of vessels, tanks, piping systems and fitting, valves and seals to withstand hydrogen pressure and temperatures"
+y,39,402,"Maintenance of vessels, compressors, turbines, piping systems and fitting, valves etc. to withstand hydrogen pressure and temperatures"
+y,40,404,"Advanced knowledge of hydrogen properties, behaviour and potential hazards created"
+y,41,112,Develop and present business case for hydrogen
+y,42,118,"Knowledge of hydrogen related regulations, standards and codes"
+y,43,120,"Knowledge of appropriate materials, seals, coatings to use with hydrogen blending"
+y,44,419,"Appropriate selection, design, modification to ventilation, leak detection, flame detection, corrosion prevention equipment and systems for hydrogen blending"
+y,45,125,Knowledge of hydrogen technologies and value proposition as it relates to ESG factors and how to measure them
+y,46,127,Appropriate selection and maintenance of electrical equipment and instrumentation systems required for pipeline transmission of gaseous hydrogen
+y,47,130,"Advanced knowledge of current and evolving regulatory systems, standards and policy related to hydrogen"
+y,48,139,"As use of FCEV for delivering hydrogen fuel increases, drivers will also need to have knowledge of fuel cell technology, ability inspect vehicle and conduct basic maintenance and hydrogen refueling"
+y,49,149,"Understanding of relevant hydrogen regulations, codes and standards"
+y,50,150,Understanding of hydrogen production process using PEM electrolyzers
+y,51,153,"Knowledge of fuel cell technology, ability inspect vehicle and conduct basic maintenance"
+y,52,416,Produce techno- economic analysis reports
+y,53,158,Appropriate selection and maintenance of key electrical and electronic equipment and systems associated with with power generation using hydrogen blending
+y,54,159,Knowledge of hydrogen gas value-chains
+y,55,163,Knowledge of fueling standards for third-party certification of hydrogen product lines
+y,56,165,"Hydrogen properties, behaviour and potential hazards created"
+y,57,167,"Design and selection of pressure vessels, piping systems and fitting, valves and seals, coatings and insulation to withstand hydrogen pressure and temperatures associated with hydrogen fueling system"
+y,58,236,Assess strength and integrity of welds to withstand hydrogen pressure and temperatures
+y,59,315,Comprehensive understanding of aspects of installation and testing procedures that are different due to the nature of hydrogen
+y,60,175,"Appropriate selection, design and maintenance of related production equipment, materials, coatings, etc."
+y,61,178,Appropriate selection and maintenance of key electrical and electronic equipment and systems associated with an electrolyzer hydrogen production plant
+y,62,180,EMC/EMI compliance and standards
+y,63,181,"Experience with Codes, Standards and compliance issues of electrical systems in road vehicles"
+y,64,182,"Keep up-to-date with changes to hydrogen technology, regulations, standards and codes"
+y,65,190,Knowledge of high power electrical equipment associated with power generation using hydrogen blending
+y,66,247,Welding procedures and techniques appropriate for hydrogen
+y,67,193,"Knowledge of appropriate maintenance of hydrogen fueling systems include pressure vessels, vaporizers, flow, level and pressure control instrumentation, dispensers, pumps, PLC, and compressors, Human Machine Interface (HMI) and controls software"
+y,68,194,"Knowledge of hydrogen fuel cell technology, how it works and value proposition re: emissions targets and cost effectiveness"
+y,69,198,"Management, maintenance and continuous improvement of FCEV fleet to optimize safety, utilization, and cost savings"
+y,70,363,"Strong industry knowledge and experience with hydrogen technologies, processes and equipment and components to use to withstand hydrogen pressure and temperatures"
+y,71,204,Understanding of combinedcycle power generation using hydrogen blending
+y,72,417,"Appropriate selection, design and maintenance of including steam and combustion turbines, compressors, pressure vessels, valves, steam generators, boilers, pumps, piping systems and other Balance of Plant (BOP) equipment to withstand hydrogen pressure and temperatures"
+y,73,213,"Eco-driving techniques: a method of driving a vehicle with the goal of using less fuel and having less of an impact on the environment for fleet sustainability, better fuel consumption and lower costs"
+y,74,214,Domain knowledge of the hydrogen value chain involved is an asset
+y,75,215,Knowledge of fuel cell technology
+y,76,217,Knowledge of electrical equipment and instrumentation systems required for hydrogen fueling systems
+y,77,352,"Practices, technologies, equipment and systems to control hydrogen corrosion/embrittlement"
+y,78,232,Knowledge of key instrumentation and electrical equipment and systems associated with electrolyzer produced hydrogen
+y,79,237,"Appropriate selection and design of vessels, compressors, piping systems and fitting, valves and seals to withstand high hydrogen pressure"
+y,80,244,"Knowledge of key instrumentation and electrical equipment and systems associated with ventilation, leak detection, flame detection, corrosion prevention system controls for hydrogen blending"
+y,81,246,"Appropriate selection, design and maintenance of combustion, compression, pumping and turbine systems and equipment to withstand hydrogen pressure (high/low) and temperatures (hot/cold)"
+y,82,248,Understanding of measurement equipment and instrumentation associated with hydrogen transmission
+y,83,250,Understanding of cathodic protection equipment and techniques effective to protect against hydrogen corrosion/embrittlement
+y,84,256,"Appropriate selection, design and maintenance of hydrogen fuel tanks, piping systems and fitting, valves and seals to withstand hydrogen pressure"
+y,85,262,Appropriate selection and maintenance of key instrumentation equipment and systems associated with an electrolyzer hydrogen production plant
+y,86,265,Knowledge of automated process systems and controls systems associated with electrolyzers
+y,87,267,Eco-driving techniques: a method of driving a vehicle using less fuel and having less impact on the environment
+y,89,270,Troubleshooting and routine maintenance of hydrogen fuel compression and dispensing equipment
+y,90,273,"Appropriate selection, design and maintenance of electrolyzers, vessels, piping systems and fitting, valves and seals to withstand hydrogen pressure (high/low) and temperatures (hot/cold)"
+y,91,274,"Appropriate selection and maintenance of pressure vessels, compression systems and related instrumentation and controls equipment and systems associated with hydrogen fueling system"
+y,92,369,"Procedures to trace, locate and repair hydrogen leaks"
+y,93,281,Eco-driving techniques: a method of driving a vehicle using less fuel and having less of an impact on the environment
+y,94,285,"Maintenance of vessels, compressors, piping systems and fitting, valves etc. to withstand hydrogen pressure and temperatures"
+y,95,420,Knowledge of control systems and advanced control systems for combined-cycle power generation using hydrogen blending
+y,96,289,Knowledge of key high power electrical equipment and interconnection applications associated with renewable electricity powered electrolyzer produced hydrogen
+y,97,389,"Appropriate selection, design and maintenance of power generation equipment including compression, turbines and combustion, valves, fittings, piping systems etc. for hydrogen blending"
+y,98,291,"Appropriate selection, design and maintenance of hydrogen fuel tanks, piping systems and fitting, valves and seals to withstand hydrogen pressure (high/low) and temperatures (hot/cold)"
+y,99,294,Maintenance of equipment and systems involved in hydrogen production using PEM electrolyzer
+y,100,295,"Appropriate selection, design and maintenance of hydrogen compression, turbine systems and equipment"
+y,101,296,"Selection, calibration and maintenance of key instrumentation equipment and systems associated with power generation using hydrogen blending"
+y,102,297,Knowledge of hydrogen value-chains
+y,103,298,"Knowledge of hydrogen production, distribution, and dispensing technology"
+y,104,300,Understanding of cryogenic and gaseous hydrogen storage and delivery systems
+y,105,302,Knowledge of key high power electrical equipment associated with electrolyzer produced hydrogen
+y,106,305,Understanding of combined- cycle power generation using hydrogen blending
+y,107,307,"Knowledge of environmental laws, regulations and practices pertaining to hydrogen and related infrastructure and operations"
+y,108,310,Knowledge of automated process systems and controls systems associated with power generation using hydrogen blending
+y,109,439,"Understanding of acceptance, compliance and materials testing required for hydrogen infrastructure"
+y,110,324,"Advanced knowledge of regulatory systems, standards and policy related to hydrogen"
+y,111,442,Knowledge of material rules and welding processes and procedures compatible with hydrogen and hydrogen blending properties
+y,112,330,"Appropriate selection, design and maintenance of electrolyzers, vessels, compressors, piping systems and fitting, valves and seals to withstand hydrogen pressure (high/low) and temperatures (hot/cold)"
+y,113,336,Appropriate selection and maintenance of compression and turbine systems and equipment to withstand hydrogen pressure
+y,114,344,Optimise rectification arrangement for electrolyser plants
+y,115,22,"Keep up-to-date with changes to hydrogen technology, regulations, standards and codes and assess impact to safety requirements"
+y,116,186,Maintenance of mechanical equipment to withstand hydrogen pressure and temperatures
+y,117,292,Appropriate selection and maintenance of electrical equipment and instrumentation systems required for hydrogen
+y,118,353,"Appropriate selection, design and maintenance of air separation units, vessels, piping systems and fitting, valves and seals to withstand hydrogen pressure (high/low) and temperatures (hot/cold)"
+y,119,355,Knowledge of key instrumentation and electrical equipment and systems associated with CO2 pipeline transmission including compression and/or liquefication
+y,120,356,Understanding of properties and characteristics of CO2 in a liquid and gaseous state
+y,121,357,Appropriate selection and maintenance of key electrical equipment and systems associated with carbon capture plant and technology
+y,122,358,"Appropriate selection of materials, coatings, seals, etc. for the maintenance of CO2 pump facility equipment and systems"
+y,123,359,"Appropriate selection, design and maintenance vessels, compressors, piping systems and fitting, valves and seals to withstand hydrogen pressure (high/low) and temperatures (hot/cold)"
+y,124,360,Maintenance of equipment and systems involved in SMR and/or ATR hydrogen production
+y,125,361,Understanding of SMR and/or ATR processes and hydrogen production
+y,126,362,Understanding of properties and characteristics of CO2 in a gaseous state
+y,127,364,Knowledge of automated process systems and controls systems for carbon capture
+y,128,365,Stay up to date on technology and options for CO2 storage and monitoring
+y,129,367,"CO2 properties, behaviour and potential hazards created"
+y,130,368,Appropriate selection and maintenance of key instrumentation equipment and systems associated with carbon capture plant and technology
+y,131,370,Understanding of CO2 compression processes
+y,132,373,Knowledge of hydrogen gas value- chains
+y,133,374,"Understanding of carbon capture, separation, purification and liquefication processes"
+y,134,375,"Appropriate selection, design and maintenance electrolyzers, vessels, compressors, piping systems and fitting, valves and seals to withstand hydrogen pressure (high/low) and temperatures (hot/cold)"
+y,135,376,"Knowledge of hydrogen properties, behaviour and potential hazards created"
+y,136,377,Understanding materials behaviour in high pressure CO2
+y,137,379,Knowledge of automated process systems and controls systems for CO2 pipeline transmition
+y,138,380,Understanding of carbon capture process
+y,139,381,Appropriate selection and maintenance of CO2 sensors and monitoring equipment and systems
+y,140,383,"Keep up-to-date with changes to CCS technology, regulations, standards and codes"
+y,141,384,"Appropriate selection, design and maintenance of power generation equipment including compression, turbines and combustion, etc. for hydrogen blending."
+y,142,385,"Appropriate selection, design and maintenance of vessels, compressors, piping systems and fitting, valves and seals to withstand hydrogen pressure and temperatures"
+y,143,386,Modeling hydrogen-water- mineral interactions
+y,144,387,"Well design and material choices based on understanding of long- term regulatory environment, CO2 injection stream properties, changes in CO2 pressure over lifetime of the well and potential corrosive elements"
+y,146,391,Understanding of CO2 compression and/or liquification processes
+y,147,392,Stay up to date on technology and options for hydrogen storage and monitoring
+y,148,393,Knowledge of CO2 value-chains
+y,149,394,Appropriate selection and maintenance of key electrical and electronic equipment and systems associated with a SMR and/or ATR hydrogen production plant
+y,150,395,Understanding of appropriate well completion solutions for hydrogen
+y,151,396,"Appropriate selection, design and maintenance of combustion, compression, pumping and turbine systems and equipment to withstand hydrogen pressure and temperatures"
+y,152,397,"Reservoir geochemistry, modeling CO2-water-mineral interactions"
+y,153,398,Understanding of CO2 compression properties and processes
+y,154,399,"Migration modeling, zone selection and storage design."
+y,155,400,Appropriate selection and maintenance of key instrumentation equipment and systems associated with a SMR and/or ATR hydrogen production plant
+y,156,403,Understanding materials behaviour in liquid and high and low pressure CO2
+y,157,405,Knowledge of stationary and rotating equipment and systems required for pipeline transmission of liquid and/or gaseous CO2
+y,158,406,Understanding of reservoir data as it relates to CO2 injection and storage
+y,159,408,"Understanding of reservoir engineering fundamentals for CO2 injection and well testing, pressure and rate transient analysis, fluid characterization"
+y,160,409,"Knowledge of materials, equipment and components to use to withstand hydrogen pressure and temperatures"
+y,161,410,Understanding of measurement equipment and instrumentation associated with CO2 transmission
+y,162,411,"Appropriate selection, design and maintenance of compression, pumping and turbine systems and hydraulic and pumping systems and equipment"
+y,163,412,"Carbon properties, behaviour and potential hazards created"
+y,164,413,Materials selection including coatings for CO2 pipeline and related facilities
+y,165,414,"Appropriate selection, design and maintenance of related carbon capture equipment, materials, coatings, etc."
+y,167,418,"Understanding of reservoir engineering fundamentals for CO2 injection and well testing, pressure and rate transient analysis, fluid characterization,"
+y,168,421,Knowledge of appropriate CO2 material and coating selection
+y,169,422,Understanding of properties and characteristics of CO2 in a liquid state
+y,170,423,"Pressure, voltage, temperature (PVT) characterization and thermal/flow modeling specific to sequestered gas and/or liquid composition"
+y,172,425,Advanced knowledge of legislation relating to hydrogen safety codes and standards
+y,173,426,"Knowledge of CCS related regulations, standards and codes"
+y,174,427,Knowledge of CO2 value- chains
+y,175,428,Knowledge of carbon capture plant control systems and advanced control systems for process optimisation
+y,176,430,Maintenance of equipment and systems involved in carbon capture plant
+y,177,431,"Pressure, voltage, temperature (PVT) characterization and thermal/flow modeling specific to sequestered gas composition"
+y,178,432,"Understanding of carbon capture, separation, purification and liquefication processes and steam generation processes"
+y,179,433,"Understanding of cavern engineering fundamentals for hydrogen injection and well testing, pressure and rate transient analysis, fluid characterization"
+y,180,435,Understanding of appropriate well completion solutions for CO2 given subsurface condition and need for long- term well integrity
+y,181,436,Understanding of hydrogen production process using SMR and/or ATR
+y,182,437,Understanding of reservoir data as it relates to hydrogen injection and storage
+y,183,438,Knowledge of automated process systems and controls systems for SMR/ATR
+y,184,440,Knowledge of electrical equipment and instrumentation systems required for pipeline transmission of liquid and/or gaseous CO2
+y,185,443,Knowledge of SMR/ATR hydrogen production plant control systems and advanced control systems for process optimisation
+y,186,444,"Appropriate selection, design and maintenance of CO2 compression, turbine systems and equipment"
+y,187,446,"Appropriate selection, design and maintenance of vessels, piping systems, cryogenic systems and fitting, valves and seals for CO2"
+y,188,448,"Appropriate selection of materials, coatings, seals, etc. for the maintenance of CO2 compression facility equipment and systems"
+y,189,449,Understanding of properties and characteristics of CO2 in liquid and gas state
+y,190,450,"Maintenance of vessels, compressors, piping systems and fitting, valves and seals, coatings and insulation to withstand hydrogen pressure and temperatures"
+y,191,452,"Understanding of measurement equipment and instrumentation associated with carbon capture, separation, purification and liquefication processes"
+y,192,453,"Pressure, voltage, temperature (PVT) characterization and thermal/flow modeling specific to sequestered CO2 composition"
+y,193,454,Understanding of properties and characteristics of CO2 in a gas and liquid state
+y,194,457,"Understanding of current and evolving environmental, energy and climate change policy and regulatory frameworks in Canada, USA and Internationally as they pertain to hydrogen"
+y,195,458,Maintenance of equipment and systems involved in combined- cycle power generation using hydrogen blending
+y,196,459,Stay up to date on technology and options for CO2 monitoring
+y,197,460,Understanding of measurement equipment and instrumentation associated with permanent underground storage of CO2
+y,198,461,"Expert knowledge of sustainability and ESG, expectations, climate issues climate science and targets"
+y,199,462,Knowledge of hydrogen technologies and value proposition as it relates to ESG factors
+y,200,463,"Well design and material choices based on understanding of regulatory environment, hydrogen injection stream properties, changes in hydrogen pressure over time and potential corrosive elements"
+y,201,464,"Knowledge of key instrumentation and electrical equipment and systems associated with carbon capture, separation, purification and liquefication"
+y,202,465,Knowledge of key instrumentation and electrical equipment and systems associated SMR and/or ATR production plants
+y,203,466,"Knowledge of hydrogen technologies and value proposition re: environment, climate change, etc."
+y,204,467,"Appropriate selection, design and maintenance of compression, turbine systems and equipment for hydrogen"

@@ -1,0 +1,216 @@
+Unnamed: 0,occupation_id,core_occupation,value_chain,technology,Category,Cluster
+0,1,Automation & controls specialist,Production,PEM,specialist,5
+1,2,Chemical/Process engineer,Production,PEM,engineer,7
+2,3,Electrical engineer,Production,PEM,engineer,20
+3,4,Electrical & instrumentation engineer,Production,PEM,engineer,20
+4,5,Facility engineer,Production,PEM,engineer,20
+5,6,Measurement specialist,Production,PEM,specialist,15
+6,7,Renewable power interconnection specialist,Production,PEM,specialist,12
+7,8,Mechanical engineer - Equipment & piping,Production,PEM,engineer,18
+8,9,Mechanical engineer - Reliability,Production,PEM,engineer,19
+9,10,Process control engineer,Production,PEM,engineer,7
+10,11,Process safety engineer,Production,PEM,engineer,7
+11,12,Production engineer,Production,PEM,engineer,20
+12,13,Control room operator,Production,PEM,operator,6
+13,14,Lab technician,Production,PEM,technician,16
+14,15,Maintenance planner,Production,PEM,other,13
+15,16,Maintenance trade - Electrical,Production,PEM,other,2
+16,17,Maintenance trade - Instrumentation & control,Production,PEM,other,1
+17,18,Maintenance trade - Mechanical,Production,PEM,mechanic,2
+18,19,Hydraulics engineer,Production,CCS,engineer,20
+19,20,Plant operator,Production,PEM,operator,4
+20,21,Automation & controls specialist,Production,SMR / ATR,specialist,5
+21,22,Facility engineer,Production,SMR / ATR,engineer,20
+22,23,Measurement specialist,Production,SMR / ATR,specialist,15
+23,24,Mechanical engineer - Equipment & piping,Production,SMR / ATR,engineer,18
+24,25,Control room operator,Production,SMR / ATR,operator,6
+25,26,Mechanical engineer - Reliability,Production,SMR / ATR,engineer,19
+26,27,Process control engineer,Production,SMR / ATR,engineer,7
+27,28,Process engineer,Production,SMR / ATR,engineer,7
+28,29,Process safety engineer,Production,SMR / ATR,engineer,7
+29,30,Production engineer,Production,SMR / ATR,engineer,20
+30,31,Lab technician,Production,SMR / ATR,technician,16
+31,32,Maintenance planner,Production,SMR / ATR,other,13
+32,33,Maintenance trade - Electrical,Production,SMR / ATR,other,2
+33,34,Maintenance trade - Instrumentation & controls,Production,SMR / ATR,other,1
+34,35,Maintenance trade - Mechanical,Production,SMR / ATR,mechanic,2
+35,36,Plant operator,Production,SMR / ATR,operator,4
+36,37,Automation & controls specialist,Production,CCS,specialist,5
+37,38,Facility engineer,Production,CCS,engineer,20
+38,39,Measurement specialist,Production,CCS,specialist,15
+39,40,Mechanical engineer - Equipment & piping,Production,CCS,engineer,18
+40,41,Mechanical engineer - Reliability,Production,CCS,engineer,19
+41,42,Process control engineer,Production,CCS,engineer,7
+42,43,Process engineer,Production,CCS,engineer,7
+43,44,Drilling crew,Storage,Underground,other,9
+44,45,Process safety engineer,Production,CCS,engineer,7
+45,46,Production engineer,Production,CCS,engineer,20
+46,47,Control room operator,Production,CCS,operator,6
+47,48,Lab technician,Production,CCS,technician,16
+48,49,Maintenance planner,Production,CCS,other,13
+49,50,Maintenance trade - Electrical,Production,CCS,other,2
+50,51,Electrical & instrumentation engineer,Production,CCS,engineer,20
+51,52,Maintenance trade - Instrumentation & controls,Production,CCS,other,1
+52,53,Maintenance trade - Mechanical,Production,CCS,mechanic,2
+53,54,Plant manager,Production,CCS,manager,4
+54,55,Plant operator,Production,CCS,operator,4
+55,56,Automation & controls specialist,Production,CCS,specialist,5
+56,57,Compression specialist,Production,CCS,specialist,8
+57,58,Corrosion specialist,Production,CCS,specialist,17
+58,59,Measurement specialist,Production,CCS,specialist,15
+59,60,Pipeline engineer,Production,CCS,engineer,18
+60,61,Pipeline integrity specialist,Production,CCS,specialist,18
+61,62,Process safety engineer,Production,CCS,engineer,7
+62,63,Control centre operator,Production,CCS,operator,6
+63,64,Pipeline technician - Electrical & Instrumentation,Production,CCS,technician,18
+64,65,Pipeline technician - Mechanical,Production,CCS,technician,18
+65,66,Station operator- Compression,Production,CCS,operator,8
+66,67,Station operator - Pump,Production,CCS,operator,8
+67,68,Drilling & completion engineer,Production,CCS,engineer,20
+68,69,Reservoir engineer,Production,CCS,engineer,10
+69,70,Geologist Geophysicist,Production,CCS,other,10
+70,71,Drilling crew,Production,CCS,other,9
+71,72,Heavy duty mechanic,Production,CCS,mechanic,12
+72,73,Reservoir technologist,Production,CCS,technologist,10
+73,74,Service rig crew,Production,CCS,other,9
+74,75,Well completions operator,Production,CCS,operator,3
+75,76,Well completions supervisor,Production,CCS,other,3
+76,77,Reservoir engineer,Production,CCS,engineer,10
+77,78,Geologist Geophysicist,Production,CCS,other,10
+78,79,Instrumentation technician,Production,CCS,technician,16
+79,80,"Technologist Diploma: Chemical, Petroleum Engineering",Production,CCS,engineer,12
+80,81,Sampling and analysis technician,Production,CCS,technician,16
+81,82,Seismic crew,Production,CCS,other,9
+82,83,Cavern engineer,Storage,Underground,engineer,20
+83,84,Geologist Geophysicist Geotechnical specialist,Storage,Underground,specialist,10
+84,85,Heavy duty mechanic,Storage,Underground,mechanic,12
+85,86,Reservoir technologist,Storage,Underground,technologist,10
+86,87,Service rig crew,Storage,Underground,other,9
+87,88,Well completions operators,Storage,Underground,operator,3
+88,89,Well completions supervisor,Storage,Underground,other,3
+89,90,Control centre operator,Storage,Underground,operator,6
+90,91,Maintenance trade - Electrical & Instrumentation,Storage,Underground,other,1
+91,92,Maintenance trade - Mechanical,Storage,Underground,mechanic,2
+92,93,Measurement specialist,Storage,Underground,specialist,15
+93,94,Automation & controls specialist,Transport,Pipeline,specialist,5
+94,95,Compression specialist,Transport,Pipeline,specialist,8
+95,96,Corrosion specialist,Transport,Pipeline,specialist,17
+96,97,Electrical & instrumentation engineer,Transport,Pipeline,engineer,20
+97,98,Measurement specialist,Transport,Pipeline,specialist,15
+98,99,Pipeline engineer,Transport,Pipeline,engineer,18
+99,100,Pipeline integrity specialist,Transport,Pipeline,specialist,18
+100,101,Process safety engineer,Transport,Pipeline,engineer,7
+101,102,Control centre operator,Transport,Pipeline,operator,6
+102,103,Pipeline scheduler,Transport,Pipeline,other,11
+103,104,Maintenance trade - Electrical,Upgrading,Ammonia,other,2
+104,105,Pipeline technician- Electrical & instrumentation,Transport,Pipeline,technician,18
+105,106,Pipeline technician - Mechanical,Transport,Pipeline,technician,18
+106,107,Station operator - Compression,Transport,Pipeline,operator,8
+107,108,Cylinder technician,Transport,Truck,technician,16
+108,109,Logistics coordinator,Transport,Truck,other,12
+109,110,Tank tester/inspector,Transport,Truck,inspector,17
+110,111,Truck driver - Hydrogen delivery,Transport,Truck,other,12
+111,112,Automation & controls specialist,Upgrading,Ammonia,specialist,5
+112,113,Facility engineer,Upgrading,Ammonia,engineer,20
+113,114,Measurement specialist,Upgrading,Ammonia,specialist,15
+114,115,Mechanical engineer - Equipment & piping,Upgrading,Ammonia,engineer,18
+115,116,Mechanical engineer - Reliability,Upgrading,Ammonia,engineer,19
+116,117,Process control engineer,Upgrading,Ammonia,engineer,7
+117,118,Process engineer,Upgrading,Ammonia,engineer,7
+118,119,Process safety engineer,Upgrading,Ammonia,engineer,7
+119,120,Production engineer,Upgrading,Ammonia,engineer,20
+120,121,Control room operator,Upgrading,Ammonia,operator,6
+121,122,Lab technician,Upgrading,Ammonia,technician,16
+122,123,Maintenance planner,Upgrading,Ammonia,other,13
+123,124,Maintenance trade - Instrumentation technician,Upgrading,Ammonia,technician,1
+124,125,Maintenance trade - Mechanical,Upgrading,Ammonia,mechanic,2
+125,126,Plant manager,Upgrading,Ammonia,manager,4
+126,127,Plant operator,Upgrading,Ammonia,operator,4
+127,128,Dual fuel heavy duty mechanic,End Use,Transport,mechanic,12
+128,129,Transit operator,End Use,Transport,operator,12
+129,130,Fleet manager,End Use,Transport,manager,12
+130,131,Fuel cell electric vehicle (FCEV) technician,End Use,Transport,technician,12
+131,132,Locomotive engineer,End Use,Transport,engineer,12
+132,133,Locomotive mechanic (shop and field),End Use,Transport,mechanic,12
+133,134,Transportation solutions advisor,End Use,Transport,other,12
+134,135,"Truck drivers - Class 1 & 3 Transport, freight, delivery/courier",End Use,Transport,other,12
+135,136,Automation & controls specialist,End Use,Fueling Station,specialist,5
+136,137,Mechanical engineer - Compression,End Use,Fueling Station,engineer,8
+137,138,Mechanical engineer - Equipment & piping,End Use,Fueling Station,engineer,18
+138,139,Mechanical engineer - Reliability,End Use,Fueling Station,engineer,19
+139,140,Process control engineer,End Use,Fueling Station,engineer,7
+140,141,Process engineer,End Use,Fueling Station,engineer,7
+141,142,Process safety engineer,End Use,Fueling Station,engineer,7
+142,143,Product engineer,End Use,Fueling Station,engineer,20
+143,144,Quality engineer,End Use,Fueling Station,engineer,14
+144,145,Fueling station technician,End Use,Fueling Station,technician,12
+145,146,Logistics coordinator,End Use,Fueling Station,other,12
+146,147,Maintenance technician - Compression,End Use,Fueling Station,technician,8
+147,148,Maintenance technician - Electrical & mechanical,End Use,Fueling Station,technician,16
+148,149,Truck Driver - Hydrogen fuel delivery,End Use,Fueling Station,other,12
+149,150,Asset performance manager,End Use,Heating,manager,14
+150,151,Gas fuser,End Use,Heating,other,12
+151,152,"HVAC technician (also known as: Refrigeration and Air Conditioning Mechanic, HVAC-R technician)",End Use,Heating,technician,16
+152,153,Utility inspector,End Use,Power Generation,inspector,17
+153,154,Utility operator,End Use,Power Generation,operator,12
+154,155,Utility services planner,End Use,Power Generation,other,12
+155,156,Utility services technician,End Use,Power Generation,technician,16
+156,157,Welding engineer,End Use,Power Generation,engineer,17
+157,158,Automation & controls specialist,End Use,Power Generation,specialist,5
+158,159,Electrical engineer,End Use,Power Generation,engineer,20
+159,160,Electrical & instrumentation engineer,End Use,Power Generation,engineer,20
+160,161,Facility engineer,End Use,Power Generation,engineer,20
+161,162,Hydrogen integration specialist,End Use,Power Generation,specialist,12
+162,163,Mechanical engineer - Equipment & piping,End Use,Power Generation,engineer,18
+163,164,Mechanical engineer - Reliability,End Use,Power Generation,engineer,19
+164,165,Process control engineer,End Use,Power Generation,engineer,7
+165,166,Process engineer,End Use,Power Generation,engineer,7
+166,167,Process safety engineer,End Use,Power Generation,engineer,7
+167,168,Control room operator,End Use,Power Generation,operator,6
+168,169,Maintenance planner,End Use,Power Generation,other,13
+169,170,Maintenance trade - Electrical,End Use,Power Generation,other,2
+170,171,Maintenance trade - Instrumentation & controls,End Use,Power Generation,other,1
+171,172,Maintenance trade - Mechanical,End Use,Power Generation,mechanic,2
+172,173,Plant operator,End Use,Power Generation,operator,4
+173,174,Power scheduler,End Use,Power Generation,other,11
+174,175,Applications engineer,Manufacturing,Manufacturing,engineer,20
+175,176,Assembly technician (also known as: Production worker),Manufacturing,Manufacturing,technician,16
+176,177,Compliance specialist (also known as: Controls specialist),Manufacturing,Manufacturing,specialist,14
+177,178,"CNC fabrication technician (also known as: CNC operator, CNC programmer, Manufacturing technician)",Manufacturing,Manufacturing,technician,16
+178,179,Design engineer - Electrical & instrumentation,Manufacturing,Manufacturing,engineer,20
+179,180,Design engineer- Mechanical,Manufacturing,Manufacturing,engineer,20
+180,181,Design - Mechatronics,Manufacturing,Manufacturing,other,20
+181,182,"Manufacturing engineer (also known as: Manufacturing design engineer, Manufacturing process engineer, Tooling engineer)",Manufacturing,Manufacturing,engineer,20
+182,183,Materials specialist,Manufacturing,Manufacturing,specialist,14
+183,184,Pipefitters/Steamfitters,Manufacturing,Manufacturing,other,18
+184,185,Production scheduler,Manufacturing,Manufacturing,other,11
+185,186,Quality control specialist,Manufacturing,Manufacturing,specialist,14
+186,187,Service technician,Manufacturing,Manufacturing,technician,16
+187,188,Sourcing specialist,Manufacturing,Manufacturing,specialist,14
+188,189,Test technician,Manufacturing,Manufacturing,technician,16
+189,190,Test validation engineer,Manufacturing,Manufacturing,engineer,17
+190,191,Welder,Manufacturing,Manufacturing,other,17
+191,192,Facility maintenance planner,Manufacturing,Manufacturing,other,13
+192,193,Maintenance trades - Electrical,Manufacturing,Manufacturing,other,2
+193,194,Maintenance trade - Electromechanical,Manufacturing,Manufacturing,mechanic,2
+194,195,Maintenance trade - Instrumentation & controls (also known as: Automation technician),Manufacturing,Manufacturing,technician,1
+195,196,Maintenance trade - Mechanical,Manufacturing,Manufacturing,mechanic,2
+196,197,Mechatronics engineer - Facility,Manufacturing,Manufacturing,engineer,20
+197,198,Business & commercial development specialist,Cross Value Chain,Various,specialist,14
+198,199,Cybersecurity specialist,Cross Value Chain,Various,specialist,14
+199,200,Data engineer,Cross Value Chain,Various,engineer,20
+200,201,Data scientist,Cross Value Chain,Various,other,20
+201,202,Software developer,Cross Value Chain,Various,other,20
+202,203,Systems integration specialist,Cross Value Chain,Various,specialist,14
+203,204,Environmental specialist,Cross Value Chain,Various,specialist,14
+204,205,"Environment, Social, Governance (ESG) analyst",Cross Value Chain,Various,other,14
+205,206,Health & safety advisor,Cross Value Chain,Various,other,14
+206,207,Indigenous relations specialist,Cross Value Chain,Various,specialist,14
+207,208,Regulatory analyst and compliance specialist,Cross Value Chain,Various,specialist,14
+208,209,Stakeholder engagement and communications specialist,Cross Value Chain,Various,specialist,14
+209,210,Sustainability specialist,Cross Value Chain,Various,specialist,14
+210,211,Cathodic protection technician,Cross Value Chain,Various,technician,16
+211,212,Coating inspector,Cross Value Chain,Various,inspector,17
+212,213,Construction inspector,Cross Value Chain,Various,inspector,17
+213,214,Safety codes inspector (also known as: Safety codes officer),Cross Value Chain,Various,inspector,17
+214,215,Welding inspector,Cross Value Chain,Various,inspector,17

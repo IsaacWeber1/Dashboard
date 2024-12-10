@@ -1,0 +1,162 @@
+run database:
+    docker run -d --name postgres01 -e POSTGRES_PASSWORD=password -e PGDATA=/var/lib/postgresql/data/pgdata -v `pwd`/postgres:/var/lib/postgresql/data postgres:local
+connect to db container:
+    docker exec -it postgres01 /bin/bash
+once inside container, run:
+    psql -U postgres -d epri -h <hostname> -p <port:5432>
+or:
+    psql -U postgres -d epri
+
+to exit psql client, use \q.  To describe the db, use \d. To describe a table, use \d <table name>
+
+create table canada_data (
+        id bigint,
+        value_chain varchar,
+        technology varchar,
+        core_occupation varchar,
+        typical_qualifications varchar,
+        key_activities varchar,
+        hydrogen_requirements varchar,
+        potential_talent varchar
+);
+
+COPY canada_data FROM 'Canada_Data.csv' (FORMAT CSV, HEADER ON);
+
+create table canada_data2 (
+  id serial,
+  old_id bigint,
+  value_chain varchar,
+  technology varchar,
+  core_occupation varchar,
+  typical_qualifications varchar,
+  key_activities varchar,
+  hydrogen_requirements varchar,
+  potential_talent varchar
+);
+
+insert into canada_data2 (
+  old_id,
+  value_chain,
+  technology,
+  core_occupation,
+  typical_qualifications,
+  key_activities,
+  hydrogen_requirements,
+  potential_talent
+) (
+  select * from canada_data
+);
+
+create table qualifications (
+  id serial,
+  qualification varchar NOT NULL CHECK(qualification <> '')
+);
+
+insert into qualifications (qualification)
+select btrim from (
+  select
+    trim(
+      unnest(
+        string_to_array(typical_qualifications, '•')
+      )
+    )
+  from canada_data2)
+where btrim <> '';
+
+update qualifications set qualification= regexp_replace(qualification, '\n', ' ', 'g')  where regexp_substr(qualification, '\n') <> '';
+
+# insert the raw values into qualifications
+insert into qualifications (qualification)
+select
+regexp_replace(
+  regexp_replace(
+    regexp_replace(
+      replace(replace(replace(replace(btrim, '\r', ' '),'\n', ' '), '+', ' '),'\t', ' '), '\n', ' ', 'g'
+    ), '\s\s+', ' ', 'g'
+  ), '^ ','','g'
+)
+from (
+  select
+    id,
+    trim(
+      unnest(
+        string_to_array(typical_qualifications, '•')
+      )
+    )
+  from canada_data2)
+where btrim <> '';
+
+# remove duplicate entries from the qualifications table
+BEGIN;
+delete from qualifications where id not in (
+        select min(id) from qualifications group by qualification
+);
+COMMIT;
+# ROLLBACK;
+
+# create join table
+create table canada_data_qualifications (
+  canada_data_id bigint not null,
+  qualifications_id bigint not null
+);
+
+# insert into the join table
+insert into canada_data_qualifications
+select t1.id as canada_data_id, t2.id as qualification_id
+from (
+  select
+    id,
+    trim(
+      unnest(
+        string_to_array(typical_qualifications, '•')
+      )
+    )
+  from canada_data2) t1 join qualifications t2 on
+regexp_replace(
+  regexp_replace(
+    regexp_replace(
+      replace(replace(replace(replace(t1.btrim, '\r', ' '),'\n', ' '), '+', ' '),'\t', ' '), '\n', ' ', 'g'
+    ), '\s\s+', ' ', 'g'
+  ), '^ ','','g'
+) = t2.qualification;
+
+select t1.id, t1.typical_qualifications, t3.qualification 
+from canada_data2 t1 
+join canada_data_qualifications t2 on t1.id = t2.canada_data_id 
+join qualifications t3 on t2.qualifications_id = t3.id
+where t1.id in (19, 26);
+
+select count(*), canada_data_id from canada_data_qualifications group by canada_data_id;
+
+alter table canada_data2 drop column typical_qualifications ;
+
+
+
+
+update canada_data2 set cleaned_occupations = core_occupation;
+
+#  useful queries
+qualifications - id, value
+data_qualifications - id, id
+data - descriptive field about job
+
+
+select q.*, d.* from qualifications q 
+join data_qualifications dq on dq.qual_id = q.id
+join data d on q.data_id = d.id
+where qualification.value like '%Bachelor%'
+
+#^output: one row per job for each qualification that had a bachelor degree as qualification
+
+
+select d.*, array_agg(q.qualification), array_agg(r.requirement) 
+from data d 
+join data_qualifications dq on dq.data_id = d.id
+join qualifications q on dq.quali_id = q.id
+where d.id = 19 group by d.*
+
+#^output:
+all columns from data | {array of qualifications} | {array of requirements}
+
+
+#########

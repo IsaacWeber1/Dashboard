@@ -1,0 +1,649 @@
+Skill ID,Skill,Mapped Node,Taxonomy ID,Similarity Score
+1,Experience with hydrogen fueling equipment and systems,Understanding Hydrogen Fuel Cells,7,0.593059547449464
+2,Experience with on-site hydrogen generation,Electron Flow and Power Generation,7.4.4,0.5127071739858241
+3,Experience with hydrogen compression,Operating Conditions,7.5.2,0.5258217549847227
+4,Experience with hydrogen cooling systems,Operating Temperatures,7.5.2.2,0.5789086646370721
+5,Experience with hydrogen storage,Understanding Hydrogen Fuel Cells,7,0.6041479315761378
+6,Experience with hydrogen dispensing,Understanding Hydrogen Fuel Cells,7,0.48266738601576187
+7,Knowledge of hydrogen technologies,Understanding Hydrogen Fuel Cells,7,0.7030803183249041
+8,Understanding the socio-economic benefits of hydrogen,Application Contexts,7.5.5,0.6443712666515613
+9,Understanding the environmental benefits of hydrogen,Application Contexts,7.5.5,0.6525735754097751
+10,Understanding hydrogen's role in addressing climate change,Understanding Hydrogen Fuel Cells,7,0.6459444866759375
+11,Knowledge of key instrumentation for hydrogen pipelines,Safety Measures for Hazardous Areas,9.5.3,0.5390170954365173
+12,Knowledge of electrical equipment for hydrogen pipelines,Chemical and Electrical Processes,7.4,0.5440130961433228
+13,Knowledge of systems associated with hydrogen pipeline transmission,Understanding Technical Drawings and Diagrams,9.2,0.5684972314455702
+14,Knowledge of compression systems in hydrogen pipelines,Decoding Engineering Drawings,9.2.4,0.5201985210908256
+15,Knowledge of materials to protect from hydrogen corrosion,Safety Measures for Hazardous Areas,9.5.3,0.49594344458240736
+16,Knowledge of coatings for hydrogen corrosion protection,Safety Measures for Hazardous Areas,9.5.3,0.4916283900161531
+17,Knowledge of inhibitors for hydrogen corrosion protection,Catalysts,7.3.4,0.4553111179714614
+18,Correct application techniques for corrosion protection,Safety Measures for Hazardous Areas,9.5.3,0.35271370184671313
+19,Knowledge of materials to protect from hydrogen corrosion,Safety Measures for Hazardous Areas,9.5.3,0.49594344458240736
+20,Knowledge of coatings to protect from hydrogen corrosion and embrittlement,Safety Measures for Hazardous Areas,9.5.3,0.45616739202276935
+21,Knowledge of inhibitors to protect from hydrogen corrosion and embrittlement,Catalysts,7.3.4,0.43551056555764645
+22,Knowledge of embrittlement-specific protection strategies,Safety Measures for Hazardous Areas,9.5.3,0.34083098558663427
+23,Design of compression systems for hydrogen pressure,Pressure Requirements,7.5.2.3,0.5347806764381094
+24,Selection of compression systems for hydrogen fueling,Pressure Requirements,7.5.2.3,0.5073433487276804
+25,Consideration of pressure requirements in hydrogen fueling systems,Pressure Requirements,7.5.2.3,0.727038588511112
+26,Consideration of temperature requirements in hydrogen fueling systems,Operating Temperatures,7.5.2.2,0.6112990476596918
+27,Appropriate selection of stationary equipment for hydrogen pipeline transmission,Identifying Hazardous Zones,9.5.2,0.4266556545638147
+28,Appropriate selection of rotating equipment for hydrogen pipeline transmission,Scheduling Replacement Operations,8.4.3,0.4009135365542794
+29,Maintenance of stationary equipment in hydrogen pipeline systems,Arranging for Fuel Cell Replacement,8.4,0.4826435294428938
+30,Maintenance of rotating equipment in hydrogen pipeline systems,Scheduling Replacement Operations,8.4.3,0.5004483461568131
+31,Knowledge of hydrogen refueling systems,Understanding Hydrogen Fuel Cells,7,0.6536070163988871
+32,Operation of hydrogen dispensing systems,Chemical and Electrical Processes,7.4,0.5068946385499228
+33,Safety procedures during hydrogen refueling,Safety Measures for Hazardous Areas,9.5.3,0.5730061882423749
+34,Maintenance of hydrogen refueling equipment,Fuel Cell Maintenance and Replacement,8,0.6254366529370533
+35,Understanding the chemical properties of hydrogen in a gaseous state,Chemical and Electrical Processes,7.4,0.6427137489182723
+36,Understanding the physical characteristics of gaseous hydrogen,Understanding Hydrogen Fuel Cells,7,0.6369155410084477
+37,Understanding the behavior of hydrogen in gaseous form,Understanding Hydrogen Fuel Cells,7,0.6350625738402533
+38,Understanding of hydrogen technologies,Understanding Hydrogen Fuel Cells,7,0.7975586505458649
+39,Understanding the economic advantages of hydrogen,Advantages and Disadvantages,7.5,0.7139213410175888
+40,Understanding the economic disadvantages of hydrogen,Advantages and Disadvantages,7.5,0.783451895081699
+41,Understanding the social advantages of hydrogen,Advantages and Disadvantages,7.5,0.6304226249362039
+42,Understanding the social disadvantages of hydrogen,Advantages and Disadvantages,7.5,0.7071297669820158
+43,Understanding of combined-cycle power generation,Electron Flow and Power Generation,7.4.4,0.38366063256160987
+44,Understanding of hydrogen blending in power generation,Electron Flow and Power Generation,7.4.4,0.6813526720470803
+45,Understanding the operational implications of hydrogen blending in combined-cycle power generation,Electron Flow and Power Generation,7.4.4,0.5218756958995834
+46,Understanding the environmental impacts of hydrogen blending in power generation,Electron Flow and Power Generation,7.4.4,0.5785944149489435
+47,Knowledge of appropriate materials for hydrogen systems,Hazardous Area Requirements,9.5,0.5858641736011223
+48,Knowledge of appropriate seals for hydrogen systems,Safety Measures for Hazardous Areas,9.5.3,0.6054960901132025
+49,Knowledge of appropriate coatings for hydrogen systems,Identifying Hazardous Zones,9.5.2,0.5626300766929517
+50,Appropriate selection of pressure vessels for hydrogen fueling,Pressure Requirements,7.5.2.3,0.502604584163344
+51,Appropriate selection of piping systems and fittings for hydrogen fueling,Identifying Hazardous Zones,9.5.2,0.5223046995027926
+52,Appropriate selection of valves and seals for hydrogen fueling systems,Pressure Requirements,7.5.2.3,0.5258030919407612
+53,Appropriate selection of coatings and insulation for hydrogen fueling systems,Pressure Requirements,7.5.2.3,0.5011826393298808
+54,Maintenance of pressure vessels in hydrogen fueling systems,Pressure Requirements,7.5.2.3,0.5139100410286311
+55,"Maintenance of piping systems, valves, and fittings in hydrogen fueling systems",Ensuring Compliance with Safety Standards,9.3.4,0.5247884989642969
+56,Maintenance of coatings and insulation in hydrogen fueling systems,Fuel Cell Maintenance and Replacement,8,0.547904242056494
+57,Knowledge of materials to protect from hydrogen corrosion,Safety Measures for Hazardous Areas,9.5.3,0.49594344458240736
+58,Knowledge of coatings to protect from hydrogen corrosion,Safety Measures for Hazardous Areas,9.5.3,0.46082118167881503
+59,Knowledge of inhibitors to protect from hydrogen corrosion,Operating Conditions,7.5.2,0.4271693176596918
+60,Correct application techniques for corrosion protection,Safety Measures for Hazardous Areas,9.5.3,0.35271370184671313
+61,Understanding general safety protocols for working with hydrogen,Safety Measures for Hazardous Areas,9.5.3,0.6528666611030297
+62,Understanding safety measures in hazardous areas involving hydrogen,Safety Measures for Hazardous Areas,9.5.3,0.7326141146267932
+63,Understanding personal protective equipment (PPE) requirements for hydrogen work,Safety Measures for Hazardous Areas,9.5.3,0.5218062180708699
+64,Understanding safety in handling and storage of hydrogen,Understanding Hydrogen Fuel Cells,7,0.5889847539034946
+65,Knowledge of control systems in electrolyzer hydrogen production plants,Electrochemical Reactions,7.4.2,0.6362434933962601
+66,Knowledge of advanced control systems for process optimization,Chemical and Electrical Processes,7.4,0.28329289976266603
+67,Knowledge of monitoring systems for electrolyzer hydrogen production plants,Electrochemical Reactions,7.4.2,0.581196605801801
+68,Understanding of safety protocols in electrolyzer control systems,Membranes and Electrolytes,7.3.2,0.45996246985470823
+69,Understanding the use of odorants for hydrogen leak detection,Chemical and Electrical Processes,7.4,0.4982798008463911
+70,Selection of appropriate odorants for hydrogen systems,Identifying Hazardous Zones,9.5.2,0.4716816949159863
+71,Understanding safety considerations when using odorants in hydrogen systems,Safety Measures for Hazardous Areas,9.5.3,0.5472087759739954
+72,Understanding leak detection techniques involving odorants,Chemical and Electrical Processes,7.4,0.27442227140884823
+73,Appropriate selection of materials to withstand hydrogen pressure,Pressure Requirements,7.5.2.3,0.4747295132460789
+74,Appropriate selection of materials to withstand hydrogen temperatures,Material Selection Criteria,9.4.2,0.44639938581964334
+75,Selection of equipment designed to withstand hydrogen pressure,Pressure Requirements,7.5.2.3,0.47752845546117806
+76,Selection of equipment designed to withstand hydrogen temperatures,Operating Temperatures,7.5.2.2,0.46290587682744977
+77,Maintenance of materials and equipment used in high-pressure hydrogen systems,Hazardous Area Requirements,9.5,0.5736655862389582
+78,Maintenance of materials and equipment used in high-temperature hydrogen systems,Hazardous Area Requirements,9.5,0.5546530373548267
+79,Understanding electrochemical reactions in PEM electrolyzers,Proton Exchange Membrane (PEM) Fuel Cells,7.2.2,0.55109184653699
+80,Understanding the process of hydrogen production using PEM electrolyzers,Electron Flow and Power Generation,7.4.4,0.6219260431782383
+81,Knowledge of key components in PEM electrolyzers,Membranes and Electrolytes,7.3.2,0.5386589125567639
+82,Understanding process optimization for hydrogen production in PEM electrolyzers,Proton Exchange Membrane (PEM) Fuel Cells,7.2.2,0.6023926998895301
+83,Understanding the properties and characteristics of hydrogen in a gaseous state,Understanding Hydrogen Fuel Cells,7,0.6317910335339184
+84,Understanding the properties and characteristics of hydrogen in a liquid state,Chemical and Electrical Processes,7.4,0.5864314383418943
+85,Comparing the properties of gaseous vs. liquid hydrogen,Pressure Requirements,7.5.2.3,0.4807790371085783
+86,Understanding the behavior of hydrogen under different temperature and pressure conditions,Pressure Requirements,7.5.2.3,0.5675382895457339
+87,Understanding of combined-cycle power generation,Electron Flow and Power Generation,7.4.4,0.38366063256160987
+88,Understanding the principles of hydrogen-blending in power generation,Electron Flow and Power Generation,7.4.4,0.6436560386027076
+89,Understanding operational adjustments needed for hydrogen-blending,Operational Implications in Hazardous Environments,9.5.4,0.5717795636364353
+90,Understanding the environmental and regulatory aspects of hydrogen-blending,Applying Regulatory Requirements,9.3.3,0.5809959438827255
+91,Advanced understanding of general safety protocols for hydrogen,Safety Measures for Hazardous Areas,9.5.3,0.6679940443203221
+92,Advanced understanding of safety measures in hazardous hydrogen areas,Safety Measures for Hazardous Areas,9.5.3,0.7382346390747052
+93,Advanced understanding of personal protective equipment (PPE) for hydrogen environments,Operational Implications in Hazardous Environments,9.5.4,0.4406902941524483
+94,Advanced understanding of safety in handling and storage of hydrogen,Understanding Hydrogen Fuel Cells,7,0.6100585609065173
+95,Understanding the principles of hydrogen compression,Understanding Hydrogen Fuel Cells,7,0.604629334633941
+96,Knowledge of various hydrogen compression technologies,Understanding Hydrogen Fuel Cells,7,0.5883467721169264
+97,Understanding the role of compression in hydrogen storage,Understanding Hydrogen Fuel Cells,7,0.5638954780407909
+98,Knowledge of safety considerations in hydrogen compression processes,Pressure Requirements,7.5.2.3,0.5861933139696934
+99,Selection of materials for hydrogen blending,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.46990159568157097
+100,Selection of coatings for hydrogen blending,Identifying Hazardous Zones,9.5.2,0.4242745955744457
+101,Selection of odorants for hydrogen blending,Identifying Hazardous Zones,9.5.2,0.42575654364001636
+102,Selection of inhibitors for hydrogen blending,Catalysts,7.3.4,0.37928004407333726
+103,Understanding how materials behave under high pressure hydrogen conditions,Material Implications in Hydrogen Systems,9.4,0.5206835367325243
+104,Understanding the impact of high pressure on material integrity,Evaluating Material Durability and Corrosion Resistance,9.4.4,0.2899546179752617
+105,Understanding the risk of hydrogen embrittlement in high pressure environments,Pressure Requirements,7.5.2.3,0.5460905173501411
+106,Understanding safety protocols related to material behavior in high pressure hydrogen environments,Safety Measures for Hazardous Areas,9.5.3,0.6009221893721028
+107,Maintenance of ventilation systems for hydrogen blending,Identifying Hazardous Zones,9.5.2,0.5040655112478145
+108,Maintenance of leak detection systems for hydrogen blending,Identifying Hazardous Zones,9.5.2,0.5151241392177555
+109,Maintenance of flame detection systems for hydrogen blending,Identifying Hazardous Zones,9.5.2,0.5343394650671809
+110,Maintenance of corrosion prevention equipment and systems,Safe Removal of Degraded Units,8.5.2,0.4623764849866162
+111,Knowledge of fuel cell technology,Understanding Hydrogen Fuel Cells,7,0.6439794092164801
+112,Knowledge of different types of fuel cells,Types of Hydrogen Fuel Cells,7.2,0.7003798982472571
+113,Understanding of fuel cell components and processes,Components of Hydrogen Fuel Cells,7.3,0.7458729159658898
+114,Understanding of hydro-electric power trains,Electrochemical Reactions,7.4.2,0.36011744629719433
+115,Appropriate selection and design of electrolyzers for hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.4954721072576531
+116,Appropriate selection and design of pressure vessels to withstand hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.5344870102315308
+117,Appropriate selection and design of compressors to withstand hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.5299017857225853
+118,Appropriate selection and design of piping systems and fittings to withstand hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.5027644931671503
+119,Appropriate selection and design of valves and seals to withstand hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.5497931579544484
+120,"Maintenance of electrolyzers, vessels, compressors, piping systems, valves, and seals to withstand hydrogen pressure and temperatures",Pressure Requirements,7.5.2.3,0.4836816700663382
+121,Management of hydrogen fueling stations,Operating Conditions,7.5.2,0.5330805631362802
+122,Maintenance of hydrogen fueling station equipment,Fuel Cell Maintenance and Replacement,8,0.5747720962260238
+123,Continuous improvement of hydrogen fueling station operations,Operating Conditions,7.5.2,0.5323533399659869
+124,Maintenance and management of mobile hydrogen fueling systems,Arranging for Fuel Cell Replacement,8.4,0.5900769651761748
+125,Understanding the principles of hydrogen blending for heating,Chemical and Electrical Processes,7.4,0.5374537046072643
+126,Understanding the impact of hydrogen blending on heating systems,Chemical and Electrical Processes,7.4,0.5530680308558142
+127,Understanding safety considerations for hydrogen blending in heating systems,Pressure Requirements,7.5.2.3,0.546366275504298
+128,Understanding efficiency and performance factors when using hydrogen blending for heating,Efficiency and Performance,7.5.3,0.5943185397014276
+129,Understanding of coatings effective against hydrogen corrosion,Understanding Hydrogen Fuel Cells,7,0.5363793817599869
+130,Understanding of coatings effective against hydrogen embrittlement,Understanding Hydrogen Fuel Cells,7,0.48017587333231504
+131,Knowledge of correct application techniques for protective coatings,Safety Measures for Hazardous Areas,9.5.3,0.31397576787727033
+132,Knowledge of maintaining coatings to ensure long-term protection,Safe Removal of Degraded Units,8.5.2,0.3105033160229188
+133,Understanding of hydrogen technologies,Understanding Hydrogen Fuel Cells,7,0.7975586505458649
+134,Understanding the cost aspects of hydrogen technologies,Application Contexts,7.5.5,0.6230839394569075
+135,Understanding the carbon impact of hydrogen technologies,Understanding Hydrogen Fuel Cells,7,0.5933723014040179
+136,"Evaluating project feasibility against commercial, technical, and non-technical requirements",Safety Measures for Hazardous Areas,9.5.3,0.45771061269799995
+137,Knowledge of relevant codes for hydrogen fueling station equipment,Identifying Hazardous Zones,9.5.2,0.6089839114744162
+138,Knowledge of industry standard processes for hydrogen fueling stations,Chemical and Electrical Processes,7.4,0.6383442465037714
+139,Knowledge of hydrogen production technology,Understanding Hydrogen Fuel Cells,7,0.6906482151052197
+140,Knowledge of distribution systems for hydrogen,Understanding Hydrogen Fuel Cells,7,0.584054449317594
+141,Knowledge of hydrogen dispensing systems,Understanding Hydrogen Fuel Cells,7,0.5941511529696895
+142,Understanding how to match hydrogen technology with the needs of different fleets,Application Contexts,7.5.5,0.5032707272012886
+143,Process engineering skills specific to hydrogen,Chemical and Electrical Processes,7.4,0.6031277323471138
+144,Conducting hazard risk analysis and reviews,Safety Measures for Hazardous Areas,9.5.3,0.407633265786277
+145,Mechanical integrity analysis for hydrogen systems,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.6054856546037909
+146,Instrumented system analysis for hydrogen processes,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.6537653956537992
+147,Conducting operation readiness inspections,Scheduling Replacement Operations,8.4.3,0.2721918876171716
+148,Knowledge of compression equipment for hydrogen blending,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.48778746869084744
+149,Knowledge of turbine systems used in hydrogen blending,Electron Flow and Power Generation,7.4.4,0.5483728161406204
+150,Knowledge of combustion systems in hydrogen blending,Chemical and Electrical Processes,7.4,0.6112338408096131
+151,Understanding of other relevant equipment for hydrogen blending,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5359720931292677
+152,Assess integrity of vessels and tanks for hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.5373645725104894
+153,Assess integrity of piping systems and fittings,Safety Measures for Hazardous Areas,9.5.3,0.4305407349658035
+154,Assess integrity of valves and seals,Safety Measures for Hazardous Areas,9.5.3,0.33431511500270017
+155,Conducting comprehensive integrity assessments,Post-Replacement Testing and Verification,8.5.4,0.2889810875174702
+156,Maintenance of vessels for hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.47988939405319253
+157,Maintenance of compressors for hydrogen systems,Fuel Cell Maintenance and Replacement,8,0.473255610933357
+158,Maintenance of turbines in hydrogen systems,Fuel Cell Maintenance and Replacement,8,0.5173585603891582
+159,"Maintenance of piping systems, fittings, valves, and seals",Ensuring Compliance with Safety Standards,9.3.4,0.4013222152643019
+160,Advanced knowledge of hydrogen chemical and physical properties,Chemical and Electrical Processes,7.4,0.6703154424833855
+161,Advanced understanding of hydrogen behavior,Understanding Hydrogen Fuel Cells,7,0.6465909560208205
+162,Advanced understanding of potential hazards created by hydrogen,Understanding Hydrogen Fuel Cells,7,0.5778543282015455
+163,Develop a business case for hydrogen projects,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.564389679711711
+164,Presenting business cases to relevant stakeholders,Evaluating Material Durability and Corrosion Resistance,9.4.4,0.20640996048725224
+165,Understanding of hydrogen-related regulations,Hazardous Area Requirements,9.5,0.6239797649295956
+166,Understanding industry standards for hydrogen,Application of Standards and Regulations,9.3,0.5641763259173591
+167,Understanding of codes related to hydrogen systems,Understanding Hydrogen Fuel Cells,7,0.5978543434228107
+168,Knowledge of appropriate materials for hydrogen blending,Hazardous Area Requirements,9.5,0.5505224703647734
+169,Knowledge of seals compatible with hydrogen blending,Ensuring Compliance with Safety Standards,9.3.4,0.46508870350571674
+170,Knowledge of coatings effective for hydrogen blending,Catalysts,7.3.4,0.4787048844420574
+171,Appropriate selection and design of ventilation systems for hydrogen blending,Identifying Hazardous Zones,9.5.2,0.5298976087831723
+172,Appropriate selection and design of leak detection systems,Identifying Hazardous Zones,9.5.2,0.37055041405531797
+173,Appropriate selection and design of flame detection systems,Identifying Hazardous Zones,9.5.2,0.3565336457207573
+174,Selection and modification of corrosion prevention systems,Assessing the Severity of Degradation,8.3.2,0.46575124749548547
+175,Understanding the value proposition of hydrogen technologies related to ESG factors,Chemical and Electrical Processes,7.4,0.5521760500247932
+176,Measuring environmental impacts of hydrogen technologies,Chemical and Electrical Processes,7.4,0.5531390099198886
+177,Measuring social and governance impacts of hydrogen technologies,Application Contexts,7.5.5,0.505725165433535
+178,Appropriate selection of electrical equipment for pipeline transmission of gaseous hydrogen,Identifying Hazardous Zones,9.5.2,0.4166422753932084
+179,Selection of instrumentation systems for hydrogen pipelines,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5064854812004475
+180,Maintenance of electrical equipment for hydrogen transmission,Arranging for Fuel Cell Replacement,8.4,0.49704605466873675
+181,Maintenance of instrumentation systems for hydrogen transmission,Safety Measures for Hazardous Areas,9.5.3,0.5098360522927193
+182,Advanced knowledge of current hydrogen regulatory systems,Understanding Hydrogen Fuel Cells,7,0.5914552924252887
+183,Advanced knowledge of evolving standards in hydrogen industry,Ensuring Compliance with Safety Standards,9.3.4,0.5829536794261214
+184,Advanced understanding of policy developments in hydrogen,Understanding Hydrogen Fuel Cells,7,0.538618056747984
+185,Knowledge of fuel cell technology for FCEV drivers,Undertaking Fuel Cell Replacement,8.5,0.43391687701027015
+186,Ability to inspect FCEV vehicles,Visual Inspection Indicators,8.2.2.3,0.30161180762176354
+187,Conducting basic maintenance on FCEVs,Arranging for Fuel Cell Replacement,8.4,0.4059829174578944
+188,Conducting hydrogen refueling for FCEVs,Chemical and Electrical Processes,7.4,0.37445560251128307
+189,Understanding of relevant hydrogen regulations,Hazardous Area Requirements,9.5,0.679180584190216
+190,Understanding of industry standards for hydrogen,Application of Standards and Regulations,9.3,0.574183159174676
+191,Knowledge of relevant codes applicable to hydrogen,Identifying Hazardous Zones,9.5.2,0.6219335768862211
+192,Understanding the hydrogen production process using PEM electrolyzers,Electron Flow and Power Generation,7.4.4,0.629144508832956
+193,Knowledge of key components in PEM electrolyzers,Membranes and Electrolytes,7.3.2,0.5386589125567639
+194,Knowledge of process optimization techniques in PEM electrolyzers,Proton Exchange Membrane (PEM) Fuel Cells,7.2.2,0.47090781393702974
+195,Knowledge of fuel cell technology,Understanding Hydrogen Fuel Cells,7,0.6439794092164801
+196,Ability to inspect fuel cell vehicles,Diagnostic Testing Results,8.2.2.4,0.5084267000041884
+197,Conducting basic maintenance on fuel cell vehicles,Arranging for Fuel Cell Replacement,8.4,0.7628283426154258
+198,Conduct techno-economic analysis,Cost-Benefit Analysis for Replacement,8.3.3,0.2841746539844183
+199,Compile and present reports based on techno-economic analysis,Cost-Benefit Analysis for Replacement,8.3.3,0.23986894051888186
+200,Selection of key electrical equipment for power generation using hydrogen blending,Chemical and Electrical Processes,7.4,0.5022153071021445
+201,Selection of electronic systems for hydrogen blending power generation,Chemical and Electrical Processes,7.4,0.5212167987431424
+202,Maintenance of electrical equipment for hydrogen blending power generation,Chemical and Electrical Processes,7.4,0.5011824423628337
+203,Maintenance of electronic systems in hydrogen blending power generation,Electron Flow and Power Generation,7.4.4,0.5380271273564481
+204,Understanding the hydrogen gas production value chain,Chemical and Electrical Processes,7.4,0.5834317653223505
+205,Understanding the hydrogen distribution value chain,Understanding Hydrogen Fuel Cells,7,0.6435899974659868
+206,Understanding the hydrogen storage value chain,Understanding Hydrogen Fuel Cells,7,0.6479299981320946
+207,Knowledge of end-use applications within the hydrogen value chain,Application Contexts,7.5.5,0.5778389783179863
+208,Understanding fueling standards for hydrogen products,Understanding Hydrogen Fuel Cells,7,0.6651880424360183
+209,Knowledge of certification requirements for hydrogen products,Safety Measures for Hazardous Areas,9.5.3,0.6648109237743823
+210,Understanding hydrogen properties,Understanding Hydrogen Fuel Cells,7,0.783549317695307
+211,Understanding the behavior of hydrogen,Understanding Hydrogen Fuel Cells,7,0.6700237098447407
+212,Knowledge of potential hazards created by hydrogen,Hazardous Area Requirements,9.5,0.5532869374209571
+213,Design and selection of pressure vessels for hydrogen systems,Pressure Requirements,7.5.2.3,0.5416938749531405
+214,Design and selection of piping systems and fittings,Application of Standards and Regulations,9.3,0.4113946026307035
+215,Design and selection of valves and seals,Identifying Relevant Standards,9.3.2,0.301197241037066
+216,Design and selection of coatings for protection against hydrogen,Safety Measures for Hazardous Areas,9.5.3,0.49362837184128716
+217,Design and selection of insulation to withstand hydrogen conditions,Safety Measures for Hazardous Areas,9.5.3,0.46336838601233954
+218,Assess strength of welds in hydrogen systems,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5173438122112302
+219,Assess integrity of welds under hydrogen pressure,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5229168373732955
+220,Assess integrity of welds under hydrogen temperature conditions,Safety Measures for Hazardous Areas,9.5.3,0.5314699329994521
+221,Understanding of installation procedures unique to hydrogen,Chemical and Electrical Processes,7.4,0.606903167600662
+222,Comprehensive understanding of testing procedures due to hydrogen's nature,Understanding Hydrogen Fuel Cells,7,0.6235921447030677
+223,Selection and design of production equipment for hydrogen systems,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.6096791252922754
+224,Selection of materials for hydrogen production systems,Material Selection Criteria,9.4.2,0.5343059428561865
+225,Selection of protective coatings for hydrogen production,Safety Measures for Hazardous Areas,9.5.3,0.4644895078213511
+226,Maintenance of production equipment and materials,Safe Removal of Degraded Units,8.5.2,0.4054165435492141
+227,Selection of key electrical equipment for an electrolyzer hydrogen production plant,Electrochemical Reactions,7.4.2,0.5336659388728214
+228,Selection of electronic systems for electrolyzer hydrogen production,Electrochemical Reactions,7.4.2,0.5622369556013341
+229,Maintenance of electrical equipment in electrolyzer plants,Arranging for Fuel Cell Replacement,8.4,0.3679730689508708
+230,Maintenance of electronic systems in electrolyzer plants,Membranes and Electrolytes,7.3.2,0.3843229120959796
+231,Understanding of EMC/EMI compliance requirements,Hazardous Area Requirements,9.5,0.3651195493392486
+232,Knowledge of standards for EMC/EMI in hydrogen systems,Application of Standards and Regulations,9.3,0.5033949640477174
+233,Experience with codes related to electrical systems in road vehicles,Bipolar Plates,7.3.5,0.32743670549038784
+234,Experience with standards for electrical systems in road vehicles,Bipolar Plates,7.3.5,0.30916933612276776
+235,Handling compliance issues in electrical systems for road vehicles,Safety Measures for Hazardous Areas,9.5.3,0.3768083740200643
+236,Staying current with advances in hydrogen technology,Understanding Hydrogen Fuel Cells,7,0.5151916493191809
+237,Keeping up-to-date with changes in hydrogen regulations,Application of Standards and Regulations,9.3,0.5547256140927096
+238,Keeping up-to-date with changes in hydrogen standards,Ensuring Compliance with Safety Standards,9.3.4,0.540833030578857
+239,Keeping up-to-date with changes in hydrogen codes,Ensuring Compliance with Safety Standards,9.3.4,0.5132540518571832
+240,Understanding of high-power electrical equipment for hydrogen blending power generation,Electron Flow and Power Generation,7.4.4,0.5689042445721391
+241,Knowledge of transformers used in hydrogen blending,Chemical and Electrical Processes,7.4,0.5531638751189211
+242,Knowledge of substations in hydrogen blending power generation,Electron Flow and Power Generation,7.4.4,0.5126015355543557
+243,Knowledge of capacitors used in hydrogen blending,Understanding Hydrogen Fuel Cells,7,0.5220588090612269
+244,Understanding welding procedures for hydrogen systems,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.6703119126523095
+245,Techniques for welding in hydrogen environments,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5644288926689421
+246,Ensuring quality and safety of welds in hydrogen systems,Safety Measures for Hazardous Areas,9.5.3,0.5523980996117832
+247,Maintenance of pressure vessels in hydrogen fueling systems,Pressure Requirements,7.5.2.3,0.5139100410286311
+248,Maintenance of vaporizers in hydrogen fueling systems,Fuel Cell Maintenance and Replacement,8,0.5380900970872031
+249,"Maintenance of flow, level, and pressure instrumentation",Safety Measures for Hazardous Areas,9.5.3,0.3515530967266759
+250,Maintenance of dispensers in hydrogen fueling systems,Safe Removal of Degraded Units,8.5.2,0.4821966263520807
+251,Maintenance of pumps in hydrogen fueling systems,Fuel Cell Maintenance and Replacement,8,0.5564471908207208
+252,Maintenance of PLCs and control software,Safe Removal of Degraded Units,8.5.2,0.29772923689584563
+253,Maintenance of Human Machine Interface (HMI) systems,Safe Removal of Degraded Units,8.5.2,0.2908300469091665
+254,Understanding of how hydrogen fuel cell technology works,Understanding Hydrogen Fuel Cells,7,0.8140743779903138
+255,Value proposition of hydrogen fuel cells for emissions targets,Application Contexts,7.5.5,0.5921433616717978
+256,Value proposition of hydrogen fuel cells in terms of cost-effectiveness,Efficiency and Performance,7.5.3,0.6695449342221403
+257,Management of FCEV fleet for optimized safety and utilization,Assessing the Severity of Degradation,8.3.2,0.3543818634653475
+258,Maintenance of FCEV fleet to ensure safety and cost savings,Safe Removal of Degraded Units,8.5.2,0.40114383641243045
+259,Continuous improvement of fleet operations for cost savings and efficiency,Efficiency and Performance,7.5.3,0.37356958759456615
+260,Strong industry knowledge of hydrogen technologies,Chemical and Electrical Processes,7.4,0.5322931279111098
+261,Experience with hydrogen production and handling processes,Chemical and Electrical Processes,7.4,0.6166143014191656
+262,Knowledge of selecting and maintaining equipment to withstand hydrogen conditions,Hazardous Area Requirements,9.5,0.5358699133562634
+263,Knowledge of selecting materials that can withstand hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.5071515991118278
+264,Selection and design of steam and combustion turbines for hydrogen systems,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5598632138934359
+265,Selection and design of compressors to withstand hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.5357084058240371
+266,Selection and design of pressure vessels,Pressure Requirements,7.5.2.3,0.3523666670864195
+267,Selection and design of valves,Identifying Relevant Standards,9.3.2,0.26181268861097906
+268,Selection and design of steam generators and boilers,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.2773320251614444
+269,Selection and design of pumps,Application of Standards and Regulations,9.3,0.25389357991944095
+270,Selection and design of piping systems and BOP equipment,Identifying Hazardous Zones,9.5.2,0.36465570548834814
+271,"Maintenance of turbines, compressors, vessels, boilers, pumps, piping, and BOP equipment",Arranging for Fuel Cell Replacement,8.4,0.37794787268032604
+272,Understanding and application of eco-driving techniques,Catalysts,7.3.4,0.33112135733427994
+273,Understanding the impact of eco-driving on fleet sustainability,Catalysts,7.3.4,0.40246299320529677
+274,Techniques to optimize fuel consumption,Fuel Cell Maintenance and Replacement,8,0.3411310399391585
+275,Achieving cost savings through eco-driving,Efficiency and Performance,7.5.3,0.3380275040119689
+276,Understanding the hydrogen production value chain,Understanding Hydrogen Fuel Cells,7,0.6351954301972629
+277,Knowledge of the distribution aspect of the hydrogen value chain,Understanding Hydrogen Fuel Cells,7,0.4809760999503665
+278,Knowledge of the storage aspect of the hydrogen value chain,Understanding Hydrogen Fuel Cells,7,0.5316557837591767
+279,Knowledge of end-use applications in the hydrogen value chain,Application Contexts,7.5.5,0.5802380215649167
+280,Understanding the principles of fuel cell technology,Understanding Hydrogen Fuel Cells,7,0.6268717160150544
+281,Knowledge of key components in fuel cells,Components of Hydrogen Fuel Cells,7.3,0.7317541818305692
+282,Knowledge of the processes within fuel cells,Chemical and Electrical Processes,7.4,0.6929455700226351
+283,Knowledge of pros and cons of various fuel cell technologies,Catalysts,7.3.4,0.5428376363650246
+284,Knowledge of electrical equipment used in hydrogen fueling systems,Chemical and Electrical Processes,7.4,0.6645662449141891
+285,Knowledge of instrumentation systems for hydrogen fueling,Understanding Hydrogen Fuel Cells,7,0.6008890768314648
+286,Integration of electrical and instrumentation systems in fueling operations,Chemical and Electrical Processes,7.4,0.422025900324119
+287,Maintenance of electrical and instrumentation systems in hydrogen fueling,Chemical and Electrical Processes,7.4,0.5740006023850328
+288,Understanding practices to mitigate hydrogen corrosion,Understanding Hydrogen Fuel Cells,7,0.499800668080153
+289,Knowledge of technologies used to prevent hydrogen embrittlement,Understanding Hydrogen Fuel Cells,7,0.5276466580871574
+290,Selection of equipment resistant to hydrogen-induced degradation,Assessing the Severity of Degradation,8.3.2,0.43670857479228387
+291,Implementation of monitoring systems for corrosion and embrittlement,Safety Measures for Hazardous Areas,9.5.3,0.39675654921571724
+292,Knowledge of key instrumentation systems for electrolyzers,Membranes and Electrolytes,7.3.2,0.466353032077111
+293,Knowledge of key electrical equipment in electrolyzer hydrogen production,Electrochemical Reactions,7.4.2,0.6279244193686332
+294,Integration of instrumentation and electrical systems in electrolyzer operations,Membranes and Electrolytes,7.3.2,0.4487808086060239
+295,Maintenance of instrumentation and electrical systems in electrolyzers,Membranes and Electrolytes,7.3.2,0.3899270953736029
+296,Selection and design of vessels to withstand high hydrogen pressure,Pressure Requirements,7.5.2.3,0.5255538655655514
+297,Selection and design of compressors for high-pressure hydrogen systems,Pressure Requirements,7.5.2.3,0.5091023210592079
+298,Selection and design of piping systems and fittings for high-pressure hydrogen,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5579568898916955
+299,Selection and design of valves and seals to withstand high hydrogen pressure,Pressure Requirements,7.5.2.3,0.5399111280469789
+300,Knowledge of key instrumentation for ventilation systems in hydrogen blending,Identifying Hazardous Zones,9.5.2,0.5474805238193758
+301,Knowledge of electrical systems used for leak detection in hydrogen blending,Chemical and Electrical Processes,7.4,0.5485132844561852
+302,Knowledge of instrumentation and controls for flame detection,Safety Measures for Hazardous Areas,9.5.3,0.3292042496599328
+303,Understanding of instrumentation and electrical controls for corrosion prevention,Safety Measures for Hazardous Areas,9.5.3,0.35669086469066313
+304,Selection and design of combustion systems for hydrogen environments,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5860824504852796
+305,Selection and design of compression systems for high/low hydrogen pressure,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5063888878841662
+306,Selection and design of pumping systems for hot/cold hydrogen environments,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5080399853098474
+307,Selection and design of turbines to withstand hydrogen conditions,Operating Conditions,7.5.2,0.5397764535128596
+308,Maintenance of key systems to withstand hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.5443259885503416
+309,Knowledge of measurement equipment for hydrogen transmission,Safety Measures for Hazardous Areas,9.5.3,0.4964200283507849
+310,Knowledge of instrumentation systems in hydrogen transmission,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5607198445125678
+311,Knowledge of cathodic protection equipment to prevent hydrogen corrosion,Safety Measures for Hazardous Areas,9.5.3,0.518986607432017
+312,Techniques for implementing cathodic protection in hydrogen systems,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5950120965097075
+313,Selection and design of hydrogen fuel tanks to withstand pressure,Pressure Requirements,7.5.2.3,0.6519724918830166
+314,Selection and design of piping systems and fittings for hydrogen,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.6038832842180836
+315,Selection and design of valves and seals for hydrogen systems,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5382563243636953
+316,"Maintenance of fuel tanks, piping, valves, and seals in hydrogen systems",Safety Measures for Hazardous Areas,9.5.3,0.5145553109906236
+317,Selection of key instrumentation equipment for electrolyzer hydrogen production,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.46965442942387314
+318,Integration of key instrumentation systems in electrolyzer operations,Membranes and Electrolytes,7.3.2,0.42775503669251114
+319,Maintenance of instrumentation systems in electrolyzer hydrogen production,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5326740968552374
+320,Understanding of automated process systems in electrolyzer operations,Membranes and Electrolytes,7.3.2,0.4529063065403143
+321,Understanding of control systems for electrolyzers,Membranes and Electrolytes,7.3.2,0.5111609082447031
+322,Integration of automated and control systems in electrolyzer operations,Membranes and Electrolytes,7.3.2,0.4144009311124386
+323,Understanding and application of eco-driving techniques,Catalysts,7.3.4,0.33112135733427994
+324,Techniques to reduce environmental impact through eco-driving,Assessing the Severity of Degradation,8.3.2,0.31008737137068887
+325,Optimizing fuel consumption in vehicle operations,Decision-Making for Replacement,8.3,0.4218945334391847
+326,Achieving cost savings through eco-driving practices,Efficiency and Performance,7.5.3,0.33040743961171404
+327,Troubleshooting hydrogen fuel compression equipment,Pressure Requirements,7.5.2.3,0.4920578204790158
+328,Troubleshooting hydrogen fuel dispensing equipment,Fuel Cell Maintenance and Replacement,8,0.446244868778656
+329,Performing routine maintenance on hydrogen compression equipment,Arranging for Fuel Cell Replacement,8.4,0.5180772772220158
+330,Performing routine maintenance on hydrogen dispensing equipment,Arranging for Fuel Cell Replacement,8.4,0.5057987351217302
+331,Selection and design of electrolyzers to withstand hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.5035780088807149
+332,Selection and design of vessels for high/low hydrogen pressure and hot/cold temperatures,Pressure Requirements,7.5.2.3,0.44846251403524096
+333,Selection and design of piping systems and fittings for hydrogen conditions,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.6107378844611333
+334,Selection and design of valves and seals for hydrogen conditions,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5378495529202877
+335,Maintenance of key hydrogen systems to ensure reliability under varying conditions,Operating Conditions,7.5.2,0.5070267817553997
+336,Selection of pressure vessels for hydrogen fueling systems,Pressure Requirements,7.5.2.3,0.49325596411279937
+337,Selection of compression systems for hydrogen fueling,Pressure Requirements,7.5.2.3,0.5073433487276804
+338,Selection of instrumentation and controls for fueling operations,Scheduling Replacement Operations,8.4.3,0.3333440376980028
+339,Maintenance of pressure vessels in fueling operations,Arranging for Fuel Cell Replacement,8.4,0.4726955172770667
+340,Maintenance of compression systems in hydrogen fueling,Pressure Requirements,7.5.2.3,0.5393277674031344
+341,Maintenance of instrumentation and control systems in fueling operations,Scheduling Replacement Operations,8.4.3,0.5114639445224589
+342,Procedures for tracing hydrogen leaks,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.48867338620573053
+343,Methods for locating hydrogen leaks,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.4520641967734982
+344,Techniques for repairing hydrogen leaks,Understanding Hydrogen Fuel Cells,7,0.4431033717020314
+345,Understanding and application of eco-driving techniques,Catalysts,7.3.4,0.33112135733427994
+346,Techniques to reduce environmental impact through eco-driving,Assessing the Severity of Degradation,8.3.2,0.31008737137068887
+347,Optimizing fuel consumption in vehicle operations,Decision-Making for Replacement,8.3,0.4218945334391847
+348,Achieving cost savings through eco-driving practices,Efficiency and Performance,7.5.3,0.33040743961171404
+349,Maintenance of vessels to withstand hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.5409847489558361
+350,Maintenance of compressors for hydrogen conditions,Pressure Requirements,7.5.2.3,0.4979336219236786
+351,Maintenance of piping systems and fittings under hydrogen conditions,Hazardous Area Requirements,9.5,0.5927989052482884
+352,Maintenance of valves and seals in hydrogen systems,Pressure Requirements,7.5.2.3,0.4942556600882466
+353,Knowledge of basic control systems for combined-cycle power generation using hydrogen blending,Chemical and Electrical Processes,7.4,0.5475683208100327
+354,Knowledge of advanced control systems for combined-cycle power generation using hydrogen,Electron Flow and Power Generation,7.4.4,0.6050538876115716
+355,Knowledge of high-power electrical equipment in renewable electricity powered electrolyzers,Electrochemical Reactions,7.4.2,0.42885537918226313
+356,Understanding interconnection applications in renewable energy powered electrolyzers,Electrochemical Reactions,7.4.2,0.518055557915205
+357,Selection and design of compression systems for hydrogen blending,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5513885316604198
+358,Selection and design of turbines for hydrogen blending,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.4893965184955278
+359,Selection and design of combustion systems for hydrogen blending,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5558815986390164
+360,Selection and design of valves and fittings for hydrogen blending,Application of Standards and Regulations,9.3,0.5184999382409189
+361,Selection and design of piping systems for hydrogen blending,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5768606279617522
+362,"Maintenance of compression, turbines, combustion, and related systems for hydrogen blending",Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5162256151864161
+363,Selection and design of hydrogen fuel tanks to withstand pressure and temperature variations,Pressure Requirements,7.5.2.3,0.6384512129449221
+364,Selection and design of piping systems and fittings for hydrogen,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.6038832842180836
+365,Selection and design of valves and seals to withstand hydrogen conditions,Pressure Requirements,7.5.2.3,0.5397829230674503
+366,"Maintenance of fuel tanks, piping, valves, and seals in hydrogen systems",Safety Measures for Hazardous Areas,9.5.3,0.5145553109906236
+367,Maintenance of PEM electrolyzers,Proton Exchange Membrane (PEM) Fuel Cells,7.2.2,0.40304613987673665
+368,Maintenance of systems supporting PEM electrolyzers,Proton Exchange Membrane (PEM) Fuel Cells,7.2.2,0.40208568303010117
+369,Regular inspection and troubleshooting of PEM electrolyzer systems,Proton Exchange Membrane (PEM) Fuel Cells,7.2.2,0.371002096602558
+370,Selection and design of hydrogen compression systems,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5691285444948828
+371,Selection and design of turbines for hydrogen environments,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5295735418826163
+372,Maintenance of hydrogen compression systems,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.4936517320051841
+373,Maintenance of turbines in hydrogen environments,Safe Removal of Degraded Units,8.5.2,0.5082187928245561
+374,Selection of key instrumentation equipment for power generation using hydrogen blending,Electron Flow and Power Generation,7.4.4,0.45362066866786654
+375,Calibration of instrumentation systems for hydrogen blending,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5519856246331041
+376,Maintenance of instrumentation in hydrogen blending power generation,Hazardous Area Requirements,9.5,0.4955480321596999
+377,Understanding the hydrogen production value chain,Understanding Hydrogen Fuel Cells,7,0.6351954301972629
+378,Understanding distribution and logistics in the hydrogen value chain,Understanding Hydrogen Fuel Cells,7,0.5599135381027465
+379,Understanding the role of storage in the hydrogen value chain,Ion Exchange Mechanisms,7.4.3,0.5658003827501161
+380,Understanding end-use applications in the hydrogen value chain,Application Contexts,7.5.5,0.5891910009628007
+381,Understanding of hydrogen production technology,Understanding Hydrogen Fuel Cells,7,0.7658113861574389
+382,Understanding of distribution technology for hydrogen,Electron Flow and Power Generation,7.4.4,0.6331767514857226
+383,Understanding of dispensing technology for hydrogen,Understanding Hydrogen Fuel Cells,7,0.6241468861760128
+384,Understanding of cryogenic hydrogen storage systems,Understanding Hydrogen Fuel Cells,7,0.6826930413962123
+385,Knowledge of gaseous hydrogen storage systems,Understanding Hydrogen Fuel Cells,7,0.6418826476610345
+386,Knowledge of delivery systems for cryogenic and gaseous hydrogen,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5148350699484078
+387,Understanding of high-power electrical equipment in electrolyzer systems,Electrochemical Reactions,7.4.2,0.43212498594433146
+388,Knowledge of integrating high-power electrical equipment with electrolyzers,Membranes and Electrolytes,7.3.2,0.4233911017698029
+389,Maintenance of high-power electrical equipment in electrolyzer systems,Arranging for Fuel Cell Replacement,8.4,0.34892594261719023
+390,Understanding of the combined-cycle power generation process using hydrogen blending,Electron Flow and Power Generation,7.4.4,0.5906888099397077
+391,Knowledge of hydrogen's role in combined-cycle power generation,Electron Flow and Power Generation,7.4.4,0.6257754577058475
+392,Knowledge of operational adjustments for hydrogen blending,Operational Implications in Hazardous Environments,9.5.4,0.5794113528335805
+393,Knowledge of environmental laws related to hydrogen,Hazardous Area Requirements,9.5,0.5839061512146602
+394,Understanding regulations for hydrogen infrastructure and operations,Hazardous Area Requirements,9.5,0.6304891991606038
+395,Understanding best environmental practices in hydrogen operations,Operating Conditions,7.5.2,0.6401024548821684
+396,Understanding of automated process systems in power generation using hydrogen blending,Chemical and Electrical Processes,7.4,0.6827706538488967
+397,Knowledge of control systems for hydrogen blending in power generation,Electron Flow and Power Generation,7.4.4,0.598749541964249
+398,Integration of automated systems in hydrogen blending power generation,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5155922916432774
+399,Understanding acceptance criteria for hydrogen infrastructure,Identifying Hazardous Zones,9.5.2,0.5278961101058889
+400,Knowledge of compliance testing in hydrogen infrastructure,Safety Measures for Hazardous Areas,9.5.3,0.6305363215643178
+401,Understanding materials testing protocols for hydrogen infrastructure,Hazardous Area Requirements,9.5,0.6163106159811289
+402,Advanced knowledge of regulatory systems governing hydrogen,Understanding Hydrogen Fuel Cells,7,0.5985991546841656
+403,In-depth knowledge of standards for hydrogen infrastructure and operations,Safety Measures for Hazardous Areas,9.5.3,0.5570960778208955
+404,Understanding advanced policy considerations for hydrogen,Application Contexts,7.5.5,0.5415461427323909
+405,Understanding material rules for compatibility with hydrogen,Material Selection Criteria,9.4.2,0.5807045905261158
+406,Understanding welding processes that are compatible with hydrogen,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5658261719160264
+407,Understanding the procedures necessary for welding in hydrogen environments,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.6244383248653406
+408,Selection of compression systems to withstand hydrogen pressure,Pressure Requirements,7.5.2.3,0.5302287258552065
+409,Selection of turbines that are compatible with hydrogen pressure,Pressure Requirements,7.5.2.3,0.44686636630467347
+410,Maintenance of compression systems under hydrogen pressure,Pressure Requirements,7.5.2.3,0.5628210343072846
+411,Maintenance of turbines to ensure reliability under hydrogen pressure,Pressure Requirements,7.5.2.3,0.5527646337297389
+412,Optimization of rectification systems for electrolyzer plants,Electrochemical Reactions,7.4.2,0.3093706964938221
+413,Knowledge of rectification technology for electrolyzer plants,Electrochemical Reactions,7.4.2,0.4531421990296778
+414,Integration of optimized rectification systems in plant operations,Decoding Engineering Drawings,9.2.4,0.3127753063612614
+415,Staying informed about updates in hydrogen technology,Understanding Hydrogen Fuel Cells,7,0.45365632580678694
+416,"Keeping current with regulatory, standard, and code changes in the hydrogen sector",Applying Regulatory Requirements,9.3.3,0.5894802832174482
+417,Assessing the impact of changes in technology and regulations on safety requirements,Safety Measures for Hazardous Areas,9.5.3,0.49428501611123465
+418,Maintenance of mechanical systems under hydrogen pressure,Pressure Requirements,7.5.2.3,0.5675024767245341
+419,Maintenance of mechanical systems to withstand temperature variations in hydrogen environments,Operating Temperatures,7.5.2.2,0.5482104851355556
+420,Selection of electrical equipment suitable for hydrogen environments,Chemical and Electrical Processes,7.4,0.4678540321577197
+421,Maintenance of electrical systems in hydrogen production and storage environments,Chemical and Electrical Processes,7.4,0.5707539720437897
+422,Calibration and testing of instrumentation systems for hydrogen processes,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.6326429581052039
+423,Selection and design of air separation units for hydrogen pressure and temperature variations,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.49333252133833083
+424,Selection and design of vessels for hydrogen pressure and temperature variations,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.4625139208914366
+425,Selection and design of piping systems and fittings for hydrogen conditions,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.6107378844611333
+426,Selection and design of valves and seals to withstand hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.5526759014980606
+427,"Maintenance of air separation units, vessels, piping systems, valves, and seals",Safe Removal of Degraded Units,8.5.2,0.39423940596834517
+428,Knowledge of instrumentation systems for carbon dioxide (CO2) pipeline transmission,Identifying Hazardous Zones,9.5.2,0.4035430422667241
+429,Knowledge of electrical systems required for carbon dioxide (CO2) pipeline transmission,Chemical and Electrical Processes,7.4,0.41056393595984264
+430,Knowledge of systems for carbon dioxide (CO2) compression and liquefaction,Decoding Engineering Drawings,9.2.4,0.422351295806092
+431,Understanding the physical properties of carbon dioxide (CO2) in its gaseous state,Chemical and Electrical Processes,7.4,0.4474250613155806
+432,Understanding the physical properties of carbon dioxide (CO2) in its liquid state,Chemical and Electrical Processes,7.4,0.43010962318785606
+433,Knowledge of carbon dioxide (CO2) behavior in different states,Identifying Hazardous Zones,9.5.2,0.3078429900638404
+434,Selection of key electrical equipment for carbon capture technology,Electrodes (Anode and Cathode),7.3.3,0.328030765807098
+435,Maintenance of electrical systems in carbon capture plants,Chemical and Electrical Processes,7.4,0.4175016695465297
+436,Integration of electrical systems within carbon capture technology,Chemical and Electrical Processes,7.4,0.4736685414236279
+437,Selection of materials for carbon dioxide (CO2) pump facility equipment,Hazardous Area Requirements,9.5,0.3420110653562405
+438,Selection of coatings for corrosion protection in carbon dioxide (CO2) pump systems,Pressure Requirements,7.5.2.3,0.3194938913688916
+439,Selection of seals for carbon dioxide (CO2) pump systems to ensure system integrity,Identifying Hazardous Zones,9.5.2,0.3875466625898252
+440,Selection and design of vessels to withstand hydrogen pressure and temperature variations,Pressure Requirements,7.5.2.3,0.5033043571829723
+441,Selection and design of compressors to handle hydrogen pressure and temperature extremes,Pressure Requirements,7.5.2.3,0.49443981224669686
+442,Selection and design of piping systems and fittings for hydrogen conditions,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.6107378844611333
+443,Selection and design of valves and seals to maintain integrity under hydrogen conditions,Identifying Hazardous Zones,9.5.2,0.5070483299351572
+444,"Maintenance of vessels, compressors, piping systems, valves, and seals to ensure reliability under hydrogen conditions",Ensuring Compliance with Safety Standards,9.3.4,0.46527385218409645
+445,Maintenance of equipment in Steam Methane Reforming (SMR) hydrogen production,Hazardous Area Requirements,9.5,0.39839678267385903
+446,Maintenance of equipment in Autothermal Reforming (ATR) hydrogen production,Fuel Cell Maintenance and Replacement,8,0.4529321095856662
+447,Understanding of Steam Methane Reforming (SMR) process for hydrogen production,Chemical and Electrical Processes,7.4,0.4941919026424575
+448,Understanding of Autothermal Reforming (ATR) process for hydrogen production,Chemical and Electrical Processes,7.4,0.4835150189411137
+449,Understanding of the properties of carbon dioxide (CO2) in a gaseous state,Chemical and Electrical Processes,7.4,0.41917133315870614
+450,Understanding the behavior of carbon dioxide (CO2) under different conditions in a gaseous state,Electrodes (Anode and Cathode),7.3.3,0.3784920412095969
+451,Understanding of automated process systems used in carbon capture,Chemical and Electrical Processes,7.4,0.44147230363466994
+452,Knowledge of control systems specific to carbon capture processes,Chemical and Electrical Processes,7.4,0.3972522966226998
+453,Keep up-to-date with advancements in carbon dioxide (CO2) storage technology,Electrodes (Anode and Cathode),7.3.3,0.3568613445589901
+454,Stay informed on carbon dioxide (CO2) monitoring techniques and options,Safety Measures for Hazardous Areas,9.5.3,0.31123880727599396
+455,Understanding of carbon dioxide (CO2) properties and behavior in various states,Chemical and Electrical Processes,7.4,0.34984923045996963
+456,Identification of potential hazards related to carbon dioxide (CO2),Identifying Hazardous Zones,9.5.2,0.4187687479959443
+457,Selection of key instrumentation equipment for carbon capture technology,Safety Measures for Hazardous Areas,9.5.3,0.3066270226601151
+458,Maintenance of key instrumentation systems in carbon capture plants,Identification of Degraded Fuel Cells,8.2,0.40037263655569777
+459,Understanding the principles of carbon dioxide (CO2) compression,Chemical and Electrical Processes,7.4,0.3885399142845354
+460,Application of carbon dioxide (CO2) compression techniques in industrial settings,Identifying Hazardous Zones,9.5.2,0.362964305919226
+461,Understanding the components of hydrogen gas value-chains,Components of Hydrogen Fuel Cells,7.3,0.6128212031372672
+462,Analyzing the economic impact of hydrogen value-chains,Application Contexts,7.5.5,0.5063223824339659
+463,Understanding carbon capture processes,Chemical and Electrical Processes,7.4,0.5118320899161463
+464,Understanding separation and purification techniques in carbon capture,Chemical and Electrical Processes,7.4,0.4232389833099923
+465,Understanding liquefaction processes in carbon capture,Chemical and Electrical Processes,7.4,0.5376924723578139
+466,Selection and design of electrolyzers to withstand hydrogen pressure and temperature variations,Pressure Requirements,7.5.2.3,0.4921746955235051
+467,Selection and design of vessels for hydrogen pressure and temperature variations,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.4625139208914366
+468,Selection and design of compressors for hydrogen environments,Pressure Requirements,7.5.2.3,0.5015381270677612
+469,Selection and design of piping systems and fittings for hydrogen conditions,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.6107378844611333
+470,Selection and design of valves and seals to withstand hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.5526759014980606
+471,"Maintenance of electrolyzers, vessels, compressors, piping systems, valves, and seals",Membranes and Electrolytes,7.3.2,0.3372757351678781
+472,Understanding hydrogen's chemical properties,Chemical and Electrical Processes,7.4,0.7421101565473255
+473,Knowledge of hydrogen's interaction with other materials,Chemical and Electrical Processes,7.4,0.6130022990040689
+474,Understanding hydrogen's property risks including flammability and explosive hazards,Safety Measures for Hazardous Areas,9.5.3,0.5508212925899049
+475,Knowledge of how carbon dioxide (CO2) interacts with different materials under high pressure,Pressure Requirements,7.5.2.3,0.32499258039090284
+476,Understanding the impact of high-pressure carbon dioxide (CO2) on material durability and integrity,Evaluating Material Durability and Corrosion Resistance,9.4.4,0.4237247252116382
+477,Understanding of automated process systems in carbon dioxide (CO2) pipeline transmission,Chemical and Electrical Processes,7.4,0.415723737653081
+478,Knowledge of control systems for carbon dioxide (CO2) pipeline transmission,Decoding Engineering Drawings,9.2.4,0.3856479894719421
+479,Understanding of carbon capture process,Chemical and Electrical Processes,7.4,0.5041754754917512
+480,Selection of carbon dioxide (CO2) sensors for monitoring equipment and systems,Safety Measures for Hazardous Areas,9.5.3,0.3124417396372924
+481,Maintenance of carbon dioxide (CO2) sensors and monitoring equipment,Post-Replacement Testing and Verification,8.5.4,0.36684720291952644
+482,Keep up-to-date with changes to carbon capture and storage technology,Decision-Making for Replacement,8.3,0.3129199015454066
+483,"Stay informed about changes to carbon capture and storage regulations, standards, and codes",Applying Regulatory Requirements,9.3.3,0.3844711750809273
+484,Selection of power generation equipment for hydrogen blending,Electron Flow and Power Generation,7.4.4,0.46531290853070506
+485,Design of power generation systems for hydrogen blending,Electron Flow and Power Generation,7.4.4,0.5614339230357643
+486,Maintenance of power generation systems for hydrogen blending,Electron Flow and Power Generation,7.4.4,0.5093705689196975
+487,Selection and design of vessels for hydrogen pressure and temperature variations,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.4625139208914366
+488,Selection and design of compressors to withstand hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.5357084058240371
+489,Selection and design of piping systems and fittings for hydrogen conditions,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.6107378844611333
+490,Selection and design of valves and seals for hydrogen conditions,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5378495529202877
+491,"Maintenance of vessels, compressors, piping systems, valves, and seals",Sourcing and Ordering Replacement Units,8.4.2,0.37041540673944096
+492,"Understanding the interactions between hydrogen, water, and minerals",Ion Exchange Mechanisms,7.4.3,0.5414922491423567
+493,Application of modeling techniques to predict hydrogen-water-mineral interactions,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5577513182345656
+494,Understanding long-term regulatory environment and its impact on well design,Assessing the Severity of Degradation,8.3.2,0.3436567657160975
+495,Selection of materials for well design considering carbon dioxide (CO2) injection properties and potential corrosive elements,Material Selection Criteria,9.4.2,0.32589325649590684
+496,Design considerations for well based on changes in carbon dioxide (CO2) pressure over its lifetime,Pressure Requirements,7.5.2.3,0.34549595931545196
+497,Understanding of carbon dioxide (CO2) compression processes,Chemical and Electrical Processes,7.4,0.4200819656033422
+498,Understanding of carbon dioxide (CO2) liquification processes,Chemical and Electrical Processes,7.4,0.46008138920114994
+499,Stay up to date on hydrogen storage technologies,Understanding Hydrogen Fuel Cells,7,0.49954878495076516
+500,Stay up to date on monitoring options for hydrogen storage,Safety Measures for Hazardous Areas,9.5.3,0.4964305750796587
+501,Understanding the components of carbon dioxide (CO2) value-chains,Components of Hydrogen Fuel Cells,7.3,0.38832501928398666
+502,Application of carbon dioxide (CO2) value-chain knowledge in the industry,Chemical and Electrical Processes,7.4,0.3343597355384962
+503,Selection of electrical and electronic equipment for SMR and/or ATR hydrogen production,Chemical and Electrical Processes,7.4,0.394307706672981
+504,Maintenance of electrical and electronic systems in SMR and/or ATR hydrogen production,Chemical and Electrical Processes,7.4,0.4673376406455241
+505,Knowledge of well completion solutions tailored for hydrogen environments,Hazardous Area Requirements,9.5,0.5669371785532364
+506,Application of well completion techniques to ensure safe hydrogen extraction,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5004731094718836
+507,Selection and design of combustion systems to withstand hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.6117547350075279
+508,Selection and design of compression systems for hydrogen pressure and temperature variations,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.52670578510147
+509,Selection and design of pumping systems for hydrogen environments,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5748373792463959
+510,Selection and design of turbine systems to withstand hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.5915769890736795
+511,"Maintenance of combustion, compression, pumping, and turbine systems to ensure reliability under hydrogen conditions",Pressure Requirements,7.5.2.3,0.5472075241247768
+512,Understanding reservoir geochemistry related to carbon dioxide (CO2)-water-mineral interactions,Ion Exchange Mechanisms,7.4.3,0.3240205808589134
+513,Modeling carbon dioxide (CO2)-water-mineral interactions in reservoirs,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.2992283172063832
+514,Understanding carbon dioxide (CO2) compression properties,Chemical and Electrical Processes,7.4,0.40770541044397657
+515,Understanding carbon dioxide (CO2) compression processes,Chemical and Electrical Processes,7.4,0.4315212304364413
+516,Migration modeling for carbon dioxide (CO2) storage,Identifying Hazardous Zones,9.5.2,0.37381604731327744
+517,Zone selection for carbon dioxide (CO2) storage,Identifying Hazardous Zones,9.5.2,0.36232014382211764
+518,Storage design for carbon dioxide (CO2),Electrodes (Anode and Cathode),7.3.3,0.3154712660568144
+519,Selection of key instrumentation for SMR and/or ATR hydrogen production plant,Safety Measures for Hazardous Areas,9.5.3,0.4010620184464624
+520,Maintenance of instrumentation systems in SMR and/or ATR hydrogen production plant,Safety Measures for Hazardous Areas,9.5.3,0.4441151211615686
+521,Understanding materials behavior in liquid carbon dioxide (CO2),Material Implications in Hydrogen Systems,9.4,0.4038283967914953
+522,Understanding materials behavior in high-pressure carbon dioxide (CO2),Material Implications in Hydrogen Systems,9.4,0.4057587490715655
+523,Understanding materials behavior in low-pressure carbon dioxide (CO2),Material Implications in Hydrogen Systems,9.4,0.40347252429002833
+524,Knowledge of stationary equipment required for pipeline transmission of liquid carbon dioxide (CO2),Identifying Hazardous Zones,9.5.2,0.3986360699896756
+525,Knowledge of stationary equipment required for pipeline transmission of gaseous carbon dioxide (CO2),Identifying Hazardous Zones,9.5.2,0.4027274935012388
+526,Knowledge of rotating equipment required for pipeline transmission of liquid carbon dioxide (CO2),Identifying Hazardous Zones,9.5.2,0.3663075823264613
+527,Knowledge of rotating equipment required for pipeline transmission of gaseous carbon dioxide (CO2),Identifying Hazardous Zones,9.5.2,0.3648294659855993
+528,Understanding of reservoir data for carbon dioxide (CO2) injection,Operational Implications in Hazardous Environments,9.5.4,0.32629848529287064
+529,Understanding of reservoir data for carbon dioxide (CO2) storage,Electrodes (Anode and Cathode),7.3.3,0.358195515470056
+530,Understanding of reservoir engineering fundamentals for carbon dioxide (CO2) injection,Operational Implications in Hazardous Environments,9.5.4,0.3785688093539643
+531,Understanding of well testing for carbon dioxide (CO2) injection,Safety Measures for Hazardous Areas,9.5.3,0.36183781439356555
+532,Understanding of pressure and rate transient analysis for carbon dioxide (CO2) injection,Pressure Requirements,7.5.2.3,0.3796397415222753
+533,Understanding of fluid characterization for carbon dioxide (CO2) injection,Operational Implications in Hazardous Environments,9.5.4,0.3991181940622581
+534,Knowledge of materials suitable for withstanding hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.5072523727624308
+535,Knowledge of equipment designed to withstand hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.5166217058174619
+536,Knowledge of components that can endure hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.55082515114311
+537,Understanding of measurement equipment used in carbon dioxide (CO2) transmission,Electrodes (Anode and Cathode),7.3.3,0.35706986166607757
+538,Understanding of instrumentation used in carbon dioxide (CO2) transmission,Electrodes (Anode and Cathode),7.3.3,0.4175041010338145
+539,Selection and design of compression systems,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.321930944360008
+540,Selection and design of pumping systems,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.37184760299349495
+541,Selection and design of turbine systems,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.31191928473296715
+542,"Maintenance of compression, pumping, and turbine systems",Safe Removal of Degraded Units,8.5.2,0.3710195447940017
+543,Understanding of carbon's physical and chemical properties,Chemical and Electrical Processes,7.4,0.44936393936486696
+544,Awareness of potential hazards related to carbon,Operational Implications in Hazardous Environments,9.5.4,0.3185381849688421
+545,Selection of materials for carbon dioxide (CO2) pipelines,Identifying Hazardous Zones,9.5.2,0.3067456038357488
+546,Application of coatings to protect carbon dioxide (CO2) pipelines,Identifying Hazardous Zones,9.5.2,0.3699557711601531
+547,Selection and design of carbon capture equipment,Identifying Hazardous Zones,9.5.2,0.30436049720849
+548,Selection of materials for carbon capture systems,Material Selection Criteria,9.4.2,0.30403753540812484
+549,Application of coatings to protect carbon capture systems,Catalysts,7.3.4,0.3139798206798484
+550,Maintenance of carbon capture systems and materials,Safe Removal of Degraded Units,8.5.2,0.39454377585700906
+551,Understanding reservoir engineering fundamentals for carbon dioxide (CO2) injection,Decoding Engineering Drawings,9.2.4,0.37745903717063234
+552,Understanding well testing and analysis for carbon dioxide (CO2) injection,Operational Implications in Hazardous Environments,9.5.4,0.37609976089591113
+553,Understanding pressure and rate transient analysis for carbon dioxide (CO2) injection,Pressure Requirements,7.5.2.3,0.36942656691769216
+554,Understanding fluid characterization in carbon dioxide (CO2) injection contexts,Operational Implications in Hazardous Environments,9.5.4,0.40442781966619856
+555,Knowledge of material selection for carbon dioxide (CO2) environments,Material Selection Criteria,9.4.2,0.4110258483510698
+556,Knowledge of coating selection for carbon dioxide (CO2) environments,Identifying Hazardous Zones,9.5.2,0.3669086280329905
+557,Understanding of the physical properties of carbon dioxide (CO2) in a liquid state,Chemical and Electrical Processes,7.4,0.4138683320904243
+558,Understanding of the behavior of carbon dioxide (CO2) in a liquid state,Chemical and Electrical Processes,7.4,0.38965660533127133
+559,PVT characterization specific to sequestered gas and liquid composition,Identifying Hazardous Zones,9.5.2,0.40613828443482247
+560,Thermal/flow modeling for sequestered gas and liquid compositions,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.4427855617483176
+561,In-depth understanding of hydrogen safety legislation,Safety Measures for Hazardous Areas,9.5.3,0.5860899751711112
+562,Application of hydrogen safety codes and standards in operations,Safety Measures for Hazardous Areas,9.5.3,0.7017137368331348
+563,Understanding of regulations and standards specific to Carbon Capture and Storage (CCS),Applying Regulatory Requirements,9.3.3,0.37314664251406304
+564,Application of carbon capture and storage related codes in project implementation,Identifying Hazardous Zones,9.5.2,0.486419062792264
+565,"Understanding of the carbon dioxide (CO2) value chain, including production, transportation, and storage",Electrodes (Anode and Cathode),7.3.3,0.36949111491060127
+566,Application of carbon dioxide (CO2) value chain knowledge to optimize processes,Chemical and Electrical Processes,7.4,0.4019585895484289
+567,Understanding control systems in carbon capture plants,Chemical and Electrical Processes,7.4,0.46505736989984214
+568,Optimization of control systems for process efficiency in carbon capture,Assessing the Severity of Degradation,8.3.2,0.3562732336911456
+569,Maintenance of equipment in carbon capture plants,Arranging for Fuel Cell Replacement,8.4,0.4456570299556095
+570,Monitoring and inspection of carbon capture systems for maintenance,Identification of Degraded Fuel Cells,8.2,0.49032244305471595
+571,PVT characterization specific to sequestered gas,Electron Flow and Power Generation,7.4.4,0.37819224612817215
+572,Thermal and flow modeling for sequestered gas composition,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.4265429027635288
+573,Understanding of carbon capture and separation processes,Chemical and Electrical Processes,7.4,0.4686701130157812
+574,Understanding of purification and liquefaction processes,Chemical and Electrical Processes,7.4,0.3939395679494302
+575,Understanding of steam generation processes,Electron Flow and Power Generation,7.4.4,0.4632364872139778
+576,Understanding of cavern engineering fundamentals for hydrogen injection,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5635934644267145
+577,"Understanding of well testing, pressure and rate transient analysis",Pressure Requirements,7.5.2.3,0.3652805343013936
+578,Understanding of fluid characterization in cavern environments,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.3502901622454089
+579,Understanding of well completion solutions for carbon dioxide (CO2) based on subsurface conditions,Operational Implications in Hazardous Environments,9.5.4,0.3620399397350895
+580,Understanding of long-term well integrity in carbon dioxide (CO2) environments,Operational Implications in Hazardous Environments,9.5.4,0.3503313457629895
+581,Understanding of hydrogen production process using Steam Methane Reforming (SMR),Chemical and Electrical Processes,7.4,0.523804929565501
+582,Understanding of hydrogen production process using Autothermal Reforming (ATR),Electron Flow and Power Generation,7.4.4,0.5291188929676792
+583,Understanding of reservoir data interpretation for hydrogen injection,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5393479065841492
+584,Understanding of reservoir data for hydrogen storage efficiency,Understanding Hydrogen Fuel Cells,7,0.5530782238876225
+585,Understanding of automated process systems for SMR/ATR,Bipolar Plates,7.3.5,0.2470571696817887
+586,Knowledge of control systems for optimizing SMR/ATR processes,Phosphoric Acid (PAFC) Fuel Cells,7.2.4,0.23197286660299232
+587,Understanding of electrical equipment required for pipeline transmission of carbon dioxide (CO2),Electrodes (Anode and Cathode),7.3.3,0.3992819426044878
+588,Knowledge of instrumentation systems for monitoring carbon dioxide (CO2) pipeline transmission,Identifying Hazardous Zones,9.5.2,0.40310808788172015
+589,Understanding of control systems used in SMR/ATR hydrogen production plants,Chemical and Electrical Processes,7.4,0.5258112687905384
+590,Optimization of control systems in SMR/ATR hydrogen production processes,Operating Conditions,7.5.2,0.455303948150515
+591,Selection and design of carbon dioxide (CO2) compression systems,Identifying Hazardous Zones,9.5.2,0.3739419087628728
+592,Selection and design of turbine systems for carbon dioxide (CO2) environments,Identifying Hazardous Zones,9.5.2,0.3852455795516949
+593,Maintenance of carbon dioxide (CO2) compression systems,Identifying Hazardous Zones,9.5.2,0.34089364811164846
+594,Maintenance of turbine systems for carbon dioxide (CO2) environments,Safe Removal of Degraded Units,8.5.2,0.41342656529044886
+595,Selection and design of vessels for carbon dioxide (CO2) environments,Identifying Hazardous Zones,9.5.2,0.36961121148439746
+596,Selection and design of piping systems and fittings for carbon dioxide (CO2) environments,Identifying Hazardous Zones,9.5.2,0.44519046538748064
+597,Selection and design of cryogenic systems for carbon dioxide (CO2) storage,Identifying Hazardous Zones,9.5.2,0.39161753494282203
+598,Selection and design of valves and seals for carbon dioxide (CO2) environments,Identifying Hazardous Zones,9.5.2,0.3986716888504849
+599,"Maintenance of vessels, piping systems, cryogenic systems, valves, and seals",Ensuring Compliance with Safety Standards,9.3.4,0.3381550680925458
+600,Selection of appropriate materials for carbon dioxide (CO2) compression facility maintenance,Identifying Hazardous Zones,9.5.2,0.394571554642003
+601,Selection of appropriate coatings for carbon dioxide (CO2) compression facility maintenance,Identifying Hazardous Zones,9.5.2,0.4077094362668806
+602,Selection of seals for carbon dioxide (CO2) compression facility maintenance,Identifying Hazardous Zones,9.5.2,0.41251574480301767
+603,Understanding properties and characteristics of carbon dioxide (CO2) in a liquid state,Chemical and Electrical Processes,7.4,0.3977189646022683
+604,Understanding properties and characteristics of carbon dioxide (CO2) in a gaseous state,Chemical and Electrical Processes,7.4,0.4153235504426246
+605,Maintenance of vessels to withstand hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.5409847489558361
+606,Maintenance of compressors to withstand hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.53985211514583
+607,Maintenance of piping systems and fittings under hydrogen conditions,Hazardous Area Requirements,9.5,0.5927989052482884
+608,Maintenance of valves and seals to withstand hydrogen pressure and temperatures,Pressure Requirements,7.5.2.3,0.5885409712456069
+609,Maintenance of coatings and insulation to protect against hydrogen conditions,Safety Measures for Hazardous Areas,9.5.3,0.5048843559770096
+610,Understanding of measurement equipment and instrumentation for carbon capture processes,Safety Measures for Hazardous Areas,9.5.3,0.3293199473696964
+611,Understanding of measurement equipment and instrumentation for carbon separation and purification,Safety Measures for Hazardous Areas,9.5.3,0.38522989557442333
+612,Understanding of measurement equipment and instrumentation for carbon liquefication,Application of Standards and Regulations,9.3,0.3443553914516726
+613,PVT characterization specific to sequestered carbon dioxide (CO2) composition,Electrodes (Anode and Cathode),7.3.3,0.3807333231405162
+614,Thermal/flow modeling specific to sequestered carbon dioxide (CO2) composition,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.3799218462059478
+615,Understanding the properties and characteristics of carbon dioxide (CO2) in a gaseous state,Chemical and Electrical Processes,7.4,0.40859979287763215
+616,Understanding the properties and characteristics of carbon dioxide (CO2) in a liquid state,Chemical and Electrical Processes,7.4,0.3983965142997725
+617,"Understanding of current environmental policy and regulatory frameworks in Canada, USA, and internationally",Applying Regulatory Requirements,9.3.3,0.33489632995081675
+618,"Understanding of evolving energy policy and regulatory frameworks in Canada, USA, and internationally",Applying Regulatory Requirements,9.3.3,0.3335496812387728
+619,"Understanding of climate change policy and its influence on hydrogen regulations in Canada, USA, and internationally",Applying Regulatory Requirements,9.3.3,0.46620545004391345
+620,"Understanding of the interplay between different policy areas (environmental, energy, climate change) and their impact on hydrogen",Understanding Hydrogen Fuel Cells,7,0.4789645180422022
+621,Maintenance of power generation equipment used in combined-cycle systems with hydrogen blending,Identifying Hazardous Zones,9.5.2,0.4610748368441848
+622,Maintenance of systems for hydrogen blending in combined-cycle power generation,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.4774813869702397
+623,Stay up to date on carbon dioxide (CO2) monitoring technology,Safety Measures for Hazardous Areas,9.5.3,0.3226389905451027
+624,Stay up to date on carbon dioxide (CO2) monitoring options,Safety Measures for Hazardous Areas,9.5.3,0.31271222983568725
+625,Understanding measurement equipment for carbon dioxide (CO2) storage,Electrodes (Anode and Cathode),7.3.3,0.39173613897412607
+626,Understanding instrumentation techniques for permanent carbon dioxide (CO2) storage,Electrodes (Anode and Cathode),7.3.3,0.3954075390502656
+627,Knowledge of sustainability and ESG expectations,Material Implications in Hydrogen Systems,9.4,0.31356923894055166
+628,Understanding of climate issues and science related to hydrogen,Understanding Hydrogen Fuel Cells,7,0.5579787747254737
+629,Knowledge of climate targets and their implications for hydrogen,Operational Implications in Hazardous Environments,9.5.4,0.5466109236740332
+630,Understanding of hydrogen technologies in relation to ESG factors,Chemical and Electrical Processes,7.4,0.6330201291407069
+631,Knowledge of the value proposition of hydrogen in the context of ESG,Understanding Hydrogen Fuel Cells,7,0.5497474207347129
+632,Well design based on understanding of hydrogen injection stream properties,Components of Hydrogen Fuel Cells,7.3,0.5574073351355957
+633,Material choices based on understanding of potential corrosive elements,Material Selection Criteria,9.4.2,0.38116000119504445
+634,Well design considerations based on regulatory environment and pressure changes over time,Pressure Requirements,7.5.2.3,0.4034808793901501
+635,Knowledge of key instrumentation associated with carbon capture,Electrodes (Anode and Cathode),7.3.3,0.36473014161784745
+636,Knowledge of electrical equipment associated with carbon capture,Chemical and Electrical Processes,7.4,0.41233785604188933
+637,"Knowledge of systems used in carbon separation, purification, and liquefaction processes",Chemical and Electrical Processes,7.4,0.45290348358187704
+638,Knowledge of key instrumentation associated with SMR and ATR production plants,Safety Measures for Hazardous Areas,9.5.3,0.25632223499246753
+639,Knowledge of electrical equipment associated with SMR and ATR production plants,Electrodes (Anode and Cathode),7.3.3,0.28847477901413054
+640,Knowledge of systems used in SMR and ATR hydrogen production processes,Chemical and Electrical Processes,7.4,0.5421942363400748
+641,Knowledge of hydrogen technologies,Understanding Hydrogen Fuel Cells,7,0.7030803183249041
+642,Understanding the environmental benefits of hydrogen technologies,Application Contexts,7.5.5,0.677829611411642
+643,Understanding the climate change implications of hydrogen technologies,Understanding Hydrogen Fuel Cells,7,0.6793320417589545
+644,Selection of compression systems to withstand hydrogen conditions,Pressure Requirements,7.5.2.3,0.5304907527989958
+645,Design of compression systems to operate under hydrogen pressure and temperature,Pressure Requirements,7.5.2.3,0.5733652583016594
+646,Selection of turbine systems suitable for hydrogen applications,Interpretation and Application of Technical Drawings in Hydrogen Systems,9,0.5055656154090692
+647,Maintenance of compression systems in hydrogen environments,Pressure Requirements,7.5.2.3,0.5358470869409139
+648,Maintenance of turbine systems to ensure reliability under hydrogen conditions,Operating Conditions,7.5.2,0.528029478722457

@@ -1,0 +1,649 @@
+skill_id,skill,Cluster_Threshold_0.5,Cluster_Threshold_1.0,Cluster_Threshold_1.5,Cluster_Threshold_2.0,Cluster_Threshold_2.5,Cluster_Threshold_3.0,Cluster_Threshold_3.5,Cluster_Threshold_4.0,Cluster_Threshold_4.5,Cluster_Threshold_5.0,Cluster_Threshold_5.5,Cluster_Threshold_6.0,Cluster_Threshold_6.5,Cluster_Threshold_7.0,Cluster_Threshold_7.5,Cluster_Threshold_8.0,Cluster_Threshold_8.5,Cluster_Threshold_9.0,Cluster_Threshold_9.5,Cluster_Threshold_10.0
+1,Experience with hydrogen fueling equipment and systems,218,75,31,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+2,Experience with on-site hydrogen generation,223,76,31,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+3,Experience with hydrogen compression,104,33,12,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+4,Experience with hydrogen cooling systems,209,71,29,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+5,Experience with hydrogen storage,205,70,29,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+6,Experience with hydrogen dispensing,212,72,30,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+7,Knowledge of hydrogen technologies,201,69,28,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+8,Understanding the socio-economic benefits of hydrogen,26,10,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+9,Understanding the environmental benefits of hydrogen,27,11,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+10,Understanding hydrogen's role in addressing climate change,19,8,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+11,Knowledge of key instrumentation for hydrogen pipelines,245,85,35,21,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+12,Knowledge of electrical equipment for hydrogen pipelines,246,85,35,21,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+13,Knowledge of systems associated with hydrogen pipeline transmission,247,85,35,21,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+14,Knowledge of compression systems in hydrogen pipelines,106,33,12,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+15,Knowledge of materials to protect from hydrogen corrosion,154,52,21,13,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+16,Knowledge of coatings for hydrogen corrosion protection,159,55,22,13,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+17,Knowledge of inhibitors for hydrogen corrosion protection,155,53,21,13,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+18,Correct application techniques for corrosion protection,149,50,20,12,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+19,Knowledge of materials to protect from hydrogen corrosion,154,52,21,13,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+20,Knowledge of coatings to protect from hydrogen corrosion and embrittlement,159,55,22,13,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+21,Knowledge of inhibitors to protect from hydrogen corrosion and embrittlement,155,53,21,13,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+22,Knowledge of embrittlement-specific protection strategies,437,159,66,37,23,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+23,Design of compression systems for hydrogen pressure,110,34,12,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+24,Selection of compression systems for hydrogen fueling,108,34,12,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+25,Consideration of pressure requirements in hydrogen fueling systems,139,46,19,11,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+26,Consideration of temperature requirements in hydrogen fueling systems,140,46,19,11,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+27,Appropriate selection of stationary equipment for hydrogen pipeline transmission,243,84,35,21,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+28,Appropriate selection of rotating equipment for hydrogen pipeline transmission,244,84,35,21,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+29,Maintenance of stationary equipment in hydrogen pipeline systems,286,98,42,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+30,Maintenance of rotating equipment in hydrogen pipeline systems,286,98,42,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+31,Knowledge of hydrogen refueling systems,178,62,26,16,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+32,Operation of hydrogen dispensing systems,210,72,30,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+33,Safety procedures during hydrogen refueling,180,62,26,16,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+34,Maintenance of hydrogen refueling equipment,183,64,26,16,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+35,Understanding the chemical properties of hydrogen in a gaseous state,12,5,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+36,Understanding the physical characteristics of gaseous hydrogen,12,5,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+37,Understanding the behavior of hydrogen in gaseous form,13,5,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+38,Understanding of hydrogen technologies,199,69,28,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+39,Understanding the economic advantages of hydrogen,26,10,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+40,Understanding the economic disadvantages of hydrogen,26,10,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+41,Understanding the social advantages of hydrogen,25,10,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+42,Understanding the social disadvantages of hydrogen,25,10,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+43,Understanding of combined-cycle power generation,462,173,74,40,25,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+44,Understanding of hydrogen blending in power generation,68,24,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+45,Understanding the operational implications of hydrogen blending in combined-cycle power generation,69,24,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+46,Understanding the environmental impacts of hydrogen blending in power generation,70,24,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+47,Knowledge of appropriate materials for hydrogen systems,195,68,28,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+48,Knowledge of appropriate seals for hydrogen systems,124,42,17,9,8,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+49,Knowledge of appropriate coatings for hydrogen systems,161,55,22,13,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+50,Appropriate selection of pressure vessels for hydrogen fueling,142,46,19,11,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+51,Appropriate selection of piping systems and fittings for hydrogen fueling,117,39,15,8,7,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+52,Appropriate selection of valves and seals for hydrogen fueling systems,127,43,17,9,8,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+53,Appropriate selection of coatings and insulation for hydrogen fueling systems,156,54,22,13,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+54,Maintenance of pressure vessels in hydrogen fueling systems,278,96,41,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+55,"Maintenance of piping systems, valves, and fittings in hydrogen fueling systems",285,98,42,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+56,Maintenance of coatings and insulation in hydrogen fueling systems,156,54,22,13,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+57,Knowledge of materials to protect from hydrogen corrosion,154,52,21,13,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+58,Knowledge of coatings to protect from hydrogen corrosion,159,55,22,13,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+59,Knowledge of inhibitors to protect from hydrogen corrosion,155,53,21,13,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+60,Correct application techniques for corrosion protection,149,50,20,12,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+61,Understanding general safety protocols for working with hydrogen,36,14,5,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+62,Understanding safety measures in hazardous areas involving hydrogen,35,14,5,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+63,Understanding personal protective equipment (PPE) requirements for hydrogen work,213,73,31,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+64,Understanding safety in handling and storage of hydrogen,34,14,5,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+65,Knowledge of control systems in electrolyzer hydrogen production plants,191,67,27,17,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+66,Knowledge of advanced control systems for process optimization,177,61,25,15,11,6,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+67,Knowledge of monitoring systems for electrolyzer hydrogen production plants,191,67,27,17,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+68,Understanding of safety protocols in electrolyzer control systems,394,139,59,33,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+69,Understanding the use of odorants for hydrogen leak detection,235,81,33,20,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+70,Selection of appropriate odorants for hydrogen systems,94,30,10,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+71,Understanding safety considerations when using odorants in hydrogen systems,96,30,10,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+72,Understanding leak detection techniques involving odorants,236,81,33,20,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+73,Appropriate selection of materials to withstand hydrogen pressure,133,45,18,10,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+74,Appropriate selection of materials to withstand hydrogen temperatures,134,45,18,10,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+75,Selection of equipment designed to withstand hydrogen pressure,135,45,18,10,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+76,Selection of equipment designed to withstand hydrogen temperatures,136,45,18,10,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+77,Maintenance of materials and equipment used in high-pressure hydrogen systems,272,94,40,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+78,Maintenance of materials and equipment used in high-temperature hydrogen systems,272,94,40,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+79,Understanding electrochemical reactions in PEM electrolyzers,384,136,57,32,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+80,Understanding the process of hydrogen production using PEM electrolyzers,380,135,57,32,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+81,Knowledge of key components in PEM electrolyzers,383,136,57,32,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+82,Understanding process optimization for hydrogen production in PEM electrolyzers,380,135,57,32,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+83,Understanding the properties and characteristics of hydrogen in a gaseous state,12,5,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+84,Understanding the properties and characteristics of hydrogen in a liquid state,14,5,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+85,Comparing the properties of gaseous vs. liquid hydrogen,15,5,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+86,Understanding the behavior of hydrogen under different temperature and pressure conditions,130,44,18,10,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+87,Understanding of combined-cycle power generation,462,173,74,40,25,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+88,Understanding the principles of hydrogen-blending in power generation,68,24,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+89,Understanding operational adjustments needed for hydrogen-blending,91,29,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+90,Understanding the environmental and regulatory aspects of hydrogen-blending,92,29,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+91,Advanced understanding of general safety protocols for hydrogen,36,14,5,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+92,Advanced understanding of safety measures in hazardous hydrogen areas,35,14,5,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+93,Advanced understanding of personal protective equipment (PPE) for hydrogen environments,213,73,31,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+94,Advanced understanding of safety in handling and storage of hydrogen,34,14,5,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+95,Understanding the principles of hydrogen compression,103,33,12,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+96,Knowledge of various hydrogen compression technologies,105,33,12,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+97,Understanding the role of compression in hydrogen storage,103,33,12,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+98,Knowledge of safety considerations in hydrogen compression processes,107,33,12,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+99,Selection of materials for hydrogen blending,86,27,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+100,Selection of coatings for hydrogen blending,85,27,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+101,Selection of odorants for hydrogen blending,95,30,10,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+102,Selection of inhibitors for hydrogen blending,93,29,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+103,Understanding how materials behave under high pressure hydrogen conditions,131,44,18,10,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+104,Understanding the impact of high pressure on material integrity,378,133,56,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+105,Understanding the risk of hydrogen embrittlement in high pressure environments,128,44,18,10,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+106,Understanding safety protocols related to material behavior in high pressure hydrogen environments,129,44,18,10,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+107,Maintenance of ventilation systems for hydrogen blending,100,32,11,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+108,Maintenance of leak detection systems for hydrogen blending,232,80,33,20,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+109,Maintenance of flame detection systems for hydrogen blending,99,31,11,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+110,Maintenance of corrosion prevention equipment and systems,150,51,20,12,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+111,Knowledge of fuel cell technology,412,146,61,35,21,13,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+112,Knowledge of different types of fuel cells,409,146,61,35,21,13,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+113,Understanding of fuel cell components and processes,406,145,61,35,21,13,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+114,Understanding of hydro-electric power trains,463,174,74,40,25,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+115,Appropriate selection and design of electrolyzers for hydrogen pressure and temperatures,190,66,27,17,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+116,Appropriate selection and design of pressure vessels to withstand hydrogen pressure and temperatures,143,47,19,11,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+117,Appropriate selection and design of compressors to withstand hydrogen pressure and temperatures,113,36,13,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+118,Appropriate selection and design of piping systems and fittings to withstand hydrogen pressure and temperatures,117,39,15,8,7,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+119,Appropriate selection and design of valves and seals to withstand hydrogen pressure and temperatures,126,43,17,9,8,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+120,"Maintenance of electrolyzers, vessels, compressors, piping systems, valves, and seals to withstand hydrogen pressure and temperatures",283,97,42,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+121,Management of hydrogen fueling stations,185,64,26,16,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+122,Maintenance of hydrogen fueling station equipment,184,64,26,16,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+123,Continuous improvement of hydrogen fueling station operations,185,64,26,16,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+124,Maintenance and management of mobile hydrogen fueling systems,186,64,26,16,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+125,Understanding the principles of hydrogen blending for heating,89,28,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+126,Understanding the impact of hydrogen blending on heating systems,89,28,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+127,Understanding safety considerations for hydrogen blending in heating systems,90,28,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+128,Understanding efficiency and performance factors when using hydrogen blending for heating,89,28,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+129,Understanding of coatings effective against hydrogen corrosion,159,55,22,13,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+130,Understanding of coatings effective against hydrogen embrittlement,162,55,22,13,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+131,Knowledge of correct application techniques for protective coatings,147,49,20,12,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+132,Knowledge of maintaining coatings to ensure long-term protection,148,49,20,12,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+133,Understanding of hydrogen technologies,199,69,28,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+134,Understanding the cost aspects of hydrogen technologies,200,69,28,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+135,Understanding the carbon impact of hydrogen technologies,28,11,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+136,"Evaluating project feasibility against commercial, technical, and non-technical requirements",440,161,67,37,23,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+137,Knowledge of relevant codes for hydrogen fueling station equipment,55,20,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+138,Knowledge of industry standard processes for hydrogen fueling stations,46,16,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+139,Knowledge of hydrogen production technology,201,69,28,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+140,Knowledge of distribution systems for hydrogen,59,22,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+141,Knowledge of hydrogen dispensing systems,211,72,30,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+142,Understanding how to match hydrogen technology with the needs of different fleets,63,22,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+143,Process engineering skills specific to hydrogen,221,76,31,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+144,Conducting hazard risk analysis and reviews,435,158,66,37,23,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+145,Mechanical integrity analysis for hydrogen systems,275,94,40,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+146,Instrumented system analysis for hydrogen processes,242,83,34,21,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+147,Conducting operation readiness inspections,433,156,66,37,23,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+148,Knowledge of compression equipment for hydrogen blending,83,26,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+149,Knowledge of turbine systems used in hydrogen blending,78,26,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+150,Knowledge of combustion systems in hydrogen blending,98,31,11,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+151,Understanding of other relevant equipment for hydrogen blending,87,27,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+152,Assess integrity of vessels and tanks for hydrogen pressure and temperatures,277,95,41,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+153,Assess integrity of piping systems and fittings,118,40,16,8,7,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+154,Assess integrity of valves and seals,123,41,17,9,8,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+155,Conducting comprehensive integrity assessments,434,157,66,37,23,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+156,Maintenance of vessels for hydrogen pressure and temperatures,276,95,41,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+157,Maintenance of compressors for hydrogen systems,114,37,14,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+158,Maintenance of turbines in hydrogen systems,257,91,38,23,14,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+159,"Maintenance of piping systems, fittings, valves, and seals",422,151,63,36,22,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+160,Advanced knowledge of hydrogen chemical and physical properties,197,68,28,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+161,Advanced understanding of hydrogen behavior,11,4,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+162,Advanced understanding of potential hazards created by hydrogen,32,13,5,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+163,Develop a business case for hydrogen projects,30,12,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+164,Presenting business cases to relevant stakeholders,441,162,67,37,23,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+165,Understanding of hydrogen-related regulations,51,19,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+166,Understanding industry standards for hydrogen,44,16,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+167,Understanding of codes related to hydrogen systems,53,20,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+168,Knowledge of appropriate materials for hydrogen blending,86,27,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+169,Knowledge of seals compatible with hydrogen blending,125,42,17,9,8,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+170,Knowledge of coatings effective for hydrogen blending,85,27,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+171,Appropriate selection and design of ventilation systems for hydrogen blending,100,32,11,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+172,Appropriate selection and design of leak detection systems,237,82,33,20,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+173,Appropriate selection and design of flame detection systems,456,170,72,39,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+174,Selection and modification of corrosion prevention systems,151,51,20,12,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+175,Understanding the value proposition of hydrogen technologies related to ESG factors,16,6,3,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+176,Measuring environmental impacts of hydrogen technologies,29,11,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+177,Measuring social and governance impacts of hydrogen technologies,31,12,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+178,Appropriate selection of electrical equipment for pipeline transmission of gaseous hydrogen,243,84,35,21,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+179,Selection of instrumentation systems for hydrogen pipelines,245,85,35,21,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+180,Maintenance of electrical equipment for hydrogen transmission,268,93,40,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+181,Maintenance of instrumentation systems for hydrogen transmission,265,93,40,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+182,Advanced knowledge of current hydrogen regulatory systems,49,17,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+183,Advanced knowledge of evolving standards in hydrogen industry,45,16,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+184,Advanced understanding of policy developments in hydrogen,50,18,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+185,Knowledge of fuel cell technology for FCEV drivers,414,146,61,35,21,13,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+186,Ability to inspect FCEV vehicles,458,171,72,39,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+187,Conducting basic maintenance on FCEVs,443,163,68,38,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+188,Conducting hydrogen refueling for FCEVs,179,62,26,16,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+189,Understanding of relevant hydrogen regulations,51,19,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+190,Understanding of industry standards for hydrogen,44,16,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+191,Knowledge of relevant codes applicable to hydrogen,54,20,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+192,Understanding the hydrogen production process using PEM electrolyzers,380,135,57,32,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+193,Knowledge of key components in PEM electrolyzers,383,136,57,32,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+194,Knowledge of process optimization techniques in PEM electrolyzers,385,136,57,32,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+195,Knowledge of fuel cell technology,412,146,61,35,21,13,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+196,Ability to inspect fuel cell vehicles,459,171,72,39,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+197,Conducting basic maintenance on fuel cell vehicles,455,169,71,39,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+198,Conduct techno-economic analysis,438,160,67,37,23,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+199,Compile and present reports based on techno-economic analysis,439,160,67,37,23,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+200,Selection of key electrical equipment for power generation using hydrogen blending,76,25,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+201,Selection of electronic systems for hydrogen blending power generation,77,25,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+202,Maintenance of electrical equipment for hydrogen blending power generation,73,25,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+203,Maintenance of electronic systems in hydrogen blending power generation,73,25,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+204,Understanding the hydrogen gas production value chain,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+205,Understanding the hydrogen distribution value chain,5,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+206,Understanding the hydrogen storage value chain,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+207,Knowledge of end-use applications within the hydrogen value chain,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+208,Understanding fueling standards for hydrogen products,47,16,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+209,Knowledge of certification requirements for hydrogen products,48,16,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+210,Understanding hydrogen properties,10,4,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+211,Understanding the behavior of hydrogen,11,4,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+212,Knowledge of potential hazards created by hydrogen,32,13,5,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+213,Design and selection of pressure vessels for hydrogen systems,142,46,19,11,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+214,Design and selection of piping systems and fittings,119,40,16,8,7,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+215,Design and selection of valves and seals,121,41,17,9,8,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+216,Design and selection of coatings for protection against hydrogen,160,55,22,13,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+217,Design and selection of insulation to withstand hydrogen conditions,158,54,22,13,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+218,Assess strength of welds in hydrogen systems,230,79,32,19,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+219,Assess integrity of welds under hydrogen pressure,229,79,32,19,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+220,Assess integrity of welds under hydrogen temperature conditions,229,79,32,19,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+221,Understanding of installation procedures unique to hydrogen,61,22,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+222,Comprehensive understanding of testing procedures due to hydrogen's nature,58,21,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+223,Selection and design of production equipment for hydrogen systems,216,75,31,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+224,Selection of materials for hydrogen production systems,217,75,31,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+225,Selection of protective coatings for hydrogen production,160,55,22,13,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+226,Maintenance of production equipment and materials,426,152,63,36,22,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+227,Selection of key electrical equipment for an electrolyzer hydrogen production plant,192,67,27,17,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+228,Selection of electronic systems for electrolyzer hydrogen production,194,67,27,17,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+229,Maintenance of electrical equipment in electrolyzer plants,399,141,59,33,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+230,Maintenance of electronic systems in electrolyzer plants,399,141,59,33,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+231,Understanding of EMC/EMI compliance requirements,444,164,69,38,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+232,Knowledge of standards for EMC/EMI in hydrogen systems,445,164,69,38,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+233,Experience with codes related to electrical systems in road vehicles,446,165,69,38,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+234,Experience with standards for electrical systems in road vehicles,447,165,69,38,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+235,Handling compliance issues in electrical systems for road vehicles,448,165,69,38,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+236,Staying current with advances in hydrogen technology,42,15,6,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+237,Keeping up-to-date with changes in hydrogen regulations,39,15,6,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+238,Keeping up-to-date with changes in hydrogen standards,39,15,6,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+239,Keeping up-to-date with changes in hydrogen codes,41,15,6,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+240,Understanding of high-power electrical equipment for hydrogen blending power generation,76,25,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+241,Knowledge of transformers used in hydrogen blending,80,26,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+242,Knowledge of substations in hydrogen blending power generation,71,24,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+243,Knowledge of capacitors used in hydrogen blending,88,27,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+244,Understanding welding procedures for hydrogen systems,227,78,32,19,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+245,Techniques for welding in hydrogen environments,227,78,32,19,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+246,Ensuring quality and safety of welds in hydrogen systems,231,79,32,19,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+247,Maintenance of pressure vessels in hydrogen fueling systems,278,96,41,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+248,Maintenance of vaporizers in hydrogen fueling systems,189,65,26,16,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+249,"Maintenance of flow, level, and pressure instrumentation",417,148,62,36,22,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+250,Maintenance of dispensers in hydrogen fueling systems,187,65,26,16,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+251,Maintenance of pumps in hydrogen fueling systems,279,96,41,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+252,Maintenance of PLCs and control software,419,149,63,36,22,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+253,Maintenance of Human Machine Interface (HMI) systems,420,150,63,36,22,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+254,Understanding of how hydrogen fuel cell technology works,408,145,61,35,21,13,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+255,Value proposition of hydrogen fuel cells for emissions targets,23,9,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+256,Value proposition of hydrogen fuel cells in terms of cost-effectiveness,24,9,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+257,Management of FCEV fleet for optimized safety and utilization,442,163,68,38,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+258,Maintenance of FCEV fleet to ensure safety and cost savings,442,163,68,38,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+259,Continuous improvement of fleet operations for cost savings and efficiency,451,167,70,39,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+260,Strong industry knowledge of hydrogen technologies,201,69,28,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+261,Experience with hydrogen production and handling processes,222,76,31,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+262,Knowledge of selecting and maintaining equipment to withstand hydrogen conditions,137,45,18,10,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+263,Knowledge of selecting materials that can withstand hydrogen pressure and temperatures,132,45,18,10,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+264,Selection and design of steam and combustion turbines for hydrogen systems,263,92,39,23,14,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+265,Selection and design of compressors to withstand hydrogen pressure and temperatures,113,36,13,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+266,Selection and design of pressure vessels,145,48,19,11,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+267,Selection and design of valves,122,41,17,9,8,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+268,Selection and design of steam generators and boilers,460,172,73,40,25,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+269,Selection and design of pumps,249,87,36,22,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+270,Selection and design of piping systems and BOP equipment,120,40,16,8,7,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+271,"Maintenance of turbines, compressors, vessels, boilers, pumps, piping, and BOP equipment",424,152,63,36,22,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+272,Understanding and application of eco-driving techniques,402,142,60,34,20,12,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+273,Understanding the impact of eco-driving on fleet sustainability,405,144,60,34,20,12,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+274,Techniques to optimize fuel consumption,450,166,70,39,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+275,Achieving cost savings through eco-driving,403,143,60,34,20,12,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+276,Understanding the hydrogen production value chain,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+277,Knowledge of the distribution aspect of the hydrogen value chain,5,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+278,Knowledge of the storage aspect of the hydrogen value chain,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+279,Knowledge of end-use applications in the hydrogen value chain,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+280,Understanding the principles of fuel cell technology,407,145,61,35,21,13,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+281,Knowledge of key components in fuel cells,410,146,61,35,21,13,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+282,Knowledge of the processes within fuel cells,411,146,61,35,21,13,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+283,Knowledge of pros and cons of various fuel cell technologies,413,146,61,35,21,13,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+284,Knowledge of electrical equipment used in hydrogen fueling systems,219,75,31,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+285,Knowledge of instrumentation systems for hydrogen fueling,238,83,34,21,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+286,Integration of electrical and instrumentation systems in fueling operations,454,168,71,39,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+287,Maintenance of electrical and instrumentation systems in hydrogen fueling,266,93,40,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+288,Understanding practices to mitigate hydrogen corrosion,224,77,31,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+289,Knowledge of technologies used to prevent hydrogen embrittlement,202,69,28,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+290,Selection of equipment resistant to hydrogen-induced degradation,226,77,31,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+291,Implementation of monitoring systems for corrosion and embrittlement,152,51,20,12,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+292,Knowledge of key instrumentation systems for electrolyzers,388,138,59,33,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+293,Knowledge of key electrical equipment in electrolyzer hydrogen production,192,67,27,17,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+294,Integration of instrumentation and electrical systems in electrolyzer operations,390,138,59,33,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+295,Maintenance of instrumentation and electrical systems in electrolyzers,391,138,59,33,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+296,Selection and design of vessels to withstand high hydrogen pressure,143,47,19,11,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+297,Selection and design of compressors for high-pressure hydrogen systems,112,36,13,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+298,Selection and design of piping systems and fittings for high-pressure hydrogen,117,39,15,8,7,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+299,Selection and design of valves and seals to withstand high hydrogen pressure,126,43,17,9,8,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+300,Knowledge of key instrumentation for ventilation systems in hydrogen blending,101,32,11,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+301,Knowledge of electrical systems used for leak detection in hydrogen blending,232,80,33,20,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+302,Knowledge of instrumentation and controls for flame detection,457,170,72,39,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+303,Understanding of instrumentation and electrical controls for corrosion prevention,153,51,20,12,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+304,Selection and design of combustion systems for hydrogen environments,97,31,11,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+305,Selection and design of compression systems for high/low hydrogen pressure,110,34,12,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+306,Selection and design of pumping systems for hot/cold hydrogen environments,248,86,36,22,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+307,Selection and design of turbines to withstand hydrogen conditions,260,92,39,23,14,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+308,Maintenance of key systems to withstand hydrogen pressure and temperatures,270,94,40,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+309,Knowledge of measurement equipment for hydrogen transmission,239,83,34,21,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+310,Knowledge of instrumentation systems in hydrogen transmission,238,83,34,21,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+311,Knowledge of cathodic protection equipment to prevent hydrogen corrosion,214,74,31,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+312,Techniques for implementing cathodic protection in hydrogen systems,215,74,31,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+313,Selection and design of hydrogen fuel tanks to withstand pressure,141,46,19,11,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+314,Selection and design of piping systems and fittings for hydrogen,117,39,15,8,7,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+315,Selection and design of valves and seals for hydrogen systems,127,43,17,9,8,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+316,"Maintenance of fuel tanks, piping, valves, and seals in hydrogen systems",281,97,42,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+317,Selection of key instrumentation equipment for electrolyzer hydrogen production,193,67,27,17,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+318,Integration of key instrumentation systems in electrolyzer operations,389,138,59,33,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+319,Maintenance of instrumentation systems in electrolyzer hydrogen production,267,93,40,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+320,Understanding of automated process systems in electrolyzer operations,392,139,59,33,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+321,Understanding of control systems for electrolyzers,395,139,59,33,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+322,Integration of automated and control systems in electrolyzer operations,393,139,59,33,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+323,Understanding and application of eco-driving techniques,402,142,60,34,20,12,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+324,Techniques to reduce environmental impact through eco-driving,404,144,60,34,20,12,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+325,Optimizing fuel consumption in vehicle operations,449,166,70,39,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+326,Achieving cost savings through eco-driving practices,403,143,60,34,20,12,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+327,Troubleshooting hydrogen fuel compression equipment,181,63,26,16,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+328,Troubleshooting hydrogen fuel dispensing equipment,182,63,26,16,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+329,Performing routine maintenance on hydrogen compression equipment,116,38,14,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+330,Performing routine maintenance on hydrogen dispensing equipment,188,65,26,16,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+331,Selection and design of electrolyzers to withstand hydrogen pressure and temperatures,190,66,27,17,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+332,Selection and design of vessels for high/low hydrogen pressure and hot/cold temperatures,144,47,19,11,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+333,Selection and design of piping systems and fittings for hydrogen conditions,117,39,15,8,7,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+334,Selection and design of valves and seals for hydrogen conditions,127,43,17,9,8,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+335,Maintenance of key hydrogen systems to ensure reliability under varying conditions,271,94,40,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+336,Selection of pressure vessels for hydrogen fueling systems,142,46,19,11,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+337,Selection of compression systems for hydrogen fueling,108,34,12,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+338,Selection of instrumentation and controls for fueling operations,452,168,71,39,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+339,Maintenance of pressure vessels in fueling operations,280,96,41,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+340,Maintenance of compression systems in hydrogen fueling,115,38,14,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+341,Maintenance of instrumentation and control systems in fueling operations,453,168,71,39,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+342,Procedures for tracing hydrogen leaks,233,80,33,20,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+343,Methods for locating hydrogen leaks,233,80,33,20,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+344,Techniques for repairing hydrogen leaks,234,80,33,20,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+345,Understanding and application of eco-driving techniques,402,142,60,34,20,12,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+346,Techniques to reduce environmental impact through eco-driving,404,144,60,34,20,12,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+347,Optimizing fuel consumption in vehicle operations,449,166,70,39,24,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+348,Achieving cost savings through eco-driving practices,403,143,60,34,20,12,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+349,Maintenance of vessels to withstand hydrogen pressure and temperatures,276,95,41,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+350,Maintenance of compressors for hydrogen conditions,114,37,14,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+351,Maintenance of piping systems and fittings under hydrogen conditions,285,98,42,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+352,Maintenance of valves and seals in hydrogen systems,282,97,42,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+353,Knowledge of basic control systems for combined-cycle power generation using hydrogen blending,64,23,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+354,Knowledge of advanced control systems for combined-cycle power generation using hydrogen,64,23,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+355,Knowledge of high-power electrical equipment in renewable electricity powered electrolyzers,396,140,59,33,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+356,Understanding interconnection applications in renewable energy powered electrolyzers,398,140,59,33,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+357,Selection and design of compression systems for hydrogen blending,83,26,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+358,Selection and design of turbines for hydrogen blending,79,26,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+359,Selection and design of combustion systems for hydrogen blending,98,31,11,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+360,Selection and design of valves and fittings for hydrogen blending,81,26,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+361,Selection and design of piping systems for hydrogen blending,82,26,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+362,"Maintenance of compression, turbines, combustion, and related systems for hydrogen blending",84,26,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+363,Selection and design of hydrogen fuel tanks to withstand pressure and temperature variations,141,46,19,11,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+364,Selection and design of piping systems and fittings for hydrogen,117,39,15,8,7,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+365,Selection and design of valves and seals to withstand hydrogen conditions,127,43,17,9,8,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+366,"Maintenance of fuel tanks, piping, valves, and seals in hydrogen systems",281,97,42,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+367,Maintenance of PEM electrolyzers,381,136,57,32,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+368,Maintenance of systems supporting PEM electrolyzers,381,136,57,32,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+369,Regular inspection and troubleshooting of PEM electrolyzer systems,382,136,57,32,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+370,Selection and design of hydrogen compression systems,108,34,12,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+371,Selection and design of turbines for hydrogen environments,260,92,39,23,14,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+372,Maintenance of hydrogen compression systems,115,38,14,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+373,Maintenance of turbines in hydrogen environments,257,91,38,23,14,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+374,Selection of key instrumentation equipment for power generation using hydrogen blending,74,25,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+375,Calibration of instrumentation systems for hydrogen blending,240,83,34,21,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+376,Maintenance of instrumentation in hydrogen blending power generation,75,25,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+377,Understanding the hydrogen production value chain,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+378,Understanding distribution and logistics in the hydrogen value chain,6,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+379,Understanding the role of storage in the hydrogen value chain,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+380,Understanding end-use applications in the hydrogen value chain,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+381,Understanding of hydrogen production technology,199,69,28,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+382,Understanding of distribution technology for hydrogen,60,22,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+383,Understanding of dispensing technology for hydrogen,210,72,30,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+384,Understanding of cryogenic hydrogen storage systems,207,71,29,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+385,Knowledge of gaseous hydrogen storage systems,206,70,29,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+386,Knowledge of delivery systems for cryogenic and gaseous hydrogen,208,71,29,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+387,Understanding of high-power electrical equipment in electrolyzer systems,400,141,59,33,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+388,Knowledge of integrating high-power electrical equipment with electrolyzers,397,140,59,33,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+389,Maintenance of high-power electrical equipment in electrolyzer systems,401,141,59,33,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+390,Understanding of the combined-cycle power generation process using hydrogen blending,69,24,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+391,Knowledge of hydrogen's role in combined-cycle power generation,66,23,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+392,Knowledge of operational adjustments for hydrogen blending,91,29,9,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+393,Knowledge of environmental laws related to hydrogen,52,19,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+394,Understanding regulations for hydrogen infrastructure and operations,51,19,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+395,Understanding best environmental practices in hydrogen operations,225,77,31,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+396,Understanding of automated process systems in power generation using hydrogen blending,67,24,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+397,Knowledge of control systems for hydrogen blending in power generation,65,23,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+398,Integration of automated systems in hydrogen blending power generation,67,24,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+399,Understanding acceptance criteria for hydrogen infrastructure,62,22,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+400,Knowledge of compliance testing in hydrogen infrastructure,56,21,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+401,Understanding materials testing protocols for hydrogen infrastructure,57,21,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+402,Advanced knowledge of regulatory systems governing hydrogen,49,17,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+403,In-depth knowledge of standards for hydrogen infrastructure and operations,45,16,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+404,Understanding advanced policy considerations for hydrogen,50,18,7,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+405,Understanding material rules for compatibility with hydrogen,198,68,28,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+406,Understanding welding processes that are compatible with hydrogen,228,78,32,19,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+407,Understanding the procedures necessary for welding in hydrogen environments,227,78,32,19,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+408,Selection of compression systems to withstand hydrogen pressure,109,34,12,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+409,Selection of turbines that are compatible with hydrogen pressure,262,92,39,23,14,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+410,Maintenance of compression systems under hydrogen pressure,115,38,14,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+411,Maintenance of turbines to ensure reliability under hydrogen pressure,258,91,38,23,14,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+412,Optimization of rectification systems for electrolyzer plants,386,137,58,33,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+413,Knowledge of rectification technology for electrolyzer plants,386,137,58,33,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+414,Integration of optimized rectification systems in plant operations,387,137,58,33,19,11,9,8,5,4,3,3,2,2,2,2,2,2,2,1
+415,Staying informed about updates in hydrogen technology,43,15,6,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+416,"Keeping current with regulatory, standard, and code changes in the hydrogen sector",40,15,6,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+417,Assessing the impact of changes in technology and regulations on safety requirements,436,158,66,37,23,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+418,Maintenance of mechanical systems under hydrogen pressure,273,94,40,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+419,Maintenance of mechanical systems to withstand temperature variations in hydrogen environments,274,94,40,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+420,Selection of electrical equipment suitable for hydrogen environments,220,75,31,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+421,Maintenance of electrical systems in hydrogen production and storage environments,269,93,40,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+422,Calibration and testing of instrumentation systems for hydrogen processes,241,83,34,21,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+423,Selection and design of air separation units for hydrogen pressure and temperature variations,102,32,11,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+424,Selection and design of vessels for hydrogen pressure and temperature variations,144,47,19,11,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+425,Selection and design of piping systems and fittings for hydrogen conditions,117,39,15,8,7,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+426,Selection and design of valves and seals to withstand hydrogen pressure and temperatures,126,43,17,9,8,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+427,"Maintenance of air separation units, vessels, piping systems, valves, and seals",423,151,63,36,22,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+428,Knowledge of instrumentation systems for CO2 pipeline transmission,316,108,46,26,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+429,Knowledge of electrical systems required for CO2 pipeline transmission,317,108,46,26,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+430,Knowledge of systems for CO2 compression and liquefaction,373,131,55,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+431,Understanding the physical properties of CO2 in its gaseous state,363,126,52,30,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+432,Understanding the physical properties of CO2 in its liquid state,359,125,52,30,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+433,Knowledge of CO2 behavior in different states,361,126,52,30,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+434,Selection of key electrical equipment for carbon capture technology,308,107,45,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+435,Maintenance of electrical systems in carbon capture plants,307,106,45,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+436,Integration of electrical systems within carbon capture technology,310,107,45,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+437,Selection of materials for CO2 pump facility equipment,334,115,47,27,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+438,Selection of coatings for corrosion protection in CO2 pump systems,319,109,47,27,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+439,Selection of seals for CO2 pump systems to ensure system integrity,325,112,47,27,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+440,Selection and design of vessels to withstand hydrogen pressure and temperature variations,143,47,19,11,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+441,Selection and design of compressors to handle hydrogen pressure and temperature extremes,113,36,13,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+442,Selection and design of piping systems and fittings for hydrogen conditions,117,39,15,8,7,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+443,Selection and design of valves and seals to maintain integrity under hydrogen conditions,127,43,17,9,8,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+444,"Maintenance of vessels, compressors, piping systems, valves, and seals to ensure reliability under hydrogen conditions",283,97,42,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+445,Maintenance of equipment in Steam Methane Reforming (SMR) hydrogen production,163,56,23,14,11,6,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+446,Maintenance of equipment in Autothermal Reforming (ATR) hydrogen production,165,57,23,14,11,6,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+447,Understanding of Steam Methane Reforming (SMR) process for hydrogen production,163,56,23,14,11,6,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+448,Understanding of Autothermal Reforming (ATR) process for hydrogen production,164,57,23,14,11,6,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+449,Understanding of the properties of CO2 in a gaseous state,363,126,52,30,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+450,Understanding the behavior of CO2 under different conditions in a gaseous state,364,126,52,30,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+451,Understanding of automated process systems used in carbon capture,292,101,44,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+452,Knowledge of control systems specific to carbon capture processes,294,102,44,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+453,Keep up-to-date with advancements in CO2 storage technology,343,118,49,28,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+454,Stay informed on CO2 monitoring techniques and options,338,116,48,28,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+455,Understanding of CO2 properties and behavior in various states,362,126,52,30,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+456,Identification of potential hazards related to CO2,369,128,54,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+457,Selection of key instrumentation equipment for carbon capture technology,300,104,45,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+458,Maintenance of key instrumentation systems in carbon capture plants,302,104,45,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+459,Understanding the principles of CO2 compression,372,130,55,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+460,Application of CO2 compression techniques in industrial settings,330,114,47,27,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+461,Understanding the components of hydrogen gas value-chains,7,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+462,Analyzing the economic impact of hydrogen value-chains,4,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+463,Understanding carbon capture processes,290,100,44,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+464,Understanding separation and purification techniques in carbon capture,291,100,44,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+465,Understanding liquefaction processes in carbon capture,287,99,43,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+466,Selection and design of electrolyzers to withstand hydrogen pressure and temperature variations,190,66,27,17,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+467,Selection and design of vessels for hydrogen pressure and temperature variations,144,47,19,11,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+468,Selection and design of compressors for hydrogen environments,112,36,13,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+469,Selection and design of piping systems and fittings for hydrogen conditions,117,39,15,8,7,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+470,Selection and design of valves and seals to withstand hydrogen pressure and temperatures,126,43,17,9,8,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+471,"Maintenance of electrolyzers, vessels, compressors, piping systems, valves, and seals",284,97,42,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+472,Understanding hydrogen's chemical properties,10,4,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+473,Knowledge of hydrogen's interaction with other materials,196,68,28,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+474,Understanding hydrogen's property risks including flammability and explosive hazards,33,13,5,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+475,Knowledge of how CO2 interacts with different materials under high pressure,376,132,56,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+476,Understanding the impact of high-pressure CO2 on material durability and integrity,377,132,56,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+477,Understanding of automated process systems in CO2 pipeline transmission,293,101,44,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+478,Knowledge of control systems for CO2 pipeline transmission,318,108,46,26,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+479,Understanding of carbon capture process,290,100,44,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+480,Selection of CO2 sensors for monitoring equipment and systems,335,116,48,28,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+481,Maintenance of CO2 sensors and monitoring equipment,336,116,48,28,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+482,Keep up-to-date with changes to CCS technology,430,154,65,37,23,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+483,"Stay informed about changes to CCS regulations, standards, and codes",431,154,65,37,23,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+484,Selection of power generation equipment for hydrogen blending,76,25,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+485,Design of power generation systems for hydrogen blending,77,25,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+486,Maintenance of power generation systems for hydrogen blending,73,25,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+487,Selection and design of vessels for hydrogen pressure and temperature variations,144,47,19,11,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+488,Selection and design of compressors to withstand hydrogen pressure and temperatures,113,36,13,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+489,Selection and design of piping systems and fittings for hydrogen conditions,117,39,15,8,7,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+490,Selection and design of valves and seals for hydrogen conditions,127,43,17,9,8,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+491,"Maintenance of vessels, compressors, piping systems, valves, and seals",421,151,63,36,22,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+492,"Understanding the interactions between hydrogen, water, and minerals",8,3,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+493,Application of modeling techniques to predict hydrogen-water-mineral interactions,9,3,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+494,Understanding long-term regulatory environment and its impact on well design,415,147,62,36,22,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+495,Selection of materials for well design considering CO2 injection properties and potential corrosive elements,352,121,51,29,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+496,Design considerations for well based on changes in CO2 pressure over its lifetime,353,121,51,29,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+497,Understanding of CO2 compression processes,372,130,55,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+498,Understanding of CO2 liquification processes,374,131,55,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+499,Stay up to date on hydrogen storage technologies,203,70,29,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+500,Stay up to date on monitoring options for hydrogen storage,204,70,29,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+501,Understanding the components of CO2 value-chains,365,127,53,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+502,Application of CO2 value-chain knowledge in the industry,367,127,53,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+503,Selection of electrical and electronic equipment for SMR and/or ATR hydrogen production,171,59,24,15,11,6,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+504,Maintenance of electrical and electronic systems in SMR and/or ATR hydrogen production,172,59,24,15,11,6,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+505,Knowledge of well completion solutions tailored for hydrogen environments,254,90,37,22,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+506,Application of well completion techniques to ensure safe hydrogen extraction,255,90,37,22,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+507,Selection and design of combustion systems to withstand hydrogen pressure and temperatures,97,31,11,6,5,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+508,Selection and design of compression systems for hydrogen pressure and temperature variations,110,34,12,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+509,Selection and design of pumping systems for hydrogen environments,248,86,36,22,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+510,Selection and design of turbine systems to withstand hydrogen pressure and temperatures,261,92,39,23,14,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+511,"Maintenance of combustion, compression, pumping, and turbine systems to ensure reliability under hydrogen conditions",259,91,38,23,14,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+512,Understanding reservoir geochemistry related to CO2-water-mineral interactions,348,119,50,29,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+513,Modeling CO2-water-mineral interactions in reservoirs,349,119,50,29,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+514,Understanding CO2 compression properties,372,130,55,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+515,Understanding CO2 compression processes,372,130,55,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+516,Migration modeling for CO2 storage,346,118,49,28,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+517,Zone selection for CO2 storage,347,118,49,28,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+518,Storage design for CO2,344,118,49,28,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+519,Selection of key instrumentation for SMR and/or ATR hydrogen production plant,169,59,24,15,11,6,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+520,Maintenance of instrumentation systems in SMR and/or ATR hydrogen production plant,170,59,24,15,11,6,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+521,Understanding materials behavior in liquid CO2,360,125,52,30,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+522,Understanding materials behavior in high-pressure CO2,375,132,56,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+523,Understanding materials behavior in low-pressure CO2,375,132,56,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+524,Knowledge of stationary equipment required for pipeline transmission of liquid CO2,314,108,46,26,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+525,Knowledge of stationary equipment required for pipeline transmission of gaseous CO2,314,108,46,26,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+526,Knowledge of rotating equipment required for pipeline transmission of liquid CO2,315,108,46,26,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+527,Knowledge of rotating equipment required for pipeline transmission of gaseous CO2,315,108,46,26,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+528,Understanding of reservoir data for CO2 injection,351,120,50,29,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+529,Understanding of reservoir data for CO2 storage,351,120,50,29,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+530,Understanding of reservoir engineering fundamentals for CO2 injection,350,120,50,29,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+531,Understanding of well testing for CO2 injection,356,122,51,29,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+532,Understanding of pressure and rate transient analysis for CO2 injection,357,123,51,29,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+533,Understanding of fluid characterization for CO2 injection,358,124,51,29,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+534,Knowledge of materials suitable for withstanding hydrogen pressure and temperatures,132,45,18,10,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+535,Knowledge of equipment designed to withstand hydrogen pressure and temperatures,135,45,18,10,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+536,Knowledge of components that can endure hydrogen pressure and temperatures,138,45,18,10,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+537,Understanding of measurement equipment used in CO2 transmission,339,117,49,28,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+538,Understanding of instrumentation used in CO2 transmission,341,117,49,28,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+539,Selection and design of compression systems,111,35,12,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+540,Selection and design of pumping systems,249,87,36,22,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+541,Selection and design of turbine systems,264,92,39,23,14,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+542,"Maintenance of compression, pumping, and turbine systems",425,152,63,36,22,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+543,Understanding of carbon's physical and chemical properties,371,129,54,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+544,Awareness of potential hazards related to carbon,370,128,54,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+545,Selection of materials for CO2 pipelines,321,110,47,27,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+546,Application of coatings to protect CO2 pipelines,320,109,47,27,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+547,Selection and design of carbon capture equipment,311,107,45,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+548,Selection of materials for carbon capture systems,312,107,45,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+549,Application of coatings to protect carbon capture systems,313,107,45,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+550,Maintenance of carbon capture systems and materials,304,106,45,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+551,Understanding reservoir engineering fundamentals for CO2 injection,350,120,50,29,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+552,Understanding well testing and analysis for CO2 injection,356,122,51,29,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+553,Understanding pressure and rate transient analysis for CO2 injection,357,123,51,29,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+554,Understanding fluid characterization in CO2 injection contexts,358,124,51,29,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+555,Knowledge of material selection for CO2 environments,323,111,47,27,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+556,Knowledge of coating selection for CO2 environments,324,111,47,27,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+557,Understanding of the physical properties of CO2 in a liquid state,359,125,52,30,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+558,Understanding of the behavior of CO2 in a liquid state,359,125,52,30,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+559,PVT characterization specific to sequestered gas and liquid composition,464,175,75,41,25,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+560,Thermal/flow modeling for sequestered gas and liquid compositions,466,176,76,41,25,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+561,In-depth understanding of hydrogen safety legislation,37,14,5,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+562,Application of hydrogen safety codes and standards in operations,38,14,5,4,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+563,Understanding of regulations and standards specific to Carbon Capture and Storage (CCS),303,105,45,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+564,Application of CCS-related codes in project implementation,432,155,65,37,23,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+565,"Understanding of the CO2 value chain, including production, transportation, and storage",366,127,53,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+566,Application of CO2 value chain knowledge to optimize processes,368,127,53,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+567,Understanding control systems in carbon capture plants,295,102,44,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+568,Optimization of control systems for process efficiency in carbon capture,296,102,44,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+569,Maintenance of equipment in carbon capture plants,305,106,45,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+570,Monitoring and inspection of carbon capture systems for maintenance,306,106,45,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+571,PVT characterization specific to sequestered gas,464,175,75,41,25,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+572,Thermal and flow modeling for sequestered gas composition,466,176,76,41,25,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+573,Understanding of carbon capture and separation processes,291,100,44,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+574,Understanding of purification and liquefaction processes,289,99,43,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+575,Understanding of steam generation processes,461,172,73,40,25,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+576,Understanding of cavern engineering fundamentals for hydrogen injection,250,88,37,22,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+577,"Understanding of well testing, pressure and rate transient analysis",418,148,62,36,22,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+578,Understanding of fluid characterization in cavern environments,251,88,37,22,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+579,Understanding of well completion solutions for CO2 based on subsurface conditions,354,121,51,29,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+580,Understanding of long-term well integrity in CO2 environments,355,121,51,29,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+581,Understanding of hydrogen production process using Steam Methane Reforming (SMR),163,56,23,14,11,6,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+582,Understanding of hydrogen production process using Autothermal Reforming (ATR),164,57,23,14,11,6,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+583,Understanding of reservoir data interpretation for hydrogen injection,252,89,37,22,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+584,Understanding of reservoir data for hydrogen storage efficiency,253,89,37,22,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+585,Understanding of automated process systems for SMR/ATR,175,61,25,15,11,6,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+586,Knowledge of control systems for optimizing SMR/ATR processes,176,61,25,15,11,6,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+587,Understanding of electrical equipment required for pipeline transmission of CO2,317,108,46,26,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+588,Knowledge of instrumentation systems for monitoring CO2 pipeline transmission,316,108,46,26,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+589,Understanding of control systems used in SMR/ATR hydrogen production plants,166,58,24,15,11,6,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+590,Optimization of control systems in SMR/ATR hydrogen production processes,167,58,24,15,11,6,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+591,Selection and design of CO2 compression systems,330,114,47,27,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+592,Selection and design of turbine systems for CO2 environments,328,113,47,27,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+593,Maintenance of CO2 compression systems,331,114,47,27,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+594,Maintenance of turbine systems for CO2 environments,329,113,47,27,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+595,Selection and design of vessels for CO2 environments,146,48,19,11,9,4,4,3,3,2,1,1,1,1,1,1,1,1,1,1
+596,Selection and design of piping systems and fittings for CO2 environments,322,110,47,27,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+597,Selection and design of cryogenic systems for CO2 storage,345,118,49,28,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+598,Selection and design of valves and seals for CO2 environments,327,112,47,27,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+599,"Maintenance of vessels, piping systems, cryogenic systems, valves, and seals",421,151,63,36,22,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+600,Selection of appropriate materials for CO2 compression facility maintenance,332,115,47,27,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+601,Selection of appropriate coatings for CO2 compression facility maintenance,333,115,47,27,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+602,Selection of seals for CO2 compression facility maintenance,326,112,47,27,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+603,Understanding properties and characteristics of CO2 in a liquid state,359,125,52,30,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+604,Understanding properties and characteristics of CO2 in a gaseous state,363,126,52,30,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+605,Maintenance of vessels to withstand hydrogen pressure and temperatures,276,95,41,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+606,Maintenance of compressors to withstand hydrogen pressure and temperatures,114,37,14,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+607,Maintenance of piping systems and fittings under hydrogen conditions,285,98,42,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+608,Maintenance of valves and seals to withstand hydrogen pressure and temperatures,282,97,42,24,15,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+609,Maintenance of coatings and insulation to protect against hydrogen conditions,157,54,22,13,10,5,5,4,3,2,1,1,1,1,1,1,1,1,1,1
+610,Understanding of measurement equipment and instrumentation for carbon capture processes,297,103,45,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+611,Understanding of measurement equipment and instrumentation for carbon separation and purification,298,103,45,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+612,Understanding of measurement equipment and instrumentation for carbon liquefication,299,103,45,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+613,PVT characterization specific to sequestered CO2 composition,465,175,75,41,25,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+614,Thermal/flow modeling specific to sequestered CO2 composition,467,176,76,41,25,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+615,Understanding the properties and characteristics of CO2 in a gaseous state,363,126,52,30,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+616,Understanding the properties and characteristics of CO2 in a liquid state,359,125,52,30,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+617,"Understanding of current environmental policy and regulatory frameworks in Canada, USA, and internationally",427,153,64,37,23,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+618,"Understanding of evolving energy policy and regulatory frameworks in Canada, USA, and internationally",428,153,64,37,23,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+619,"Understanding of climate change policy and its influence on hydrogen regulations in Canada, USA, and internationally",429,153,64,37,23,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+620,"Understanding of the interplay between different policy areas (environmental, energy, climate change) and their impact on hydrogen",22,8,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+621,Maintenance of power generation equipment used in combined-cycle systems with hydrogen blending,72,25,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+622,Maintenance of systems for hydrogen blending in combined-cycle power generation,72,25,8,5,4,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1
+623,Stay up to date on CO2 monitoring technology,337,116,48,28,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+624,Stay up to date on CO2 monitoring options,337,116,48,28,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+625,Understanding measurement equipment for CO2 storage,340,117,49,28,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+626,Understanding instrumentation techniques for permanent CO2 storage,342,117,49,28,17,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+627,Knowledge of sustainability and ESG expectations,18,7,3,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+628,Understanding of climate issues and science related to hydrogen,20,8,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+629,Knowledge of climate targets and their implications for hydrogen,21,8,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+630,Understanding of hydrogen technologies in relation to ESG factors,16,6,3,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+631,Knowledge of the value proposition of hydrogen in the context of ESG,17,6,3,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+632,Well design based on understanding of hydrogen injection stream properties,256,90,37,22,13,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+633,Material choices based on understanding of potential corrosive elements,379,134,56,31,18,10,8,7,4,3,2,2,2,2,2,2,2,2,2,1
+634,Well design considerations based on regulatory environment and pressure changes over time,416,147,62,36,22,14,10,9,5,4,3,3,2,2,2,2,2,2,2,1
+635,Knowledge of key instrumentation associated with carbon capture,301,104,45,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+636,Knowledge of electrical equipment associated with carbon capture,309,107,45,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+637,"Knowledge of systems used in carbon separation, purification, and liquefaction processes",288,99,43,25,16,9,7,6,4,3,2,2,2,2,2,2,2,2,2,1
+638,Knowledge of key instrumentation associated with SMR and ATR production plants,173,60,25,15,11,6,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+639,Knowledge of electrical equipment associated with SMR and ATR production plants,174,60,25,15,11,6,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+640,Knowledge of systems used in SMR and ATR hydrogen production processes,168,58,24,15,11,6,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+641,Knowledge of hydrogen technologies,201,69,28,18,12,7,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+642,Understanding the environmental benefits of hydrogen technologies,27,11,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+643,Understanding the climate change implications of hydrogen technologies,19,8,4,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+644,Selection of compression systems to withstand hydrogen conditions,109,34,12,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+645,Design of compression systems to operate under hydrogen pressure and temperature,110,34,12,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+646,Selection of turbine systems suitable for hydrogen applications,261,92,39,23,14,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
+647,Maintenance of compression systems in hydrogen environments,115,38,14,7,6,3,3,3,3,2,1,1,1,1,1,1,1,1,1,1
+648,Maintenance of turbine systems to ensure reliability under hydrogen conditions,258,91,38,23,14,8,6,5,3,2,1,1,1,1,1,1,1,1,1,1
